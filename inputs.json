@@ -1,0 +1,29 @@
+[{
+    "muscle_groups":{
+        "Triceps":{
+        "reps":5,
+        "sets":10
+    }
+    }
+},
+
+{
+    "muscle_groups":{
+        "Biceps":{
+        "reps":10,
+        "sets":10
+    }
+    }
+
+},
+{
+    "muscle_groups":{
+        "Chest":{
+        "reps":10,
+        "sets":100
+    }
+    }
+}
+
+
+]
