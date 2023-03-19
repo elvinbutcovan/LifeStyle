@@ -44,13 +44,10 @@ class handler(BaseHTTPRequestHandler):
         print(post_body)
 
         args = json.loads(post_body, object_hook=lambda d: SimpleNamespace(**d)) # Convert body into object with addressable fields.
-        print(args)
 
         #repsonse
-        #message = model.do_model_stuff(model.supplyDataset())
-        #print(messageBuilder(message))
-        self.wfile.write(bytes("message", "utf8"))
-        #self.wfile.write(bytes(messageBuilder(message), "utf8"))
+        message = model.run_model(args)
+        self.wfile.write(bytes(messageBuilder(message), "utf8"))
 
 if __name__ == "__main__":
     with HTTPServer(('', 8000), handler) as server:

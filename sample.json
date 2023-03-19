@@ -1,9 +1,24 @@
 {
-  "muscle_groups":[
+  "muscleGroups":[
+    {
+      "muscleType": "Biceps",
+      "reps":5,
+      "weight":10
+    },
+    {
+      "muscleType": "Back",
+      "reps":20,
+      "weight":20
+    },
+    {
+      "muscleType": "Chest",
+      "reps":30,
+      "weight":100
+    },
     {
       "muscleType": "Triceps",
-      "reps":5,
-      "sets":10
+      "reps":30,
+      "weight":100
     }
   ]
 }

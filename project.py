@@ -7,20 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/11OXanEXH4gUdszws6VcrzL9k2-_exLeF
 """
 
-#!pip install Kaggle
-
-#!mkdir ~/.kaggle
-
-#!cp kaggle.json ~/.kaggle
-
-#!chmod 600 ~/.kaggle/kaggle.json
-
-#! kaggle datasets download 'joep89/weightlifting' -f weightlifting_721_workouts.csv
-
-#!pip install pyjanitor==0.23.1
-
-# Setting up google drive
-
 import pandas as pd
 import janitor
 from sklearn.metrics.pairwise import cosine_similarity
@@ -91,7 +77,7 @@ def extract_muscle_group(workout_name):
     else:
         return None
 
-def do_model_stuff(dataset):
+def do_model_stuff(dataset, apiArgs):
     # Apply the extract_muscle_group function to workout_name column
     dataset['muscle_group'] = dataset['workout_name'].apply(extract_muscle_group)
 
@@ -111,14 +97,22 @@ def do_model_stuff(dataset):
     dataset['muscle_group'] = dataset.apply(check_for_bicep, axis=1)
 
     # Ask the user for their preferred muscle groups, number of reps, and weight
-    pref_muscle_groups = input("Enter the muscle groups you want to train, separated by commas: ")
+    #pref_muscle_groups = input("Enter the muscle groups you want to train, separated by commas: ")
+
+    #for muscle in pref_muscle_groups.split(','):
+    #    preferences[muscle] = {'reps': int(input("Enter the number of reps you prefer for {}: ".format(muscle))),
+    #                           'weight': int(input("Enter the weight you prefer for {}: ".format(muscle)))}
+
     preferences = {}
-    for muscle in pref_muscle_groups.split(','):
-        preferences[muscle] = {'reps': int(input("Enter the number of reps you prefer for {}: ".format(muscle))),
-                               'weight': int(input("Enter the weight you prefer for {}: ".format(muscle)))}
+    muscleArr = []
+    for muscleNum in range(len(apiArgs.muscleGroups)):
+        preferences[apiArgs.muscleGroups[muscleNum].muscleType] = {'reps': apiArgs.muscleGroups[muscleNum].reps,
+                           'weight': apiArgs.muscleGroups[muscleNum].weight}
+        muscleArr.append(apiArgs.muscleGroups[muscleNum].muscleType)
+
 
     # Filter the dataset to only include exercises for the user's chosen muscle groups
-    dataset = dataset[dataset['muscle_group'].isin(pref_muscle_groups.split(','))]
+    dataset = dataset[dataset['muscle_group'].isin(muscleArr)]
 
     # Extract the relevant columns from the dataset
     exercise_features = dataset[['muscle_group', 'reps', 'weight', 'exercise_name']]
@@ -128,7 +122,7 @@ def do_model_stuff(dataset):
     for i in range(len(exercise_features)):
         exercise = exercise_features.iloc[i]
         exercise_vector = []
-        for muscle in pref_muscle_groups.split(','):
+        for muscle in muscleArr:
             if exercise['muscle_group'] == muscle:
                 exercise_vector.extend([preferences[muscle]['weight'], preferences[muscle]['reps']])
             else:
@@ -136,7 +130,7 @@ def do_model_stuff(dataset):
         exercise_vectors.append(exercise_vector)
 
     user_vector = []
-    for muscle in pref_muscle_groups.split(','):
+    for muscle in muscleArr:
         user_vector.extend([preferences[muscle]['weight'], preferences[muscle]['reps']])
 
     similarity_scores = cosine_similarity([user_vector], exercise_vectors)[0]
@@ -144,7 +138,7 @@ def do_model_stuff(dataset):
     # Rank the exercises for each muscle group based on their similarity scores and recommend the top 5
     num_recommendations = 10
     top_exercises_by_muscle = {}
-    for muscle in pref_muscle_groups.split(','):
+    for muscle in muscleArr:
         muscle_df = exercise_features[exercise_features['muscle_group'] == muscle]
         muscle_df['similarity_score'] = np.abs(muscle_df['reps'] - preferences[muscle]['reps']) + np.abs(
             muscle_df['weight'] - preferences[muscle]['weight'])
@@ -164,4 +158,6 @@ def do_model_stuff(dataset):
         #num_recommendations))
     #for i, exercise in enumerate(random_recommendations):
         #print("{}. Exercise Name: {}, Reps: {}, Weight: {}, Muscle Group: {}".format(i + 1, exercise[0], exercise[1],
-                                                                                     #exercise[2], exercise[3]))
+#do_model_stuff(dataset)                                                              #exercise[2], exercise[3]))
+def run_model(apiArgs):
+    return do_model_stuff(dataset, apiArgs)
