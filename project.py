@@ -19,9 +19,7 @@ Original file is located at
 
 #!pip install pyjanitor==0.23.1
 
-# Setting up google drive 
-from google.colab import drive
-drive.mount('/content/drive')
+# Setting up google drive
 
 import pandas as pd
 import janitor
@@ -30,7 +28,7 @@ import numpy as np
 import re
 import random
 
-dataset= pd.read_csv('/content/drive/MyDrive/dataset1/weightlifting_721_workouts.csv')
+dataset= pd.read_csv('Dataset/weightlifting_721_workouts.csv')
 
 # Clean variable names and select first 6 columns
 dataset = (
@@ -65,6 +63,9 @@ dataset.to_csv('dataset.csv', index=False)
 # Define a regular expression pattern to extract muscle group name from workout_name
 pattern = r'([A-Za-z]+)'
 
+def supplyDataset():
+    return dataset
+
 def clean_workout_name(workout_name):
     # Replace "shoulder" with "shoulders"
     cleaned_name = workout_name.replace('shoulder', 'shoulders')
@@ -90,71 +91,77 @@ def extract_muscle_group(workout_name):
     else:
         return None
 
-# Apply the extract_muscle_group function to workout_name column
-dataset['muscle_group'] = dataset['workout_name'].apply(extract_muscle_group)
+def do_model_stuff(dataset):
+    # Apply the extract_muscle_group function to workout_name column
+    dataset['muscle_group'] = dataset['workout_name'].apply(extract_muscle_group)
 
-# Drop rows where the muscle_group column is None
-dataset = dataset.dropna(subset=['muscle_group'])
+    # Drop rows where the muscle_group column is None
+    dataset = dataset.dropna(subset=['muscle_group'])
 
-# Define a lambda function to check if 'tricep' is in the exercise name
-check_for_tricep = lambda x: 'Triceps' if 'tricep' in x['exercise_name'].lower() else x['muscle_group']
+    # Define a lambda function to check if 'tricep' is in the exercise name
+    check_for_tricep = lambda x: 'Triceps' if 'tricep' in x['exercise_name'].lower() else x['muscle_group']
 
-# Define a lambda function to check if 'bicep' is in the exercise name
-check_for_bicep = lambda x: 'Biceps' if 'bicep' in x['exercise_name'].lower() else x['muscle_group']
+    # Define a lambda function to check if 'bicep' is in the exercise name
+    check_for_bicep = lambda x: 'Biceps' if 'bicep' in x['exercise_name'].lower() else x['muscle_group']
 
-# Apply the lambda function to the muscle_group column
-dataset['muscle_group'] = dataset.apply(check_for_tricep, axis=1)
+    # Apply the lambda function to the muscle_group column
+    dataset['muscle_group'] = dataset.apply(check_for_tricep, axis=1)
 
-# Apply the lambda function to the muscle_group column
-dataset['muscle_group'] = dataset.apply(check_for_bicep, axis=1)
+    # Apply the lambda function to the muscle_group column
+    dataset['muscle_group'] = dataset.apply(check_for_bicep, axis=1)
 
-# Ask the user for their preferred muscle groups, number of reps, and weight
-pref_muscle_groups = input("Enter the muscle groups you want to train, separated by commas: ")
-preferences = {}
-for muscle in pref_muscle_groups.split(','):
-    preferences[muscle] = {'reps': int(input("Enter the number of reps you prefer for {}: ".format(muscle))),
-                           'weight': int(input("Enter the weight you prefer for {}: ".format(muscle)))}
-
-# Filter the dataset to only include exercises for the user's chosen muscle groups
-dataset = dataset[dataset['muscle_group'].isin(pref_muscle_groups.split(','))]
-
-# Extract the relevant columns from the dataset
-exercise_features = dataset[['muscle_group', 'reps', 'weight', 'exercise_name']]
-
-# Compute similarity scores between the user preferences and the exercise features
-exercise_vectors = []
-for i in range(len(exercise_features)):
-    exercise = exercise_features.iloc[i]
-    exercise_vector = []
+    # Ask the user for their preferred muscle groups, number of reps, and weight
+    pref_muscle_groups = input("Enter the muscle groups you want to train, separated by commas: ")
+    preferences = {}
     for muscle in pref_muscle_groups.split(','):
-        if exercise['muscle_group'] == muscle:
-            exercise_vector.extend([preferences[muscle]['weight'], preferences[muscle]['reps']])
-        else:
-            exercise_vector.extend([0, 0])
-    exercise_vectors.append(exercise_vector)
+        preferences[muscle] = {'reps': int(input("Enter the number of reps you prefer for {}: ".format(muscle))),
+                               'weight': int(input("Enter the weight you prefer for {}: ".format(muscle)))}
 
-user_vector = []
-for muscle in pref_muscle_groups.split(','):
-    user_vector.extend([preferences[muscle]['weight'], preferences[muscle]['reps']])
+    # Filter the dataset to only include exercises for the user's chosen muscle groups
+    dataset = dataset[dataset['muscle_group'].isin(pref_muscle_groups.split(','))]
 
-similarity_scores = cosine_similarity([user_vector], exercise_vectors)[0]
+    # Extract the relevant columns from the dataset
+    exercise_features = dataset[['muscle_group', 'reps', 'weight', 'exercise_name']]
 
-# Rank the exercises for each muscle group based on their similarity scores and recommend the top 5
-num_recommendations = 10
-top_exercises_by_muscle = {}
-for muscle in pref_muscle_groups.split(','):
-    muscle_df = exercise_features[exercise_features['muscle_group'] == muscle]
-    muscle_df['similarity_score'] = np.abs(muscle_df['reps'] - preferences[muscle]['reps']) + np.abs(muscle_df['weight'] - preferences[muscle]['weight'])
-    muscle_df['combined_score'] = muscle_df['similarity_score'] + (1 / muscle_df['similarity_score'])
-    muscle_df = muscle_df.sort_values('combined_score')
-    top_exercises_by_muscle[muscle] = muscle_df[:num_recommendations][['exercise_name', 'reps', 'weight','muscle_group']].values.tolist()
+    # Compute similarity scores between the user preferences and the exercise features
+    exercise_vectors = []
+    for i in range(len(exercise_features)):
+        exercise = exercise_features.iloc[i]
+        exercise_vector = []
+        for muscle in pref_muscle_groups.split(','):
+            if exercise['muscle_group'] == muscle:
+                exercise_vector.extend([preferences[muscle]['weight'], preferences[muscle]['reps']])
+            else:
+                exercise_vector.extend([0, 0])
+        exercise_vectors.append(exercise_vector)
 
-# Randomly select 5 exercises from the top 10 recommended exercises for each muscle group
-random_recommendations = []
-for muscle, exercises in top_exercises_by_muscle.items():
-    random_recommendations.extend(random.sample(exercises, k=5))
+    user_vector = []
+    for muscle in pref_muscle_groups.split(','):
+        user_vector.extend([preferences[muscle]['weight'], preferences[muscle]['reps']])
 
-# Print the recommended exercises
-print("Here are 5 randomly selected exercises from the top {} recommended exercises for each muscle group:".format(num_recommendations))
-for i, exercise in enumerate(random_recommendations):
-    print("{}. Exercise Name: {}, Reps: {}, Weight: {}, Muscle Group: {}".format(i+1, exercise[0], exercise[1], exercise[2], exercise[3]))
+    similarity_scores = cosine_similarity([user_vector], exercise_vectors)[0]
+
+    # Rank the exercises for each muscle group based on their similarity scores and recommend the top 5
+    num_recommendations = 10
+    top_exercises_by_muscle = {}
+    for muscle in pref_muscle_groups.split(','):
+        muscle_df = exercise_features[exercise_features['muscle_group'] == muscle]
+        muscle_df['similarity_score'] = np.abs(muscle_df['reps'] - preferences[muscle]['reps']) + np.abs(
+            muscle_df['weight'] - preferences[muscle]['weight'])
+        muscle_df['combined_score'] = muscle_df['similarity_score'] + (1 / muscle_df['similarity_score'])
+        muscle_df = muscle_df.sort_values('combined_score')
+        top_exercises_by_muscle[muscle] = muscle_df[:num_recommendations][
+            ['exercise_name', 'reps', 'weight', 'muscle_group']].values.tolist()
+
+    # Randomly select 5 exercises from the top 10 recommended exercises for each muscle group
+    random_recommendations = [] # make it a 2d array
+    for muscle, exercises in top_exercises_by_muscle.items():
+        random_recommendations.extend(random.sample(exercises, 5))
+    return random_recommendations
+
+    # Print the recommended exercises
+    #print("Here are 5 randomly selected exercises from the top {} recommended exercises for each muscle group:".format(
+        #num_recommendations))
+    #for i, exercise in enumerate(random_recommendations):
+        #print("{}. Exercise Name: {}, Reps: {}, Weight: {}, Muscle Group: {}".format(i + 1, exercise[0], exercise[1],
+                                                                                     #exercise[2], exercise[3]))

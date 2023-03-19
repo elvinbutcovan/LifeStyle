@@ -1,8 +1,29 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import json
 from types import SimpleNamespace
-import TestFile as Ts
+import project as model
 
+
+
+def messageBuilder(exercises):
+    iter = 0
+    message = "[{\n"
+    for exercise in exercises:
+        muscleType = exercise[3]
+        exerciseDescription = exercise[0]
+        reps = exercise[1]
+        weight = exercise[2]
+        message += "\"muscleType\": " + "\"" + muscleType + "\",\n"
+        message += "\"exerciseDescription\": " + "\"" + exerciseDescription + "\",\n"
+        message += "\"reps\": " + "\"" + str(reps) + "\",\n"
+        message += "\"weight\": " + "\"" + str(weight) + "\",\n"
+        message += "},\n"
+        iter+=1
+        if(iter != len(exercises)):
+            message+="{"
+
+    message += "]"
+    return message
 
 class handler(BaseHTTPRequestHandler):
     #only need this if model code isn't fast enough to return recommendation in post
@@ -23,14 +44,13 @@ class handler(BaseHTTPRequestHandler):
         print(post_body)
 
         args = json.loads(post_body, object_hook=lambda d: SimpleNamespace(**d)) # Convert body into object with addressable fields.
-        print(args.lName)
-        if(args.questions):
-            print("hello")
-            Ts.printStuff()
+        print(args)
 
         #repsonse
-        message = "Hello, World! Here is a POST response"
-        self.wfile.write(bytes(message, "utf8"))
+        #message = model.do_model_stuff(model.supplyDataset())
+        #print(messageBuilder(message))
+        self.wfile.write(bytes("message", "utf8"))
+        #self.wfile.write(bytes(messageBuilder(message), "utf8"))
 
 if __name__ == "__main__":
     with HTTPServer(('', 8000), handler) as server:

@@ -1,0 +1,9 @@
+{
+  "muscle_groups":[
+    {
+      "muscleType": "Triceps",
+      "reps":5,
+      "sets":10
+    }
+  ]
+}

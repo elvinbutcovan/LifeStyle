@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonRest.iml" filepath="$PROJECT_DIR$/.idea/PythonRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LifeStyle.iml" filepath="$PROJECT_DIR$/.idea/LifeStyle.iml" />
     </modules>
   </component>
 </project>
