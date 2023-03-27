@@ -28,9 +28,9 @@ Squat 1,Squat (Barbell),124,5
 Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,8
-Squat 1,Leg Press (Hinge ),195,10
-Squat 1,Leg Press (Hinge ),195,10
-Squat 1,Leg Press (Hinge ),195,10
+Squat 1,Leg Press (Hinge),195,10
+Squat 1,Leg Press (Hinge),195,10
+Squat 1,Leg Press (Hinge),195,10
 Squat 1,Good Morning (Barbell),52,8
 Squat 1,Good Morning (Barbell),52,8
 Squat 1,Squat,61,8
@@ -119,8 +119,8 @@ Back,Rear Delt Fly,45,10
 Back,Rear Delt Fly,52,10
 Back,Rear Delt Fly,52,10
 Back,Rear Delt Fly,52,10
-Back,Hammer Curl (Dumbbell ),31,10
-Back,Hammer Curl (Dumbbell ),36,8
+Back,Hammer Curl,31,10
+Back,Hammer Curl,36,8
 Squat 1,Squat,61,8
 Squat 1,Squat,83,8
 Squat 1,Squat,102,8
@@ -221,9 +221,9 @@ Squat 1,Squat (Barbell),129,8
 Squat 1,Squat (Barbell),133,8
 Squat 1,Glute Extension ,58,10
 Squat 1,Glute Extension ,58,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
 Squat 1,Leg Outward Fly,45,15
 Squat 1,Leg Outward Fly,45,15
 Squat 1,Leg Outward Fly,45,15
@@ -265,8 +265,8 @@ Back,Seated Cable Row (Close Grip),79,12
 Back,Seated Cable Row (Close Grip),86,10
 Back,Seated Cable Row (Close Grip),86,10
 Back,Seated Cable Row (Close Grip),58,12
-Back,Hammer Curl (Dumbbell ),36,15
-Back,Hammer Curl (Dumbbell ),36,15
+Back,Hammer Curl,36,15
+Back,Hammer Curl,36,15
 Shoulder Day,Seated Military Press (Dumbbell),31,10
 Shoulder Day,Seated Military Press (Dumbbell),31,10
 Shoulder Day,Seated Military Press (Dumbbell),81,10
@@ -312,9 +312,9 @@ Squat 1,Squat (Barbell),127,8
 Squat 1,Squat (Barbell),131,8
 Squat 1,Squat (Barbell),136,8
 Squat 1,Squat (Barbell),142,8
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
 Back,Chin Up,23,10
 Back,Chin Up,23,8
 Back,Chin Up,23,9
@@ -337,8 +337,8 @@ Back,Chin Up,0,8
 Back,Seated Row,58,10
 Back,Seated Row,58,10
 Back,Seated Row,58,8
-Back,Bicep Curl (Barbell ),31,13
-Back,Bicep Curl (Barbell ),31,15
+Back,Bicep Curl (Barbell),31,13
+Back,Bicep Curl (Barbell),31,15
 Back,T-Bar Row,40,12
 Back,T-Bar Row,45,10
 Back,T-Bar Row,45,10
@@ -381,9 +381,9 @@ Back,Seated Row,58,16
 Back,Seated Row,72,22
 Back,Seated Row,72,12
 Back,Seated Row,72,12
-Back,Bicep Curl (Barbell ),36,13
-Back,Bicep Curl (Barbell ),36,12
-Back,Bicep Curl (Barbell ),36,12
+Back,Bicep Curl (Barbell),36,13
+Back,Bicep Curl (Barbell),36,12
+Back,Bicep Curl (Barbell),36,12
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,15
@@ -515,8 +515,8 @@ Back,Seated Row,61,10
 Back,Rear Delt Fly,56,13
 Back,Rear Delt Fly,56,14
 Back,Rear Delt Fly,56,12
-Back,Bicep Curl (Barbell ),36,12
-Back,Bicep Curl (Barbell ),36,12
+Back,Bicep Curl (Barbell),36,12
+Back,Bicep Curl (Barbell),36,12
 Back,Chin Up,11,12
 Back,Chin Up,11,12
 Back,Chin Up,11,12
@@ -582,9 +582,9 @@ Back,Lat Pulldown,65,9
 Back,Rear Delt Fly,52,14
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,12
-Back,Bicep Curl (Barbell ),36,12
-Back,Bicep Curl (Barbell ),36,12
-Back,Bicep Curl (Barbell ),36,14
+Back,Bicep Curl (Barbell),36,12
+Back,Bicep Curl (Barbell),36,12
+Back,Bicep Curl (Barbell),36,14
 Back,Chin Up,0,14
 Back,Chin Up,0,13
 Back,Chin Up,0,12
@@ -634,9 +634,9 @@ Squat 1,Squat (Barbell),142,6
 Squat 1,Good Morning (Barbell),43,10
 Squat 1,Good Morning (Barbell),43,10
 Squat 1,Good Morning (Barbell),43,10
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
 Squat 1,Squat,83,6
 Squat 1,Squat,102,6
 Squat 1,Squat,124,6
@@ -673,8 +673,8 @@ Back,Chin Up,0,10
 Back,Chin Up,0,10
 Back,Seated Row,79,10
 Back,Seated Row,79,10
-Back,Bicep Curl (Barbell ),36,12
-Back,Bicep Curl (Barbell ),36,12
+Back,Bicep Curl (Barbell),36,12
+Back,Bicep Curl (Barbell),36,12
 Back,Lat Pulldown,68,10
 Back,Lat Pulldown,68,10
 Back,Lat Pulldown,68,10
@@ -741,9 +741,9 @@ Back,Seated Row,86,9
 Back,Seated Row,86,10
 Back,Seated Row,86,10
 Back,Seated Row,58,10
-Back,Bicep Curl (Barbell ),40,12
-Back,Bicep Curl (Barbell ),40,12
-Back,Bicep Curl (Barbell ),40,12
+Back,Bicep Curl (Barbell),40,12
+Back,Bicep Curl (Barbell),40,12
+Back,Bicep Curl (Barbell),40,12
 Back,Chin Up,22,9
 Back,Chin Up,23,9
 Back,Chin Up,23,8
@@ -864,10 +864,10 @@ Back,Bent Over Row (Dumbbell),81,10
 Back,Seated Row,86,10
 Back,Seated Row,58,12
 Back,Seated Row,58,12
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),27,10
-Back,Bicep Curl (Barbell ),27,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),27,10
+Back,Bicep Curl (Barbell),27,10
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,62,12
@@ -919,9 +919,9 @@ Squat 1,Squat (Barbell),142,5
 Squat 1,Leg Curl,58,10
 Squat 1,Leg Curl,58,10
 Squat 1,Leg Curl,61,10
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),207,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),207,12
 Squat 1,Cycling,0,0
 Chest,Incline Bench Press,61,6
 Chest,Incline Bench Press,83,6
@@ -968,8 +968,8 @@ Back,Seated Cable Row (Close Grip),72,10
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
-Back,Hammer Curl (Dumbbell ),27,12
-Back,Hammer Curl (Dumbbell ),36,8
+Back,Hammer Curl,27,12
+Back,Hammer Curl,36,8
 Back,Chin Up,0,8
 Back,Chin Up,0,8
 Back,Chin Up,0,8
@@ -1053,9 +1053,9 @@ Back,Seated Row,79,10
 Back,Lat Pulldown,68,12
 Back,Lat Pulldown,68,12
 Back,Lat Pulldown,68,12
-Back,Bicep Curl (Barbell ),40,10
-Back,Bicep Curl (Barbell ),40,10
-Back,Bicep Curl (Barbell ),40,10
+Back,Bicep Curl (Barbell),40,10
+Back,Bicep Curl (Barbell),40,10
+Back,Bicep Curl (Barbell),40,10
 Back,Hammer Curl,27,10
 Back,Hammer Curl,27,10
 Back,Rear Delt Fly,58,12
@@ -1074,8 +1074,8 @@ Back,Lat Pulldown ,68,12
 Back,Bicep Curl (Barbell),40,10
 Back,Bicep Curl (Barbell),40,10
 Back,Bicep Curl (Barbell),40,10
-Back,Hammer Curl (Dumbbell ),27,10
-Back,Hammer Curl (Dumbbell ),27,10
+Back,Hammer Curl,27,10
+Back,Hammer Curl,27,10
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
@@ -1169,8 +1169,8 @@ Back,Hammer Back Row Wide 45 Angle,81,10
 Back,Hammer Back Row Wide 45 Angle,81,10
 Back,Hammer Back Row Wide 45 Angle,81,10
 Back,Hammer Back Row Wide 45 Angle,81,10
-Back,Hammer Curl (Dumbbell ),29,12
-Back,Hammer Curl (Dumbbell ),29,12
+Back,Hammer Curl,29,12
+Back,Hammer Curl,29,12
 Back,Lat Pulldown ,52,8
 Back,Lat Pulldown ,52,8
 Back,Lat Pulldown ,65,8
@@ -1323,7 +1323,7 @@ Back,Rear Delt Fly,52,15
 Back,Seated Row,86,10
 Back,Seated Row,86,10
 Back,Seated Row,86,10
-Back,Bicep Curl (Barbell ),40,12
+Back,Bicep Curl (Barbell),40,12
 Back,Chin Up,22,10
 Back,Chin Up,22,9
 Back,Chin Up,22,10
@@ -1498,8 +1498,8 @@ Back,Chin Up,0,10
 Back,Chin Up,0,10
 Back,Chin Up,0,10
 Back,Chin Up,0,10
-Back,Bicep Curl (Barbell ),31,10
-Back,Bicep Curl (Barbell ),31,10
+Back,Bicep Curl (Barbell),31,10
+Back,Bicep Curl (Barbell),31,10
 Back,Lat Pulldown,65,10
 Back,Lat Pulldown,65,10
 Back,Lat Pulldown,65,10
@@ -1539,9 +1539,9 @@ Back,Seated Row,86,10
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,15
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
 Back,Chin Up,20,12
 Back,Chin Up,20,12
 Back,Chin Up,20,10
@@ -1666,9 +1666,9 @@ Back,Seated Row,68,12
 Back,Seated Row,68,12
 Back,Seated Row,68,12
 Back,Seated Row,68,12
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
@@ -1769,8 +1769,8 @@ Back,Rear Delt Fly,52,10
 Back,Seated Row,65,10
 Back,Seated Row,65,12
 Back,Seated Row,86,10
-Back,Bicep Curl (Barbell ),43,12
-Back,Bicep Curl (Barbell ),43,12
+Back,Bicep Curl (Barbell),43,12
+Back,Bicep Curl (Barbell),43,12
 Chest,Incline Bench Press,61,6
 Chest,Incline Bench Press,61,6
 Chest,Incline Bench Press,83,8
@@ -1818,9 +1818,9 @@ Squat 1,Squat (Barbell),149,6
 Squat 1,Leg Curl,56,12
 Squat 1,Leg Curl,61,12
 Squat 1,Leg Curl,61,12
-Squat 1,Leg Press (Hinge ),163,12
-Squat 1,Leg Press (Hinge ),163,12
-Squat 1,Leg Press (Hinge ),163,12
+Squat 1,Leg Press (Hinge),163,12
+Squat 1,Leg Press (Hinge),163,12
+Squat 1,Leg Press (Hinge),163,12
 Squat 1,Squat,83,6
 Squat 1,Squat,83,6
 Squat 1,Squat,102,6
@@ -1910,10 +1910,10 @@ Back,Chin Up,0,12
 Back,Bent Over Row (Dumbbell),38,12
 Back,Bent Over Row (Dumbbell),38,12
 Back,Bent Over Row (Dumbbell),38,12
-Back,Bicep Curl (Barbell ),40,8
-Back,Bicep Curl (Barbell ),40,8
-Back,Bicep Curl (Barbell ),27,10
-Back,Bicep Curl (Barbell ),27,10
+Back,Bicep Curl (Barbell),40,8
+Back,Bicep Curl (Barbell),40,8
+Back,Bicep Curl (Barbell),27,10
+Back,Bicep Curl (Barbell),27,10
 Back,Rear Delt Fly,52,12
 Back,Rear Delt Fly,52,12
 Back,Hammer Back Row Wide 45 Angle,63,8
@@ -1988,8 +1988,8 @@ Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
 Back,Hammer Curl,27,10
 Back,Hammer Curl,27,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
 Back,Chin Up,24,8
 Back,Chin Up,24,9
 Back,Chin Up,4,13
@@ -2002,8 +2002,8 @@ Back,Seated Cable Row (Close Grip),58,12
 Back,Shrugs (Dumbbell),27,20
 Back,Shrugs (Dumbbell),27,20
 Back,Shrugs (Dumbbell),27,20
-Back,Hammer Curl (Dumbbell ),27,10
-Back,Hammer Curl (Dumbbell ),27,10
+Back,Hammer Curl,27,10
+Back,Hammer Curl,27,10
 Back,Rear Delt Fly,49,15
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
@@ -2062,9 +2062,9 @@ Squat 1,Squat (Barbell),133,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),145,6
 Squat 1,Squat (Barbell),145,6
-Squat 1,Leg Press (Hinge ),163,12
-Squat 1,Leg Press (Hinge ),163,12
-Squat 1,Leg Press (Hinge ),163,12
+Squat 1,Leg Press (Hinge),163,12
+Squat 1,Leg Press (Hinge),163,12
+Squat 1,Leg Press (Hinge),163,12
 Squat 1,Good Morning (Barbell),38,12
 Squat 1,Good Morning (Barbell),38,11
 Back,Chin Up,0,12
@@ -2158,9 +2158,9 @@ Back,Seated Row,65,12
 Back,T-Bar Row,56,10
 Back,T-Bar Row,56,10
 Back,T-Bar Row,45,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,9
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,9
 Back,Rear Delt Fly,54,15
 Back,Rear Delt Fly,54,15
 Back,Rear Delt Fly,54,12
@@ -2259,9 +2259,9 @@ Back,Seated Row,65,12
 Back,Seated Row,65,12
 Back,Seated Row,65,12
 Back,Seated Row,65,12
-Back,Bicep Curl (Barbell ),45,8
-Back,Bicep Curl (Barbell ),45,8
-Back,Bicep Curl (Barbell ),31,12
+Back,Bicep Curl (Barbell),45,8
+Back,Bicep Curl (Barbell),45,8
+Back,Bicep Curl (Barbell),31,12
 Back,Chin Up,24,11
 Back,Chin Up,24,10
 Back,Chin Up,24,10
@@ -2330,10 +2330,10 @@ Back,Hammer Seated Row,58,12
 Back,Hammer Seated Row,58,10
 Back,Hammer Seated Row,63,10
 Back,Hammer Seated Row,63,10
-Back,Bicep Curl (Barbell ),45,10
-Back,Bicep Curl (Barbell ),45,8
-Back,Bicep Curl (Barbell ),34,12
-Back,Bicep Curl (Barbell ),34,15
+Back,Bicep Curl (Barbell),45,10
+Back,Bicep Curl (Barbell),45,8
+Back,Bicep Curl (Barbell),34,12
+Back,Bicep Curl (Barbell),34,15
 Back,Chin Up,24,10
 Back,Chin Up,24,10
 Back,Chin Up,24,8
@@ -2409,10 +2409,10 @@ Back,Chin Up,0,15
 Back,Chin Up,0,15
 Back,Chin Up,0,15
 Back,Chin Up,0,10
-Back,Bicep Curl (Barbell ),38,12
-Back,Bicep Curl (Barbell ),38,12
-Back,Bicep Curl (Barbell ),38,12
-Back,Bicep Curl (Barbell ),38,10
+Back,Bicep Curl (Barbell),38,12
+Back,Bicep Curl (Barbell),38,12
+Back,Bicep Curl (Barbell),38,12
+Back,Bicep Curl (Barbell),38,10
 Back,Hammer Seated Row,72,12
 Back,Hammer Seated Row,72,12
 Back,Hammer Seated Row,72,12
@@ -2489,16 +2489,16 @@ Squat 1,Squat (Barbell),111,8
 Squat 1,Squat (Barbell),113,10
 Squat 1,Good Morning (Barbell),54,10
 Squat 1,Good Morning (Barbell),54,10
-Squat 1,Leg Press (Hinge ),185,10
-Squat 1,Leg Press (Hinge ),185,10
+Squat 1,Leg Press (Hinge),185,10
+Squat 1,Leg Press (Hinge),185,10
 Back,Chin Up,0,12
 Back,Chin Up,26,8
 Back,Chin Up,26,8
 Back,Chin Up,26,8
 Back,Chin Up,0,12
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
 Back,Rear Delt Fly,58,12
 Back,Rear Delt Fly,58,12
 Back,Hammer Seated Row,43,12
@@ -2563,8 +2563,8 @@ Back,Seated Cable Row (Close Grip),58,15
 Back,Seated Cable Row (Close Grip),72,15
 Back,Seated Cable Row (Close Grip),72,15
 Back,Seated Cable Row (Close Grip),58,12
-Back,Hammer Curl (Dumbbell ),31,14
-Back,Hammer Curl (Dumbbell ),31,15
+Back,Hammer Curl,31,14
+Back,Hammer Curl,31,15
 Back,Pull Up,0,12
 Back,Pull Up,0,8
 Squat 1,Squat,102,8
@@ -2716,9 +2716,9 @@ Back,Chin Up,0,15
 Back,Hammer Seated Row,45,12
 Back,Hammer Seated Row,58,12
 Back,Hammer Seated Row,58,12
-Back,Bicep Curl (Barbell ),43,12
-Back,Bicep Curl (Barbell ),43,12
-Back,Bicep Curl (Barbell ),43,10
+Back,Bicep Curl (Barbell),43,12
+Back,Bicep Curl (Barbell),43,12
+Back,Bicep Curl (Barbell),43,10
 Back,Lat Pulldown,61,12
 Back,Lat Pulldown,65,12
 Back,Lat Pulldown,68,12
@@ -2768,10 +2768,10 @@ Back,Chin Up,20,8
 Back,Chin Up,20,8
 Back,Chin Up,20,8
 Back,Chin Up,0,8
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),43,10
-Back,Bicep Curl (Barbell ),38,10
-Back,Bicep Curl (Barbell ),29,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),43,10
+Back,Bicep Curl (Barbell),38,10
+Back,Bicep Curl (Barbell),29,10
 Back,Hammer Seated Row,45,12
 Back,Hammer Seated Row,45,12
 Back,Hammer Seated Row,65,10
@@ -2837,10 +2837,10 @@ Squat 1,Squat (Barbell),102,8
 Squat 1,Squat (Barbell),102,8
 Squat 1,Squat (Barbell),106,8
 Squat 1,Squat (Barbell),106,8
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,12
-Squat 1,Leg Press (Hinge ),163,15
-Squat 1,Leg Press (Hinge ),163,12
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,12
+Squat 1,Leg Press (Hinge),163,15
+Squat 1,Leg Press (Hinge),163,12
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,8
@@ -2959,9 +2959,9 @@ Back,Seated Cable Row (Close Grip),72,12
 Back,Seated Cable Row (Close Grip),72,12
 Back,Seated Cable Row (Close Grip),72,12
 Back,Seated Cable Row (Close Grip),52,12
-Back,Hammer Curl (Dumbbell ),31,15
-Back,Hammer Curl (Dumbbell ),31,15
-Back,Hammer Curl (Dumbbell ),31,15
+Back,Hammer Curl,31,15
+Back,Hammer Curl,31,15
+Back,Hammer Curl,31,15
 Back,Rear Delt Fly,61,8
 Back,Rear Delt Fly,61,8
 Back,Rear Delt Fly,61,8
@@ -3055,8 +3055,8 @@ Back,Rear Delt Fly,61,15
 Back,Rear Delt Fly,61,15
 Back,Bicep Curl (Barbell),43,10
 Back,Bicep Curl (Barbell),43,10
-Back,Hammer Curl (Dumbbell ),36,10
-Back,Hammer Curl (Dumbbell ),31,12
+Back,Hammer Curl,36,10
+Back,Hammer Curl,31,12
 Chest,Incline Bench Press (Barbell),61,8
 Chest,Incline Bench Press (Barbell),83,8
 Chest,Incline Bench Press (Barbell),83,8
@@ -3090,8 +3090,8 @@ Back,Bicep Curl (Barbell),43,10
 Back,Bicep Curl (Barbell),43,10
 Back,Bicep Curl (Barbell),43,10
 Back,Bicep Curl (Barbell),29,10
-Back,Hammer Curl (Dumbbell ),27,12
-Back,Hammer Curl (Dumbbell ),27,12
+Back,Hammer Curl,27,12
+Back,Hammer Curl,27,12
 Squat 1,Squat (Barbell),83,8
 Squat 1,Squat (Barbell),102,8
 Squat 1,Squat (Barbell),102,8
@@ -3173,9 +3173,9 @@ Squat 1,Deadlift (Barbell),102,5
 Squat 1,Deadlift (Barbell),129,6
 Squat 1,Deadlift (Barbell),131,6
 Squat 1,Deadlift (Barbell),129,6
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,12
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,12
 Back,Chin Up,22,9
 Back,Chin Up,22,9
 Back,Chin Up,22,8
@@ -3218,9 +3218,9 @@ Squat 1,Deadlift (Barbell),124,5
 Squat 1,Deadlift (Barbell),136,6
 Squat 1,Deadlift (Barbell),136,6
 Squat 1,Deadlift (Barbell),136,6
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
 Back,Chin Up,22,10
 Back,Chin Up,22,9
 Back,Chin Up,22,8
@@ -3233,7 +3233,7 @@ Back,T-Bar Row,40,12
 Back,Bicep Curl (Barbell),34,13
 Back,Bicep Curl (Barbell),34,12
 Back,Bicep Curl (Barbell),34,12
-Back,Hammer Curl (Dumbbell ),31,12
+Back,Hammer Curl,31,12
 Back,Pull Up,22,8
 Back,Pull Up,22,8
 Chest,Incline Bench Press (Barbell),61,5
@@ -3267,9 +3267,9 @@ Squat 1,Squat (Barbell),138,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,7
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,10
 Squat 1,Deadlift (Barbell),102,6
 Squat 1,Deadlift (Barbell),124,5
 Squat 1,Deadlift (Barbell),142,5
@@ -3317,10 +3317,10 @@ Squat 1,Squat (Barbell),145,6
 Squat 1,Squat (Barbell),145,6
 Squat 1,Squat (Barbell),145,8
 Squat 1,Squat (Barbell),83,10
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
 Squat 1,Leg Curl,61,10
 Squat 1,Leg Curl,61,10
 Squat 1,Leg Curl,61,10
@@ -3361,13 +3361,13 @@ Back,Bent Over Row (Dumbbell),86,10
 Back,Bent Over Row (Dumbbell),86,10
 Back,Lat Pulldown ,61,10
 Back,Lat Pulldown ,61,10
-Back,Hammer Curl (Dumbbell ),31,12
-Back,Hammer Curl (Dumbbell ),22,6
-Back,Hammer Curl (Dumbbell ),31,12
-Back,Hammer Curl (Dumbbell ),22,6
-Back,Hammer Curl (Dumbbell ),31,10
-Back,Hammer Curl (Dumbbell ),22,8
-Back,Hammer Curl (Dumbbell ),22,10
+Back,Hammer Curl,31,12
+Back,Hammer Curl,22,6
+Back,Hammer Curl,31,12
+Back,Hammer Curl,22,6
+Back,Hammer Curl,31,10
+Back,Hammer Curl,22,8
+Back,Hammer Curl,22,10
 Squat 1,Squat (Barbell),83,6
 Squat 1,Squat (Barbell),102,6
 Squat 1,Squat (Barbell),124,5
@@ -3380,9 +3380,9 @@ Squat 1,Deadlift (Barbell),124,5
 Squat 1,Deadlift (Barbell),147,5
 Squat 1,Deadlift (Barbell),147,5
 Squat 1,Deadlift (Barbell),147,5
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),213,15
-Squat 1,Leg Press (Hinge ),213,15
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),213,15
+Squat 1,Leg Press (Hinge),213,15
 Squat 1,Leg Curl,56,10
 Squat 1,Leg Curl,56,10
 Squat 1,Leg Curl,56,10
@@ -3431,9 +3431,9 @@ Squat 1,Squat (Barbell),133,8
 Squat 1,Squat (Barbell),142,8
 Squat 1,Squat (Barbell),145,8
 Squat 1,Squat (Barbell),145,7
-Squat 1,Leg Press (Hinge ),215,12
-Squat 1,Leg Press (Hinge ),215,12
-Squat 1,Leg Press (Hinge ),215,12
+Squat 1,Leg Press (Hinge),215,12
+Squat 1,Leg Press (Hinge),215,12
+Squat 1,Leg Press (Hinge),215,12
 Squat 1,Leg Outward Fly,49,12
 Squat 1,Leg Outward Fly,49,12
 Squat 1,Leg Outward Fly,49,12
@@ -3546,9 +3546,9 @@ Squat 1,Squat (Barbell),120,5
 Squat 1,Squat (Barbell),120,6
 Squat 1,Squat (Barbell),124,6
 Squat 1,Squat (Barbell),124,5
-Squat 1,Leg Press (Hinge ),226,12
-Squat 1,Leg Press (Hinge ),226,11
-Squat 1,Leg Press (Hinge ),226,10
+Squat 1,Leg Press (Hinge),226,12
+Squat 1,Leg Press (Hinge),226,11
+Squat 1,Leg Press (Hinge),226,10
 Squat 1,Leg Curl,58,11
 Squat 1,Leg Curl,63,12
 Squat 1,Leg Curl,63,12
@@ -3583,9 +3583,9 @@ Back,Pull Up,15,9
 Back,Lat Pulldown ,68,10
 Back,Lat Pulldown ,70,12
 Back,Lat Pulldown ,70,12
-Back,Hammer Curl (Dumbbell ),22,13
-Back,Hammer Curl (Dumbbell ),22,11
-Back,Hammer Curl (Dumbbell ),22,12
+Back,Hammer Curl,22,13
+Back,Hammer Curl,22,11
+Back,Hammer Curl,22,12
 Squat 1,Squat (Barbell),61,6
 Squat 1,Squat (Barbell),61,5
 Squat 1,Squat (Barbell),83,6
@@ -3606,10 +3606,10 @@ Squat 1,Leg Outward Fly,54,13
 Squat 1,Leg Outward Fly,54,13
 Squat 1,Leg Outward Fly,54,13
 Squat 1,Leg Outward Fly,54,13
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),206,12
-Squat 1,Leg Press (Hinge ),229,12
-Squat 1,Leg Press (Hinge ),229,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),206,12
+Squat 1,Leg Press (Hinge),229,12
+Squat 1,Leg Press (Hinge),229,12
 Chest,Incline Bench Press (Barbell),61,5
 Chest,Incline Bench Press (Barbell),61,5
 Chest,Incline Bench Press (Barbell),70,5
@@ -3641,7 +3641,7 @@ Back,Rear Delt Fly,61,14
 Back,Rear Delt Fly,61,12
 Back,Bicep Curl (Barbell),45,10
 Back,Bicep Curl (Barbell),45,10
-Back,Hammer Curl (Dumbbell ),22,10
+Back,Hammer Curl,22,10
 Back,Pull Up,0,10
 Back,Hammer Seated Row (Close Grip),72,12
 Back,Hammer Seated Row (Close Grip),72,12
@@ -3677,8 +3677,8 @@ Squat 1,Squat (Barbell),147,6
 Squat 1,Squat (Barbell),147,6
 Squat 1,Squat (Barbell),147,6
 Squat 1,Squat (Barbell),147,3
-Squat 1,Leg Press (Hinge ),231,12
-Squat 1,Leg Press (Hinge ),231,12
+Squat 1,Leg Press (Hinge),231,12
+Squat 1,Leg Press (Hinge),231,12
 Back,Chin Up,29,8
 Back,Chin Up,29,8
 Back,Chin Up,29,8
@@ -3717,9 +3717,9 @@ Squat 1,Squat (Barbell),147,6
 Squat 1,Squat (Barbell),151,5
 Squat 1,Squat (Barbell),151,5
 Squat 1,Squat (Barbell),156,5
-Squat 1,Leg Press (Hinge ),235,12
-Squat 1,Leg Press (Hinge ),235,12
-Squat 1,Leg Press (Hinge ),240,12
+Squat 1,Leg Press (Hinge),235,12
+Squat 1,Leg Press (Hinge),235,12
+Squat 1,Leg Press (Hinge),240,12
 Squat 1,Leg Curl,65,12
 Squat 1,Leg Curl,63,10
 Squat 1,Leg Curl,63,10
@@ -3738,8 +3738,8 @@ Back,Rear Delt Fly,65,12
 Back,Bicep Curl (Barbell),45,10
 Back,Bicep Curl (Barbell),45,12
 Back,Bicep Curl (Barbell),45,10
-Back,Hammer Curl (Dumbbell ),22,12
-Back,Hammer Curl (Dumbbell ),22,12
+Back,Hammer Curl,22,12
+Back,Hammer Curl,22,12
 Back,Hammer Seated Row (Close Grip),65,12
 Shoulder Day,Seated Shoulder  Press (Barbell),43,6
 Shoulder Day,Seated Shoulder  Press (Barbell),61,5
@@ -3769,9 +3769,9 @@ Squat 1,Squat (Barbell),154,5
 Squat 1,Squat (Barbell),156,5
 Squat 1,Squat (Barbell),158,6
 Squat 1,Squat (Barbell),102,6
-Squat 1,Leg Press (Hinge ),249,10
-Squat 1,Leg Press (Hinge ),249,12
-Squat 1,Leg Press (Hinge ),249,11
+Squat 1,Leg Press (Hinge),249,10
+Squat 1,Leg Press (Hinge),249,12
+Squat 1,Leg Press (Hinge),249,11
 Squat 1,Leg Curl,65,12
 Squat 1,Leg Curl,65,12
 Squat 1,Leg Curl,65,12
@@ -3816,9 +3816,9 @@ Squat 1,Squat (Barbell),151,5
 Squat 1,Squat (Barbell),156,5
 Squat 1,Squat (Barbell),161,5
 Squat 1,Squat (Barbell),165,5
-Squat 1,Leg Press (Hinge ),254,10
-Squat 1,Leg Press (Hinge ),254,10
-Squat 1,Leg Press (Hinge ),254,10
+Squat 1,Leg Press (Hinge),254,10
+Squat 1,Leg Press (Hinge),254,10
+Squat 1,Leg Press (Hinge),254,10
 Squat 1,Leg Curl,68,12
 Squat 1,Leg Curl,68,12
 Squat 1,Leg Outward Fly,54,14
@@ -3913,10 +3913,10 @@ Squat 1,Squat (Barbell),156,5
 Squat 1,Squat (Barbell),163,5
 Squat 1,Squat (Barbell),170,5
 Squat 1,Squat (Barbell),102,5
-Squat 1,Leg Press (Hinge ),244,12
-Squat 1,Leg Press (Hinge ),244,12
-Squat 1,Leg Press (Hinge ),244,12
-Squat 1,Leg Press (Hinge ),267,12
+Squat 1,Leg Press (Hinge),244,12
+Squat 1,Leg Press (Hinge),244,12
+Squat 1,Leg Press (Hinge),244,12
+Squat 1,Leg Press (Hinge),267,12
 Squat 1,Leg Outward Fly,54,12
 Squat 1,Leg Outward Fly,54,12
 Squat 1,Leg Outward Fly,54,12
@@ -3966,9 +3966,9 @@ Squat 1,Squat (Barbell),165,5
 Squat 1,Squat (Barbell),172,3
 Squat 1,Squat (Barbell),174,5
 Squat 1,Squat (Barbell),142,5
-Squat 1,Leg Press (Hinge ),276,10
-Squat 1,Leg Press (Hinge ),276,10
-Squat 1,Leg Press (Hinge ),276,10
+Squat 1,Leg Press (Hinge),276,10
+Squat 1,Leg Press (Hinge),276,10
+Squat 1,Leg Press (Hinge),276,10
 Squat 1,Romanian Deadlift (Barbell),92,8
 Squat 1,Romanian Deadlift (Barbell),92,6
 Squat 1,Romanian Deadlift (Barbell),97,6
@@ -4013,9 +4013,9 @@ Squat 1,Squat (Barbell),158,5
 Squat 1,Squat (Barbell),165,6
 Squat 1,Squat (Barbell),165,5
 Squat 1,Squat (Barbell),165,5
-Squat 1,Leg Press (Hinge ),244,12
-Squat 1,Leg Press (Hinge ),285,10
-Squat 1,Leg Press (Hinge ),285,10
+Squat 1,Leg Press (Hinge),244,12
+Squat 1,Leg Press (Hinge),285,10
+Squat 1,Leg Press (Hinge),285,10
 Squat 1,Romanian Deadlift (Barbell),92,8
 Squat 1,Romanian Deadlift (Barbell),102,7
 Squat 1,Romanian Deadlift (Barbell),104,7
@@ -4103,9 +4103,9 @@ Squat 1,Squat (Barbell),151,5
 Squat 1,Squat (Barbell),151,5
 Squat 1,Squat (Barbell),165,5
 Squat 1,Squat (Barbell),165,5
-Squat 1,Leg Press (Hinge ),285,10
-Squat 1,Leg Press (Hinge ),285,10
-Squat 1,Leg Press (Hinge ),285,10
+Squat 1,Leg Press (Hinge),285,10
+Squat 1,Leg Press (Hinge),285,10
+Squat 1,Leg Press (Hinge),285,10
 Squat 1,Romanian Deadlift (Barbell),102,8
 Squat 1,Romanian Deadlift (Barbell),111,8
 Squat 1,Romanian Deadlift (Barbell),111,5
@@ -4156,8 +4156,8 @@ Squat 1,Romanian Deadlift (Barbell),113,6
 Squat 1,Romanian Deadlift (Barbell),113,6
 Squat 1,Romanian Deadlift (Barbell),115,6
 Squat 1,Romanian Deadlift (Barbell),115,6
-Squat 1,Leg Press (Hinge ),163,15
-Squat 1,Leg Press (Hinge ),163,15
+Squat 1,Leg Press (Hinge),163,15
+Squat 1,Leg Press (Hinge),163,15
 Shoulder Day,Lateral Raise (Dumbbells),18,10
 Shoulder Day,Lateral Raise (Dumbbells),18,10
 Shoulder Day,Seated Shoulder  Press (Barbell),47,6
@@ -4260,7 +4260,7 @@ Squat 1,Squat (Barbell),158,5
 Squat 1,Squat (Barbell),165,5
 Squat 1,Squat (Barbell),167,5
 Squat 1,Squat (Barbell),170,5
-Squat 1,Leg Press (Hinge ),122,10
+Squat 1,Leg Press (Hinge),122,10
 Squat 1,Deadlift (Barbell),115,5
 Squat 1,Romanian Deadlift (Barbell),92,7
 Squat 1,Romanian Deadlift (Barbell),102,5
@@ -4313,9 +4313,9 @@ Squat 1,Squat (Barbell),102,5
 Squat 1,Squat (Barbell),111,5
 Squat 1,Squat (Barbell),115,5
 Squat 1,Squat (Barbell),124,5
-Squat 1,Leg Press (Hinge ),122,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
+Squat 1,Leg Press (Hinge),122,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
 Chest,Incline Bench Press (Barbell),52,5
 Chest,Incline Bench Press (Barbell),52,5
 Chest,Incline Bench Press (Barbell),70,5
@@ -4413,11 +4413,11 @@ Squat 1,Squat (Barbell),165,5
 Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),147,5
 Squat 1,Squat (Barbell),149,6
-Squat 1,Leg Press (Hinge ),154,12
-Squat 1,Leg Press (Hinge ),154,12
-Squat 1,Leg Press (Hinge ),195,10
-Squat 1,Leg Press (Hinge ),235,8
-Squat 1,Leg Press (Hinge ),235,8
+Squat 1,Leg Press (Hinge),154,12
+Squat 1,Leg Press (Hinge),154,12
+Squat 1,Leg Press (Hinge),195,10
+Squat 1,Leg Press (Hinge),235,8
+Squat 1,Leg Press (Hinge),235,8
 Chest,Incline Bench Press (Barbell),61,5
 Chest,Incline Bench Press (Barbell),83,5
 Chest,Incline Bench Press (Barbell),102,5
@@ -4465,10 +4465,10 @@ Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),147,5
 Squat 1,Squat (Barbell),147,5
 Squat 1,Squat (Barbell),147,5
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),244,10
-Squat 1,Leg Press (Hinge ),244,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),244,10
+Squat 1,Leg Press (Hinge),244,10
 Squat 1,Romanian Deadlift (Barbell),83,6
 Squat 1,Romanian Deadlift (Barbell),102,6
 Squat 1,Romanian Deadlift (Barbell),115,6
@@ -4598,10 +4598,10 @@ Squat 1,Squat (Barbell),124,5
 Squat 1,Squat (Barbell),133,5
 Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),142,5
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
 Shoulder Day,Lateral Raise (Dumbbells),22,10
 Shoulder Day,Lateral Raise (Dumbbells),22,10
 Shoulder Day,Lateral Raise (Dumbbells),22,10
@@ -4670,9 +4670,9 @@ Squat 1,Squat (Barbell),124,5
 Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),142,5
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
 Squat 1,Romanian Deadlift (Barbell),92,5
 Squat 1,Romanian Deadlift (Barbell),92,8
 Squat 1,Romanian Deadlift (Barbell),102,8
@@ -4684,9 +4684,9 @@ Squat 1,Squat (Barbell),124,5
 Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),142,5
 Squat 1,Squat (Barbell),142,5
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
 Squat 1,Romanian Deadlift (Barbell),92,5
 Squat 1,Romanian Deadlift (Barbell),92,8
 Squat 1,Romanian Deadlift (Barbell),102,8
@@ -4727,9 +4727,9 @@ Squat 1,Squat (Barbell),133,6
 Squat 1,Squat (Barbell),133,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,6
-Squat 1,Leg Press (Hinge ),195,10
-Squat 1,Leg Press (Hinge ),195,10
-Squat 1,Leg Press (Hinge ),235,10
+Squat 1,Leg Press (Hinge),195,10
+Squat 1,Leg Press (Hinge),195,10
+Squat 1,Leg Press (Hinge),235,10
 Squat 1,Romanian Deadlift (Barbell),102,8
 Squat 1,Romanian Deadlift (Barbell),102,8
 Squat 1,Romanian Deadlift (Barbell),111,8
@@ -4765,9 +4765,9 @@ Squat 1,Squat (Barbell),147,6
 Squat 1,Squat (Barbell),156,6
 Squat 1,Squat (Barbell),156,6
 Squat 1,Squat (Barbell),142,8
-Squat 1,Leg Press (Hinge ),181,12
-Squat 1,Leg Press (Hinge ),181,10
-Squat 1,Leg Press (Hinge ),181,10
+Squat 1,Leg Press (Hinge),181,12
+Squat 1,Leg Press (Hinge),181,10
+Squat 1,Leg Press (Hinge),181,10
 Squat 1,Romanian Deadlift (Barbell),102,8
 Squat 1,Romanian Deadlift (Barbell),102,8
 Back,Chin Up,23,8
@@ -4787,10 +4787,10 @@ Squat 1,Squat (Barbell),102,8
 Squat 1,Squat (Barbell),111,8
 Squat 1,Squat (Barbell),111,8
 Squat 1,Squat (Barbell),115,8
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
 Shoulder Day,Seated Shoulder  Press (Barbell),43,6
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
@@ -4813,9 +4813,9 @@ Squat 1,Squat (Barbell),124,6
 Squat 1,Squat (Barbell),124,6
 Squat 1,Squat (Barbell),133,6
 Squat 1,Squat (Barbell),133,6
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
-Squat 1,Leg Press (Hinge ),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
+Squat 1,Leg Press (Hinge),204,10
 Back,Chin Up,27,10
 Back,Chin Up,27,10
 Back,Chin Up,27,10
@@ -4933,10 +4933,10 @@ Squat 1,Squat (Barbell),138,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,6
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
 Squat 1,Squat (Barbell),83,5
 Squat 1,Squat (Barbell),83,5
 Squat 1,Squat (Barbell),102,6
@@ -4947,10 +4947,10 @@ Squat 1,Squat (Barbell),138,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,6
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
 Back,Chin Up,0,10
 Back,Chin Up,27,10
 Back,Chin Up,27,10
@@ -4964,9 +4964,9 @@ Back,Hammer Seated Row (Close Grip),95,12
 Back,Hammer Seated Row (Close Grip),95,10
 Back,Hammer Seated Row (Close Grip),83,10
 Back,Hammer Seated Row (Close Grip),83,10
-Back,Hammer Curl (Dumbbell ),31,12
-Back,Hammer Curl (Dumbbell ),31,12
-Back,Hammer Curl (Dumbbell ),31,12
+Back,Hammer Curl,31,12
+Back,Hammer Curl,31,12
+Back,Hammer Curl,31,12
 Shoulder Day,Seated Shoulder  Press (Barbell),61,8
 Shoulder Day,Seated Shoulder  Press (Barbell),83,8
 Shoulder Day,Seated Shoulder  Press (Barbell),83,8
@@ -4986,9 +4986,9 @@ Squat 1,Squat (Barbell),129,6
 Squat 1,Squat (Barbell),133,7
 Squat 1,Squat (Barbell),142,7
 Squat 1,Squat (Barbell),92,6
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
-Squat 1,Leg Press (Hinge ),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
+Squat 1,Leg Press (Hinge),204,12
 Back,Chin Up,15,10
 Back,Chin Up,31,8
 Back,Chin Up,31,8
@@ -5063,10 +5063,10 @@ Squat 1,Squat (Barbell),124,6
 Squat 1,Squat (Barbell),133,6
 Squat 1,Squat (Barbell),142,6
 Squat 1,Squat (Barbell),142,6
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
-Squat 1,Leg Press (Hinge ),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
+Squat 1,Leg Press (Hinge),226,10
 Chest,Incline Bench Press (Barbell),61,5
 Chest,Incline Bench Press (Barbell),83,5
 Chest,Incline Bench Press (Barbell),108,8
@@ -5120,9 +5120,9 @@ Back,Chin Up,0,10
 Back,Rear Delt Fly,65,12
 Back,Rear Delt Fly,65,12
 Back,Rear Delt Fly,58,15
-Back,Hammer Curl (Dumbbell ),27,15
-Back,Hammer Curl (Dumbbell ),27,15
-Back,Hammer Curl (Dumbbell ),27,15
+Back,Hammer Curl,27,15
+Back,Hammer Curl,27,15
+Back,Hammer Curl,27,15
 Back,Hammer Seated Row (Close Grip),99,10
 Back,Hammer Seated Row (Close Grip),99,10
 Back,Hammer Seated Row (Close Grip),99,10
@@ -5235,8 +5235,8 @@ Squat 1,Squat (Barbell),149,5
 Squat 1,Squat (Barbell),151,6
 Squat 1,Squat (Barbell),151,5
 Squat 1,Squat (Barbell),154,5
-Squat 1,Leg Press (Hinge ),163,10
-Squat 1,Leg Press (Hinge ),163,10
+Squat 1,Leg Press (Hinge),163,10
+Squat 1,Leg Press (Hinge),163,10
 Squat 1,Leg Curl,65,12
 Squat 1,Leg Curl,65,12
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
@@ -5426,7 +5426,7 @@ Back,Bent Over Row (Dumbbell),45,12
 Back,Bent Over Row (Dumbbell),45,10
 Back,Bent Over Row (Dumbbell),45,12
 Back,Pull Up,0,8
-Back,Hammer Curl (Dumbbell ),27,10
+Back,Hammer Curl,27,10
 Squat 1,Squat (Barbell),83,5
 Squat 1,Squat (Barbell),102,5
 Squat 1,Squat (Barbell),127,6
@@ -5565,11 +5565,11 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 2 - Back Heavy Chins,Bent Over Row (Dumbbell),40,10
 2 - Back Heavy Chins,Pull Up,0,10
 2 - Back Heavy Chins,Pull Up,0,10
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),31,10
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),31,10
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,8
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),27,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),27,12
+2 - Back Heavy Chins,Hammer Curl,31,10
+2 - Back Heavy Chins,Hammer Curl,31,10
+2 - Back Heavy Chins,Hammer Curl,36,8
+2 - Back Heavy Chins,Hammer Curl,27,12
+2 - Back Heavy Chins,Hammer Curl,27,12
 1 - Heavy Squats,Squat (Barbell),83,5
 1 - Heavy Squats,Squat (Barbell),102,6
 1 - Heavy Squats,Squat (Barbell),115,6
@@ -5635,11 +5635,11 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 1 - Heavy Squats,Squat (Barbell),151,5
 1 - Heavy Squats,Squat (Barbell),156,5
 1 - Heavy Squats,Squat (Barbell),156,5
-1 - Heavy Squats,Leg Press (Hinge ),163,12
-1 - Heavy Squats,Leg Press (Hinge ),204,12
-1 - Heavy Squats,Leg Press (Hinge ),235,12
-1 - Heavy Squats,Leg Press (Hinge ),235,12
-1 - Heavy Squats,Leg Press (Hinge ),235,12
+1 - Heavy Squats,Leg Press (Hinge),163,12
+1 - Heavy Squats,Leg Press (Hinge),204,12
+1 - Heavy Squats,Leg Press (Hinge),235,12
+1 - Heavy Squats,Leg Press (Hinge),235,12
+1 - Heavy Squats,Leg Press (Hinge),235,12
 2 - Back Heavy Chins,Chin Up,15,10
 2 - Back Heavy Chins,Chin Up,17,10
 2 - Back Heavy Chins,Chin Up,20,10
@@ -5688,8 +5688,8 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 1 - Heavy Squats,Deadlift (Barbell),129,5
 1 - Heavy Squats,Deadlift (Barbell),151,5
 1 - Heavy Squats,Deadlift (Barbell),156,5
-1 - Heavy Squats,Leg Press (Hinge ),163,12
-1 - Heavy Squats,Leg Press (Hinge ),163,12
+1 - Heavy Squats,Leg Press (Hinge),163,12
+1 - Heavy Squats,Leg Press (Hinge),163,12
 2 - Back Heavy Chins,Chin Up,18,10
 2 - Back Heavy Chins,Chin Up,18,10
 2 - Back Heavy Chins,Chin Up,22,8
@@ -5797,9 +5797,9 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Squat (Barbell),133,6
 1 - Heavy Squats,Squat (Barbell),142,6
 1 - Heavy Squats,Squat (Barbell),142,7
-1 - Heavy Squats,Leg Press (Hinge ),226,12
-1 - Heavy Squats,Leg Press (Hinge ),244,10
-1 - Heavy Squats,Leg Press (Hinge ),244,10
+1 - Heavy Squats,Leg Press (Hinge),226,12
+1 - Heavy Squats,Leg Press (Hinge),244,10
+1 - Heavy Squats,Leg Press (Hinge),244,10
 2 - Back Heavy Chins,Chin Up,24,9
 2 - Back Heavy Chins,Chin Up,24,9
 2 - Back Heavy Chins,Chin Up,24,10
@@ -5843,9 +5843,9 @@ Squat 1,Deadlift (Barbell),170,5
 1 Heavy   Rows,Hammer Seated Row (Close Grip),97,11
 1 Heavy   Rows,Hammer Seated Row (Close Grip),97,11
 1 Heavy   Rows,Hammer Seated Row (Close Grip),97,11
-1 Heavy   Rows,Hammer Curl (Dumbbell ),36,12
-1 Heavy   Rows,Hammer Curl (Dumbbell ),36,12
-1 Heavy   Rows,Hammer Curl (Dumbbell ),36,12
+1 Heavy   Rows,Hammer Curl,36,12
+1 Heavy   Rows,Hammer Curl,36,12
+1 Heavy   Rows,Hammer Curl,36,12
 2 - Shoulders ,Seated Shoulder  Press (Barbell),43,10
 2 - Shoulders ,Seated Shoulder  Press (Barbell),61,10
 2 - Shoulders ,Seated Shoulder  Press (Barbell),61,7
@@ -5877,8 +5877,8 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Lat Pulldown ,72,12
 2 - Back Heavy Chins,Lat Pulldown ,79,10
 2 - Back Heavy Chins,Lat Pulldown ,86,8
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,10
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,10
+2 - Back Heavy Chins,Hammer Curl,36,10
+2 - Back Heavy Chins,Hammer Curl,36,10
 1 - Heavy Squats,Squat (Barbell),83,7
 1 - Heavy Squats,Squat (Barbell),102,6
 1 - Heavy Squats,Squat (Barbell),124,6
@@ -5892,9 +5892,9 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Deadlift (Barbell),124,5
 1 - Heavy Squats,Deadlift (Barbell),147,5
 1 - Heavy Squats,Deadlift (Barbell),147,5
-1 - Heavy Squats,Leg Press (Hinge ),226,13
-1 - Heavy Squats,Leg Press (Hinge ),231,10
-1 - Heavy Squats,Leg Press (Hinge ),231,8
+1 - Heavy Squats,Leg Press (Hinge),226,13
+1 - Heavy Squats,Leg Press (Hinge),231,10
+1 - Heavy Squats,Leg Press (Hinge),231,8
 1 - Heavy Squats,Good Morning (Barbell),43,12
 1 - Heavy Squats,Good Morning (Barbell),45,11
 1 - Heavy Squats,Good Morning (Barbell),45,12
@@ -5911,9 +5911,9 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Deadlift (Barbell),124,5
 1 - Heavy Squats,Deadlift (Barbell),147,5
 1 - Heavy Squats,Deadlift (Barbell),147,5
-1 - Heavy Squats,Leg Press (Hinge ),226,13
-1 - Heavy Squats,Leg Press (Hinge ),231,10
-1 - Heavy Squats,Leg Press (Hinge ),231,8
+1 - Heavy Squats,Leg Press (Hinge),226,13
+1 - Heavy Squats,Leg Press (Hinge),231,10
+1 - Heavy Squats,Leg Press (Hinge),231,8
 1 - Heavy Squats,Good Morning (Barbell),43,12
 1 - Heavy Squats,Good Morning (Barbell),45,11
 1 - Heavy Squats,Good Morning (Barbell),45,12
@@ -5998,7 +5998,7 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Lat Pulldown ,77,10
 2 - Back Heavy Chins,Lat Pulldown ,77,10
 2 - Back Heavy Chins,Lat Pulldown ,68,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),27,12
+2 - Back Heavy Chins,Hammer Curl,27,12
 2 Legs-High Reps,Squat (Barbell),61,5
 2 Legs-High Reps,Squat (Barbell),102,6
 2 Legs-High Reps,Squat (Barbell),127,6
@@ -6018,8 +6018,8 @@ Squat 1,Deadlift (Barbell),170,5
 2 Legs-High Reps,Good Morning (Barbell),45,12
 2 Legs-High Reps,Good Morning (Barbell),45,12
 2 Legs-High Reps,Good Morning (Barbell),49,12
-2 Legs-High Reps,Leg Press (Hinge ),235,12
-2 Legs-High Reps,Leg Press (Hinge ),235,12
+2 Legs-High Reps,Leg Press (Hinge),235,12
+2 Legs-High Reps,Leg Press (Hinge),235,12
 1 Incline Day,Incline Bench Press (Barbell),61,5
 1 Incline Day,Incline Bench Press (Barbell),61,5
 1 Incline Day,Incline Bench Press (Barbell),83,5
@@ -6128,8 +6128,8 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Bicep Curl (Barbell),45,11
 2 - Back Heavy Chins,Bicep Curl (Barbell),45,11
 2 - Back Heavy Chins,Bicep Curl (Barbell),45,10
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),31,13
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),31,13
+2 - Back Heavy Chins,Hammer Curl,31,13
+2 - Back Heavy Chins,Hammer Curl,31,13
 1 Incline Day,Incline Bench Press (Barbell),61,5
 1 Incline Day,Incline Bench Press (Barbell),61,5
 1 Incline Day,Incline Bench Press (Barbell),83,5
@@ -6154,9 +6154,9 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Bicep Curl (Barbell),31,12
 2 - Back Heavy Chins,Bicep Curl (Barbell),31,12
 2 - Back Heavy Chins,Bicep Curl (Barbell),31,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,12
+2 - Back Heavy Chins,Hammer Curl,36,12
+2 - Back Heavy Chins,Hammer Curl,36,12
+2 - Back Heavy Chins,Hammer Curl,36,12
 1 - Heavy Squats,Squat (Barbell),83,6
 1 - Heavy Squats,Squat (Barbell),83,6
 1 - Heavy Squats,Squat (Barbell),104,6
@@ -6241,7 +6241,7 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),108,8
 2 - Back Heavy Chins,Rear Delt Fly,49,10
 2 - Back Heavy Chins,Rear Delt Fly,36,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),31,15
+2 - Back Heavy Chins,Hammer Curl,31,15
 1 - Heavy Squats,Squat (Barbell),83,6
 1 - Heavy Squats,Squat (Barbell),83,6
 1 - Heavy Squats,Squat (Barbell),106,6
@@ -6281,8 +6281,8 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),108,10
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),81,8
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),108,10
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),22,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),22,12
+2 - Back Heavy Chins,Hammer Curl,22,12
+2 - Back Heavy Chins,Hammer Curl,22,12
 1 - Heavy Squats,Squat (Barbell),83,6
 1 - Heavy Squats,Squat (Barbell),102,6
 1 - Heavy Squats,Squat (Barbell),111,7
@@ -6293,10 +6293,10 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Leg Curl,58,12
 1 - Heavy Squats,Leg Curl,58,12
 1 - Heavy Squats,Leg Curl,58,12
-1 - Heavy Squats,Leg Press (Hinge ),204,10
-1 - Heavy Squats,Leg Press (Hinge ),244,12
-1 - Heavy Squats,Leg Press (Hinge ),244,12
-1 - Heavy Squats,Leg Press (Hinge ),244,10
+1 - Heavy Squats,Leg Press (Hinge),204,10
+1 - Heavy Squats,Leg Press (Hinge),244,12
+1 - Heavy Squats,Leg Press (Hinge),244,12
+1 - Heavy Squats,Leg Press (Hinge),244,10
 2 - Shoulders ,Seated Shoulder  Press (Barbell),43,8
 2 - Shoulders ,Seated Shoulder  Press (Barbell),43,8
 2 - Shoulders ,Seated Shoulder  Press (Barbell),65,6
@@ -6356,12 +6356,12 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Good Morning (Barbell),52,10
 1 - Heavy Squats,Good Morning (Barbell),54,10
 1 - Heavy Squats,Good Morning (Barbell),56,10
-1 - Heavy Squats,Leg Press (Hinge ),244,10
-1 - Heavy Squats,Leg Press (Hinge ),244,12
-1 - Heavy Squats,Leg Press (Hinge ),258,12
-1 - Heavy Squats,Leg Press (Hinge ),258,12
-1 - Heavy Squats,Leg Press (Hinge ),163,15
-1 - Heavy Squats,Leg Press (Hinge ),163,15
+1 - Heavy Squats,Leg Press (Hinge),244,10
+1 - Heavy Squats,Leg Press (Hinge),244,12
+1 - Heavy Squats,Leg Press (Hinge),258,12
+1 - Heavy Squats,Leg Press (Hinge),258,12
+1 - Heavy Squats,Leg Press (Hinge),163,15
+1 - Heavy Squats,Leg Press (Hinge),163,15
 1 Incline Day,Incline Bench Press (Barbell),61,5
 1 Incline Day,Incline Bench Press (Barbell),83,5
 1 Incline Day,Incline Bench Press (Barbell),108,8
@@ -6390,9 +6390,9 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),86,10
 2 - Back Heavy Chins,Stairmaster,0,0
 2 - Back Heavy Chins,Stairmaster,0,0
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,12
-2 - Back Heavy Chins,Hammer Curl (Dumbbell ),36,10
+2 - Back Heavy Chins,Hammer Curl,36,12
+2 - Back Heavy Chins,Hammer Curl,36,12
+2 - Back Heavy Chins,Hammer Curl,36,10
 1 - Heavy Squats,Squat (Barbell),83,5
 1 - Heavy Squats,Squat (Barbell),102,6
 1 - Heavy Squats,Squat (Barbell),111,5
@@ -6465,9 +6465,9 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Leg Curl,49,12
 1 - Heavy Squats,Leg Curl,58,10
 1 - Heavy Squats,Leg Curl,61,10
-1 - Heavy Squats,Leg Press (Hinge ),249,13
-1 - Heavy Squats,Leg Press (Hinge ),249,13
-1 - Heavy Squats,Leg Press (Hinge ),249,13
+1 - Heavy Squats,Leg Press (Hinge),249,13
+1 - Heavy Squats,Leg Press (Hinge),249,13
+1 - Heavy Squats,Leg Press (Hinge),249,13
 2 - Back Heavy Chins,Chin Up,36,5
 2 - Back Heavy Chins,Chin Up,36,5
 2 - Back Heavy Chins,Chin Up,36,6
@@ -6495,10 +6495,10 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Squat (Barbell),156,5
 1 - Heavy Squats,Squat (Barbell),156,5
 1 - Heavy Squats,Squat (Barbell),142,8
-1 - Heavy Squats,Leg Press (Hinge ),276,11
-1 - Heavy Squats,Leg Press (Hinge ),276,11
-1 - Heavy Squats,Leg Press (Hinge ),276,11
-1 - Heavy Squats,Leg Press (Hinge ),276,9
+1 - Heavy Squats,Leg Press (Hinge),276,11
+1 - Heavy Squats,Leg Press (Hinge),276,11
+1 - Heavy Squats,Leg Press (Hinge),276,11
+1 - Heavy Squats,Leg Press (Hinge),276,9
 1 - Heavy Squats,Leg Curl,63,9
 1 - Heavy Squats,Leg Curl,63,9
 Back,Chin Up,26,9
@@ -6551,10 +6551,10 @@ Back,Hammer Seated Row (Close Grip),111,10
 1 - Heavy Squats,Leg Curl,49,9
 1 - Heavy Squats,Good Morning (Barbell),47,8
 1 - Heavy Squats,Good Morning (Barbell),47,8
-1 - Heavy Squats,Leg Press (Hinge ),285,10
-1 - Heavy Squats,Leg Press (Hinge ),285,10
-1 - Heavy Squats,Leg Press (Hinge ),285,10
-1 - Heavy Squats,Leg Press (Hinge ),285,7
+1 - Heavy Squats,Leg Press (Hinge),285,10
+1 - Heavy Squats,Leg Press (Hinge),285,10
+1 - Heavy Squats,Leg Press (Hinge),285,10
+1 - Heavy Squats,Leg Press (Hinge),285,7
 Back,Chin Up,0,8
 Back,Chin Up,27,10
 Back,Chin Up,27,10
@@ -6563,10 +6563,10 @@ Back,Chin Up,15,10
 Back,Chin Up,15,10
 Back,Chin Up,5,10
 Back,Chin Up,5,10
-Back,Bicep Curl (Barbell ),45,9
-Back,Bicep Curl (Barbell ),45,9
-Back,Bicep Curl (Barbell ),34,10
-Back,Bicep Curl (Barbell ),34,10
+Back,Bicep Curl (Barbell),45,9
+Back,Bicep Curl (Barbell),45,9
+Back,Bicep Curl (Barbell),34,10
+Back,Bicep Curl (Barbell),34,10
 Back,Hammer Seated Row (Close Grip),111,10
 Back,Hammer Seated Row (Close Grip),111,10
 Back,Hammer Seated Row (Close Grip),113,10
@@ -6664,17 +6664,17 @@ Back,Hammer Seated Row (Close Grip),114,10
 1 - Heavy Squats,Leg Curl,58,8
 1 - Heavy Squats,Leg Curl,54,10
 1 - Heavy Squats,Leg Curl,54,10
-1 - Heavy Squats,Leg Press (Hinge ),308,8
-1 - Heavy Squats,Leg Press (Hinge ),308,8
-1 - Heavy Squats,Leg Press (Hinge ),310,10
+1 - Heavy Squats,Leg Press (Hinge),308,8
+1 - Heavy Squats,Leg Press (Hinge),308,8
+1 - Heavy Squats,Leg Press (Hinge),310,10
 Back,Chin Up,0,9
 Back,Chin Up,29,8
 Back,Chin Up,29,9
 Back,Chin Up,29,8
 Back,Chin Up,29,8
 Back,Chin Up,18,10
-Back,Bicep Curl (Barbell ),34,10
-Back,Bicep Curl (Barbell ),34,10
+Back,Bicep Curl (Barbell),34,10
+Back,Bicep Curl (Barbell),34,10
 Back,Hammer Seated Row (Close Grip),113,10
 Back,Hammer Seated Row (Close Grip),113,10
 Back,Hammer Seated Row (Close Grip),113,10
@@ -6708,10 +6708,10 @@ Back,Hammer Seated Row (Close Grip),63,12
 1 - Heavy Squats,Leg Outward Fly,49,16
 1 - Heavy Squats,Leg Outward Fly,58,12
 1 - Heavy Squats,Leg Outward Fly,58,12
-1 - Heavy Squats,Leg Press (Hinge ),244,8
-1 - Heavy Squats,Leg Press (Hinge ),326,9
-1 - Heavy Squats,Leg Press (Hinge ),326,9
-1 - Heavy Squats,Leg Press (Hinge ),326,9
+1 - Heavy Squats,Leg Press (Hinge),244,8
+1 - Heavy Squats,Leg Press (Hinge),326,9
+1 - Heavy Squats,Leg Press (Hinge),326,9
+1 - Heavy Squats,Leg Press (Hinge),326,9
 1 - Heavy Squats,Romanian Deadlift (Barbell),61,8
 1 - Heavy Squats,Romanian Deadlift (Barbell),61,8
 1 - Heavy Squats,Romanian Deadlift (Barbell),70,8
@@ -6782,9 +6782,9 @@ Back,Hammer Seated Row (Close Grip),81,8
 1 - Heavy Squats,Romanian Deadlift (Barbell),83,9
 1 - Heavy Squats,Romanian Deadlift (Barbell),83,9
 1 - Heavy Squats,Romanian Deadlift (Barbell),92,8
-1 - Heavy Squats,Leg Press (Hinge ),285,10
-1 - Heavy Squats,Leg Press (Hinge ),285,10
-1 - Heavy Squats,Leg Press (Hinge ),285,10
+1 - Heavy Squats,Leg Press (Hinge),285,10
+1 - Heavy Squats,Leg Press (Hinge),285,10
+1 - Heavy Squats,Leg Press (Hinge),285,10
 2 - Back Heavy Chins,Chin Up,0,10
 2 - Back Heavy Chins,Chin Up,24,10
 2 - Back Heavy Chins,Chin Up,24,9
@@ -6924,7 +6924,7 @@ Back,Hammer Lat Pulldown,86,10
 1 - Heavy Squats,Good Morning (Barbell),52,10
 1 - Heavy Squats,Good Morning (Barbell),52,10
 1 - Heavy Squats,Romanian Deadlift (Barbell),102,8
-1 - Heavy Squats,Leg Press (Hinge ),122,10
+1 - Heavy Squats,Leg Press (Hinge),122,10
 1 - Heavy Squats,Glute Extension ,58,12
 1 - Heavy Squats,Glute Extension ,58,12
 1 Incline Day,Incline Bench Press (Barbell),61,6
@@ -7015,10 +7015,10 @@ Back,Hammer Lat Pulldown,86,10
 1 - Heavy Squats,Squat (Barbell),151,5
 1 - Heavy Squats,Squat (Barbell),156,5
 1 - Heavy Squats,Squat (Barbell),158,6
-1 - Heavy Squats,Leg Press (Hinge ),244,12
-1 - Heavy Squats,Leg Press (Hinge ),326,9
-1 - Heavy Squats,Leg Press (Hinge ),326,9
-1 - Heavy Squats,Leg Press (Hinge ),267,9
+1 - Heavy Squats,Leg Press (Hinge),244,12
+1 - Heavy Squats,Leg Press (Hinge),326,9
+1 - Heavy Squats,Leg Press (Hinge),326,9
+1 - Heavy Squats,Leg Press (Hinge),267,9
 2 - Back Heavy Chins,Chin Up,0,10
 2 - Back Heavy Chins,Chin Up,24,10
 2 - Back Heavy Chins,Chin Up,24,10
@@ -7269,8 +7269,8 @@ Back - Chins  5X6,Hammer Seated Row (Close Grip),108,10
 Back - Chins  5X6,Hammer Seated Row (Close Grip),108,10
 Back - Chins  5X6,Hammer Row - Wide Grip,108,10
 Back - Chins  5X6,Hammer Row - Wide Grip,108,10
-Back - Chins  5X6,Hammer Curl (Dumbbell ),22,15
-Back - Chins  5X6,Hammer Curl (Dumbbell ),22,12
+Back - Chins  5X6,Hammer Curl,22,15
+Back - Chins  5X6,Hammer Curl,22,12
 Back - Chins  5X6,Hammer High Row - 1 Arm,31,10
 Back - Chins  5X6,Hammer High Row - 1 Arm,43,10
 Back - Chins  5X6,Hammer High Row - 1 Arm,31,10
@@ -7419,10 +7419,10 @@ Legs - Heavy,Rack Pull 2 Pin,167,5
 Legs - Heavy,Rack Pull 2 Pin,188,5
 Legs - Heavy,Rack Pull 2 Pin,201,5
 Legs - Heavy,Rack Pull 2 Pin,201,5
-Legs - Heavy,Leg Press (Hinge ),204,15
-Legs - Heavy,Leg Press (Hinge ),204,12
-Legs - Heavy,Leg Press (Hinge ),244,10
-Legs - Heavy,Leg Press (Hinge ),244,10
+Legs - Heavy,Leg Press (Hinge),204,15
+Legs - Heavy,Leg Press (Hinge),204,12
+Legs - Heavy,Leg Press (Hinge),244,10
+Legs - Heavy,Leg Press (Hinge),244,10
 Legs - Heavy,Leg Curl,54,12
 Legs - Heavy,Leg Curl,49,10
 "Back - Light Chins, 8-10 Reps",Chin Up,0,8
@@ -7523,10 +7523,10 @@ Legs - Heavy,Romanian Deadlift (Barbell),43,8
 Legs - Heavy,Romanian Deadlift (Barbell),43,8
 Legs - Heavy,Romanian Deadlift (Barbell),52,8
 Legs - Heavy,Front Squat (Barbell),61,6
-Legs - Heavy,Leg Press (Hinge ),226,12
-Legs - Heavy,Leg Press (Hinge ),267,12
-Legs - Heavy,Leg Press (Hinge ),272,12
-Legs - Heavy,Leg Press (Hinge ),272,12
+Legs - Heavy,Leg Press (Hinge),226,12
+Legs - Heavy,Leg Press (Hinge),267,12
+Legs - Heavy,Leg Press (Hinge),272,12
+Legs - Heavy,Leg Press (Hinge),272,12
 "Back - Light Chins, 8-10 Reps",Chin Up,0,11
 "Back - Light Chins, 8-10 Reps",Chin Up,15,10
 "Back - Light Chins, 8-10 Reps",Chin Up,15,10
@@ -7545,8 +7545,8 @@ Legs - Heavy,Leg Press (Hinge ),272,12
 "Back - Light Chins, 8-10 Reps",Neutral Chin,0,8
 "Back - Light Chins, 8-10 Reps",T-Bar Row,40,8
 "Back - Light Chins, 8-10 Reps",T-Bar Row,40,8
-"Back - Light Chins, 8-10 Reps",Hammer Curl (Dumbbell ),22,12
-"Back - Light Chins, 8-10 Reps",Hammer Curl (Dumbbell ),22,15
+"Back - Light Chins, 8-10 Reps",Hammer Curl,22,12
+"Back - Light Chins, 8-10 Reps",Hammer Curl,22,15
 Push - Incline,Incline Bench Press (Barbell),119,5
 Push - Incline,Incline Bench Press (Barbell),119,5
 Push - Incline,Incline Bench Press (Barbell),119,5
@@ -7566,9 +7566,9 @@ Legs - 5X5 / Volume,Romanian Deadlift (Barbell),61,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),61,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),65,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),68,7
-Legs - 5X5 / Volume,Leg Press (Hinge ),244,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),244,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),244,10
+Legs - 5X5 / Volume,Leg Press (Hinge),244,10
+Legs - 5X5 / Volume,Leg Press (Hinge),244,10
+Legs - 5X5 / Volume,Leg Press (Hinge),244,10
 Legs - 5X5 / Volume,Kettlebell Swings,23,12
 Legs - 5X5 / Volume,Kettlebell Swings,23,12
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,0,5
@@ -7677,8 +7677,8 @@ Legs - 5X5 / Volume,Squat (Barbell),161,5
 Legs - 5X5 / Volume,High Bar Squat,61,6
 Legs - 5X5 / Volume,High Bar Squat,70,6
 Legs - 5X5 / Volume,High Bar Squat,70,8
-Legs - 5X5 / Volume,Leg Press (Hinge ),267,9
-Legs - 5X5 / Volume,Leg Press (Hinge ),267,8
+Legs - 5X5 / Volume,Leg Press (Hinge),267,9
+Legs - 5X5 / Volume,Leg Press (Hinge),267,8
 Legs - 5X5 / Volume,Deadlift - Trap Bar,102,6
 Legs - 5X5 / Volume,Deadlift - Trap Bar,102,6
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,0,5
@@ -7730,9 +7730,9 @@ Legs - Heavy,Squat (Barbell),151,5
 Legs - Heavy,Romanian Deadlift (Barbell),65,8
 Legs - Heavy,Romanian Deadlift (Barbell),65,8
 Legs - Heavy,Romanian Deadlift (Barbell),65,8
-Legs - Heavy,Leg Press (Hinge ),276,10
-Legs - Heavy,Leg Press (Hinge ),276,11
-Legs - Heavy,Leg Press (Hinge ),276,10
+Legs - Heavy,Leg Press (Hinge),276,10
+Legs - Heavy,Leg Press (Hinge),276,11
+Legs - Heavy,Leg Press (Hinge),276,10
 Legs - Heavy,High Bar Squat,79,5
 Legs - Heavy,High Bar Squat,83,7
 Legs - Heavy,High Bar Squat,88,12
@@ -7784,10 +7784,10 @@ Legs - 5X5 / Volume,Squat (Barbell),151,5
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),61,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),68,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),68,8
-Legs - 5X5 / Volume,Leg Press (Hinge ),163,8
-Legs - 5X5 / Volume,Leg Press (Hinge ),276,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),276,11
-Legs - 5X5 / Volume,Leg Press (Hinge ),281,10
+Legs - 5X5 / Volume,Leg Press (Hinge),163,8
+Legs - 5X5 / Volume,Leg Press (Hinge),276,10
+Legs - 5X5 / Volume,Leg Press (Hinge),276,11
+Legs - 5X5 / Volume,Leg Press (Hinge),281,10
 Legs - 5X5 / Volume,Kettlebell Swings,23,15
 Legs - 5X5 / Volume,Kettlebell Swings,28,10
 Legs - 5X5 / Volume,High Bar Squat,92,12
@@ -7842,9 +7842,9 @@ Legs - Heavy,Leg Outward Fly,54,15
 Legs - Heavy,Leg Outward Fly,58,15
 Legs - Heavy,High Bar Squat,102,8
 Legs - Heavy,High Bar Squat,104,8
-Legs - Heavy,Leg Press (Hinge ),276,10
-Legs - Heavy,Leg Press (Hinge ),276,11
-Legs - Heavy,Leg Press (Hinge ),281,12
+Legs - Heavy,Leg Press (Hinge),276,10
+Legs - Heavy,Leg Press (Hinge),276,11
+Legs - Heavy,Leg Press (Hinge),281,12
 Pulls ,Deadlift (Barbell),102,3
 Pulls ,Deadlift (Barbell),111,2
 Pulls ,Deadlift (Barbell),142,3
@@ -7967,10 +7967,10 @@ Legs - 5X5 / Volume,Squat (Barbell),147,5
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),61,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),65,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),65,8
-Legs - 5X5 / Volume,Leg Press (Hinge ),163,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),163,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),163,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),163,10
+Legs - 5X5 / Volume,Leg Press (Hinge),163,10
+Legs - 5X5 / Volume,Leg Press (Hinge),163,10
+Legs - 5X5 / Volume,Leg Press (Hinge),163,10
+Legs - 5X5 / Volume,Leg Press (Hinge),163,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,0,6
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,22,7
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,22,8
@@ -7992,10 +7992,10 @@ Legs - 5X5 / Volume,Squat (Barbell),129,5
 Legs - 5X5 / Volume,Squat (Barbell),129,5
 Legs - 5X5 / Volume,Squat (Barbell),133,5
 Legs - 5X5 / Volume,Squat (Barbell),133,8
-Legs - 5X5 / Volume,Leg Press (Hinge ),185,11
-Legs - 5X5 / Volume,Leg Press (Hinge ),235,12
-Legs - 5X5 / Volume,Leg Press (Hinge ),244,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),249,11
+Legs - 5X5 / Volume,Leg Press (Hinge),185,11
+Legs - 5X5 / Volume,Leg Press (Hinge),235,12
+Legs - 5X5 / Volume,Leg Press (Hinge),244,10
+Legs - 5X5 / Volume,Leg Press (Hinge),249,11
 Pulls ,Deadlift (Barbell),102,3
 Pulls ,Deadlift (Barbell),142,3
 Pulls ,Deadlift (Barbell),183,3
@@ -8085,9 +8085,9 @@ Legs - 5X5 / Volume,Leg Outward Fly,49,12
 Legs - 5X5 / Volume,Leg Outward Fly,54,12
 Legs - 5X5 / Volume,High Bar Squat,88,8
 Legs - 5X5 / Volume,High Bar Squat,88,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),244,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),258,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),258,10
+Legs - 5X5 / Volume,Leg Press (Hinge),244,10
+Legs - 5X5 / Volume,Leg Press (Hinge),258,10
+Legs - 5X5 / Volume,Leg Press (Hinge),258,10
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),61,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),68,8
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),68,8
@@ -8162,7 +8162,7 @@ Legs - Heavy,High Bar Squat,90,8
 "Back - Light Chins, 8-10 Reps",Bent Over Row (Dumbbell),45,11
 "Back - Light Chins, 8-10 Reps",Neutral Chin,11,9
 "Back - Light Chins, 8-10 Reps",Neutral Chin,11,10
-"Back - Light Chins, 8-10 Reps",Hammer Curl (Dumbbell ),22,12
+"Back - Light Chins, 8-10 Reps",Hammer Curl,22,12
 "Back - Light Chins, 8-10 Reps",Curl Dumbbell,22,12
 Push - Incline,Incline Bench Press (Barbell),102,8
 Push - Incline,Incline Bench Press (Barbell),106,8
@@ -8184,9 +8184,9 @@ Legs - Heavy,Squat (Barbell),163,3
 Legs - Heavy,Squat (Barbell),165,3
 Legs - Heavy,High Bar Squat,102,5
 Legs - Heavy,High Bar Squat,102,8
-Legs - Heavy,Leg Press (Hinge ),204,10
-Legs - Heavy,Leg Press (Hinge ),244,10
-Legs - Heavy,Leg Press (Hinge ),244,10
+Legs - Heavy,Leg Press (Hinge),204,10
+Legs - Heavy,Leg Press (Hinge),244,10
+Legs - Heavy,Leg Press (Hinge),244,10
 Legs - Heavy,Kettlebell Swings,27,10
 Legs - Heavy,Kettlebell Swings,27,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,34,6
@@ -8235,10 +8235,10 @@ Legs - 5X5 / Volume,High Bar Squat,104,8
 Legs - 5X5 / Volume,High Bar Squat,104,9
 Legs - 5X5 / Volume,Good Morning (Barbell),45,9
 Legs - 5X5 / Volume,Good Morning (Barbell),45,9
-Legs - 5X5 / Volume,Leg Press (Hinge ),213,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),254,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),263,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),263,10
+Legs - 5X5 / Volume,Leg Press (Hinge),213,10
+Legs - 5X5 / Volume,Leg Press (Hinge),254,10
+Legs - 5X5 / Volume,Leg Press (Hinge),263,10
+Legs - 5X5 / Volume,Leg Press (Hinge),263,10
 "Back - Light Chins, 8-10 Reps",Chin Up,13,10
 "Back - Light Chins, 8-10 Reps",Chin Up,13,10
 "Back - Light Chins, 8-10 Reps",Chin Up,13,10
@@ -8293,9 +8293,9 @@ Legs - Heavy,Leg Outward Fly,63,12
 Legs - Heavy,High Bar Squat,106,8
 Legs - Heavy,High Bar Squat,106,6
 Legs - Heavy,High Bar Squat,106,8
-Legs - Heavy,Leg Press (Hinge ),263,10
-Legs - Heavy,Leg Press (Hinge ),263,11
-Legs - Heavy,Leg Press (Hinge ),263,12
+Legs - Heavy,Leg Press (Hinge),263,10
+Legs - Heavy,Leg Press (Hinge),263,11
+Legs - Heavy,Leg Press (Hinge),263,12
 Legs - Heavy,Leg Curl,56,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,36,4
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,36,4
@@ -8337,9 +8337,9 @@ Legs - Heavy,Leg Outward Fly,63,15
 Legs - Heavy,Leg Outward Fly,63,15
 Legs - Heavy,High Bar Squat,108,8
 Legs - Heavy,High Bar Squat,108,8
-Legs - Heavy,Leg Press (Hinge ),272,10
-Legs - Heavy,Leg Press (Hinge ),272,10
-Legs - Heavy,Leg Press (Hinge ),272,10
+Legs - Heavy,Leg Press (Hinge),272,10
+Legs - Heavy,Leg Press (Hinge),272,10
+Legs - Heavy,Leg Press (Hinge),272,10
 Push - Incline,Incline Bench Press (Barbell),117,5
 Push - Incline,Incline Bench Press (Barbell),117,5
 Push - Incline,Incline Bench Press (Barbell),117,5
@@ -8379,10 +8379,10 @@ Legs - Heavy,High Bar Squat,111,5
 Legs - Heavy,High Bar Squat,111,6
 Legs - Heavy,High Bar Squat,111,8
 Legs - Heavy,High Bar Squat,111,5
-Legs - Heavy,Leg Press (Hinge ),267,10
-Legs - Heavy,Leg Press (Hinge ),276,10
-Legs - Heavy,Leg Press (Hinge ),276,10
-Legs - Heavy,Leg Press (Hinge ),276,10
+Legs - Heavy,Leg Press (Hinge),267,10
+Legs - Heavy,Leg Press (Hinge),276,10
+Legs - Heavy,Leg Press (Hinge),276,10
+Legs - Heavy,Leg Press (Hinge),276,10
 Legs - Heavy,Leg Outward Fly,63,15
 Legs - Heavy,Leg Outward Fly,63,15
 Legs - Heavy,Leg Outward Fly,63,10
@@ -8423,11 +8423,11 @@ Legs - 5X5 / Volume,Squat (Barbell),165,5
 Legs - 5X5 / Volume,Squat (Barbell),165,5
 Legs - 5X5 / Volume,Squat (Barbell),165,5
 Legs - 5X5 / Volume,Squat (Barbell),167,5
-Legs - 5X5 / Volume,Leg Press (Hinge ),122,15
-Legs - 5X5 / Volume,Leg Press (Hinge ),122,15
-Legs - 5X5 / Volume,Leg Press (Hinge ),122,15
-Legs - 5X5 / Volume,Leg Press (Hinge ),204,12
-Legs - 5X5 / Volume,Leg Press (Hinge ),204,12
+Legs - 5X5 / Volume,Leg Press (Hinge),122,15
+Legs - 5X5 / Volume,Leg Press (Hinge),122,15
+Legs - 5X5 / Volume,Leg Press (Hinge),122,15
+Legs - 5X5 / Volume,Leg Press (Hinge),204,12
+Legs - 5X5 / Volume,Leg Press (Hinge),204,12
 Push - Incline,Incline Bench Press (Barbell),102,5
 Push - Incline,Incline Bench Press (Barbell),120,5
 Push - Incline,Incline Bench Press (Barbell),120,5
@@ -8521,12 +8521,12 @@ Legs - Heavy,Squat (Barbell),151,5
 Legs - Heavy,Squat (Barbell),165,5
 Legs - Heavy,Squat (Barbell),174,1
 Legs - Heavy,Squat (Barbell),142,5
-Legs - Heavy,Leg Press (Hinge ),204,12
-Legs - Heavy,Leg Press (Hinge ),204,12
-Legs - Heavy,Leg Press (Hinge ),204,12
-Legs - Heavy,Leg Press (Hinge ),244,10
-Legs - Heavy,Leg Press (Hinge ),244,10
-Legs - Heavy,Leg Press (Hinge ),244,10
+Legs - Heavy,Leg Press (Hinge),204,12
+Legs - Heavy,Leg Press (Hinge),204,12
+Legs - Heavy,Leg Press (Hinge),204,12
+Legs - Heavy,Leg Press (Hinge),244,10
+Legs - Heavy,Leg Press (Hinge),244,10
+Legs - Heavy,Leg Press (Hinge),244,10
 Legs - Heavy,Leg Curl,58,10
 Legs - Heavy,Leg Curl,58,10
 Legs - Heavy,Leg Curl,58,10
@@ -8580,10 +8580,10 @@ Legs - Heavy,Leg Outward Fly,58,12
 Legs - Heavy,High Bar Squat,106,6
 Legs - Heavy,High Bar Squat,106,8
 Legs - Heavy,High Bar Squat,108,8
-Legs - Heavy,Leg Press (Hinge ),226,10
-Legs - Heavy,Leg Press (Hinge ),226,10
-Legs - Heavy,Leg Press (Hinge ),249,10
-Legs - Heavy,Leg Press (Hinge ),249,10
+Legs - Heavy,Leg Press (Hinge),226,10
+Legs - Heavy,Leg Press (Hinge),226,10
+Legs - Heavy,Leg Press (Hinge),249,10
+Legs - Heavy,Leg Press (Hinge),249,10
 Push - Incline,Incline Bench Press (Barbell),83,3
 Push - Incline,Incline Bench Press (Barbell),102,2
 Push - Incline,Incline Bench Press (Barbell),124,5
@@ -8629,11 +8629,11 @@ Legs - 5X5 / Volume,Squat (Barbell),156,5
 Legs - 5X5 / Volume,Leg Curl,63,10
 Legs - 5X5 / Volume,Leg Curl,63,10
 Legs - 5X5 / Volume,Leg Curl,63,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),204,12
-Legs - 5X5 / Volume,Leg Press (Hinge ),244,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),254,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),267,10
-Legs - 5X5 / Volume,Leg Press (Hinge ),267,10
+Legs - 5X5 / Volume,Leg Press (Hinge),204,12
+Legs - 5X5 / Volume,Leg Press (Hinge),244,10
+Legs - 5X5 / Volume,Leg Press (Hinge),254,10
+Legs - 5X5 / Volume,Leg Press (Hinge),267,10
+Legs - 5X5 / Volume,Leg Press (Hinge),267,10
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),111,5
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),111,6
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),111,5
@@ -8678,11 +8678,11 @@ Legs - Heavy,Leg Outward Fly,58,15
 Legs - Heavy,Leg Outward Fly,58,15
 Legs - Heavy,Leg Outward Fly,58,12
 Legs - Heavy,Leg Outward Fly,36,8
-Legs - Heavy,Leg Press (Hinge ),204,12
-Legs - Heavy,Leg Press (Hinge ),244,12
-Legs - Heavy,Leg Press (Hinge ),272,10
-Legs - Heavy,Leg Press (Hinge ),272,10
-Legs - Heavy,Leg Press (Hinge ),272,10
+Legs - Heavy,Leg Press (Hinge),204,12
+Legs - Heavy,Leg Press (Hinge),244,12
+Legs - Heavy,Leg Press (Hinge),272,10
+Legs - Heavy,Leg Press (Hinge),272,10
+Legs - Heavy,Leg Press (Hinge),272,10
 Push - Incline,Incline Bench Press (Barbell),102,1
 Push - Incline,Incline Bench Press (Barbell),124,5
 Push - Incline,Incline Bench Press (Barbell),124,5
@@ -8849,9 +8849,9 @@ Legs - 5X5 / Volume,Romanian Deadlift (Barbell),61,6
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),83,6
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),83,6
 Legs - 5X5 / Volume,Romanian Deadlift (Barbell),88,6
-Legs - 5X5 / Volume,Leg Press (Hinge ),204,12
-Legs - 5X5 / Volume,Leg Press (Hinge ),285,9
-Legs - 5X5 / Volume,Leg Press (Hinge ),285,9
+Legs - 5X5 / Volume,Leg Press (Hinge),204,12
+Legs - 5X5 / Volume,Leg Press (Hinge),285,9
+Legs - 5X5 / Volume,Leg Press (Hinge),285,9
 Push - Incline,Incline Bench Press (Barbell),102,2
 Push - Incline,Incline Bench Press (Barbell),124,5
 Push - Incline,Incline Bench Press (Barbell),127,5
@@ -9097,8 +9097,8 @@ Legs - Heavy #26,Romanian Deadlift (Barbell),97,10
 "Back - Pyramid  5Max, Decrease 5 Sets #24",Hammer Row - Wide Grip,83,15
 "Back - Pyramid  5Max, Decrease 5 Sets #24",Hammer Row - Wide Grip,86,15
 "Back - Pyramid  5Max, Decrease 5 Sets #24",Hammer Row - Wide Grip,86,15
-"Back - Pyramid  5Max, Decrease 5 Sets #24",Hammer Curl (Dumbbell ),22,15
-"Back - Pyramid  5Max, Decrease 5 Sets #24",Hammer Curl (Dumbbell ),22,15
+"Back - Pyramid  5Max, Decrease 5 Sets #24",Hammer Curl,22,15
+"Back - Pyramid  5Max, Decrease 5 Sets #24",Hammer Curl,22,15
 Push - Shoulders / Bench #26,Seated Shoulder  Press (Barbell),102,8
 Push - Shoulders / Bench #26,Seated Shoulder  Press (Barbell),106,8
 Push - Shoulders / Bench #26,Seated Shoulder  Press (Barbell),106,8
@@ -9119,9 +9119,9 @@ Squat Light #2,Romanian Deadlift (Barbell),83,8
 Squat Light #2,Romanian Deadlift (Barbell),92,8
 Squat Light #2,Romanian Deadlift (Barbell),97,8
 Squat Light #2,Romanian Deadlift (Barbell),92,8
-Squat Light #2,Leg Press (Hinge ),204,10
-Squat Light #2,Leg Press (Hinge ),204,10
-Squat Light #2,Leg Press (Hinge ),204,10
+Squat Light #2,Leg Press (Hinge),204,10
+Squat Light #2,Leg Press (Hinge),204,10
+Squat Light #2,Leg Press (Hinge),204,10
 Back- Heavy 3X8 Chins #1,Chin Up,0,8
 Back- Heavy 3X8 Chins #1,Chin Up,31,8
 Back- Heavy 3X8 Chins #1,Chin Up,31,8
@@ -9135,8 +9135,8 @@ Back- Heavy 3X8 Chins #1,T-Bar Row,47,10
 Back- Heavy 3X8 Chins #1,Hammer Row - Wide Grip,92,15
 Back- Heavy 3X8 Chins #1,Hammer Row - Wide Grip,92,15
 Back- Heavy 3X8 Chins #1,Hammer Row - Wide Grip,92,15
-Back- Heavy 3X8 Chins #1,Hammer Curl (Dumbbell ),27,10
-Back- Heavy 3X8 Chins #1,Hammer Curl (Dumbbell ),27,10
+Back- Heavy 3X8 Chins #1,Hammer Curl,27,10
+Back- Heavy 3X8 Chins #1,Hammer Curl,27,10
 Push - Incline #30,Incline Bench Press (Barbell),113,8
 Push - Incline #30,Incline Bench Press (Barbell),113,8
 Push - Incline #30,Incline Bench Press (Barbell),113,8
@@ -9243,9 +9243,9 @@ Squat Light #3,Romanian Deadlift (Barbell),83,6
 Squat Light #3,Romanian Deadlift (Barbell),106,5
 Squat Light #3,Romanian Deadlift (Barbell),106,6
 Squat Light #3,Romanian Deadlift (Barbell),106,8
-Squat Light #3,Leg Press (Hinge ),226,12
-Squat Light #3,Leg Press (Hinge ),226,12
-Squat Light #3,Leg Press (Hinge ),226,15
+Squat Light #3,Leg Press (Hinge),226,12
+Squat Light #3,Leg Press (Hinge),226,12
+Squat Light #3,Leg Press (Hinge),226,15
 Push - Shoulders / Bench #28,Bench Press (Barbell),83,5
 Push - Shoulders / Bench #28,Bench Press (Barbell),102,6
 Push - Shoulders / Bench #28,Bench Press (Barbell),124,6
@@ -9281,8 +9281,8 @@ Squat Light #4,Squat (Barbell),124,8
 Squat Light #4,Romanian Deadlift (Barbell),83,6
 Squat Light #4,Romanian Deadlift (Barbell),92,6
 Squat Light #4,Romanian Deadlift (Barbell),92,8
-Squat Light #4,Leg Press (Hinge ),163,10
-Squat Light #4,Leg Press (Hinge ),213,10
+Squat Light #4,Leg Press (Hinge),163,10
+Squat Light #4,Leg Press (Hinge),213,10
 Push - Incline #32,Incline Bench Press (Barbell),111,8
 Push - Incline #32,Incline Bench Press (Barbell),120,5
 Push - Incline #32,Incline Bench Press (Barbell),120,5
@@ -9320,9 +9320,9 @@ Legs - Heavy #29,Squat (Barbell),149,6
 Legs - Heavy #29,Romanian Deadlift (Barbell),83,9
 Legs - Heavy #29,Romanian Deadlift (Barbell),106,6
 Legs - Heavy #29,Romanian Deadlift (Barbell),106,8
-Legs - Heavy #29,Leg Press (Hinge ),226,12
-Legs - Heavy #29,Leg Press (Hinge ),267,10
-Legs - Heavy #29,Leg Press (Hinge ),267,10
+Legs - Heavy #29,Leg Press (Hinge),226,12
+Legs - Heavy #29,Leg Press (Hinge),267,10
+Legs - Heavy #29,Leg Press (Hinge),267,10
 Push - Shoulders / Bench #29,Bench Press (Barbell),83,5
 Push - Shoulders / Bench #29,Bench Press (Barbell),102,5
 Push - Shoulders / Bench #29,Bench Press (Barbell),131,5
@@ -9398,9 +9398,9 @@ Legs - Heavy #30,Romanian Deadlift (Barbell),106,8
 Legs - Heavy #30,Romanian Deadlift (Barbell),106,8
 Legs - Heavy #30,Romanian Deadlift (Barbell),106,8
 Legs - Heavy #30,Romanian Deadlift (Barbell),83,8
-Legs - Heavy #30,Leg Press (Hinge ),244,12
-Legs - Heavy #30,Leg Press (Hinge ),267,10
-Legs - Heavy #30,Leg Press (Hinge ),267,10
+Legs - Heavy #30,Leg Press (Hinge),244,12
+Legs - Heavy #30,Leg Press (Hinge),267,10
+Legs - Heavy #30,Leg Press (Hinge),267,10
 Push - Shoulders / Bench #30,Seated Shoulder  Press (Barbell),83,8
 Push - Shoulders / Bench #30,Seated Shoulder  Press (Barbell),97,8
 Push - Shoulders / Bench #30,Seated Shoulder  Press (Barbell),102,8
@@ -9429,7 +9429,7 @@ Pulls  #6,Hammer Seated Row (Close Grip),113,8
 Pulls  #6,Hammer Seated Row (Close Grip),90,10
 Pulls  #6,Bicep Curl (Barbell),43,10
 Pulls  #6,Bicep Curl (Barbell),38,10
-Pulls  #6,Hammer Curl (Dumbbell ),31,8
+Pulls  #6,Hammer Curl,31,8
 Push - Incline #34,Incline Bench Press (Barbell),115,8
 Push - Incline #34,Incline Bench Press (Barbell),115,8
 Push - Incline #34,Incline Bench Press (Barbell),124,5
@@ -9607,10 +9607,10 @@ Squat Light #8,Squat (Barbell),167,5
 Squat Light #8,Squat (Barbell),167,5
 Squat Light #8,Squat (Barbell),167,5
 Squat Light #8,Squat (Barbell),142,5
-Squat Light #8,Leg Press (Hinge ),226,10
-Squat Light #8,Leg Press (Hinge ),276,10
-Squat Light #8,Leg Press (Hinge ),290,10
-Squat Light #8,Leg Press (Hinge ),294,10
+Squat Light #8,Leg Press (Hinge),226,10
+Squat Light #8,Leg Press (Hinge),276,10
+Squat Light #8,Leg Press (Hinge),290,10
+Squat Light #8,Leg Press (Hinge),294,10
 Push - Shoulders / Bench #33,Seated Shoulder  Press (Barbell),88,6
 Push - Shoulders / Bench #33,Seated Shoulder  Press (Barbell),106,8
 Push - Shoulders / Bench #33,Seated Shoulder  Press (Barbell),106,8
@@ -9741,9 +9741,9 @@ Squat Light #11,Squat (Barbell),167,5
 Squat Light #11,Squat (Barbell),167,5
 Squat Light #11,Squat (Barbell),170,6
 Squat Light #11,Squat (Barbell),102,8
-Squat Light #11,Leg Press (Hinge ),285,10
-Squat Light #11,Leg Press (Hinge ),285,10
-Squat Light #11,Leg Press (Hinge ),285,10
+Squat Light #11,Leg Press (Hinge),285,10
+Squat Light #11,Leg Press (Hinge),285,10
+Squat Light #11,Leg Press (Hinge),285,10
 Push - Incline #38,Incline Bench Press (Barbell),102,5
 Push - Incline #38,Incline Bench Press (Barbell),120,5
 Push - Incline #38,Incline Bench Press (Barbell),120,5
@@ -9821,9 +9821,9 @@ Legs - Heavy #33,Squat (Barbell),165,5
 Legs - Heavy #33,Squat (Barbell),170,5
 Legs - Heavy #33,Squat (Barbell),170,5
 Legs - Heavy #33,Squat (Barbell),172,5
-Legs - Heavy #33,Leg Press (Hinge ),285,10
-Legs - Heavy #33,Leg Press (Hinge ),294,10
-Legs - Heavy #33,Leg Press (Hinge ),294,10
+Legs - Heavy #33,Leg Press (Hinge),285,10
+Legs - Heavy #33,Leg Press (Hinge),294,10
+Legs - Heavy #33,Leg Press (Hinge),294,10
 Push - Incline #39,Incline Bench Press (Barbell),102,3
 Push - Incline #39,Incline Bench Press (Barbell),122,5
 Push - Incline #39,Incline Bench Press (Barbell),122,5
