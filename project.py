@@ -6,15 +6,66 @@ import numpy as np
 import re
 import random
 
+# This function cleans exercise names by replacing specific substrings with other substrings
 def clean_exercise_name(exercise_name):
     # Remove extra spaces before or after parentheses
     cleaned_name = re.sub(r'\s*\(\s*', ' (', exercise_name)
     cleaned_name = re.sub(r'\s*\)\s*', ')', cleaned_name)
     # Replace "Hammer Curl (Dumbbell)" with "Hammer Curl"
     cleaned_name = cleaned_name.replace("Hammer Curl (Dumbbell)", "Hammer Curl")
+    # Replace "Lat Pulldown " with "Lat Pulldown"
+    cleaned_name = cleaned_name.replace("Lat Pulldown ", "Lat Pulldown")
+    # Replace "Lateral Raise (Dumbbells)" with "Lateral Raise (Dumbbell)"
+    cleaned_name = cleaned_name.replace("Lateral Raise (Dumbbells)", "Lateral Raise (Dumbbell)")
+    # Replace "Lat Pulldown (Cable)" with "Lat Pulldown"
+    cleaned_name = cleaned_name.replace("Lat Pulldown(Cable)", "Lat Pulldown")
+    # Replace "Seated Military Press" with "Seated Shoulder  Press (Barbell)"
+    cleaned_name = cleaned_name.replace("Seated Military Press", "Seated Shoulder  Press (Barbell)")
+    # Replace ""Seated Shoulder  Press (Barbell) (Dumbbell)"" with "Seated Shoulder Press (Dumbbell)"
+    cleaned_name = cleaned_name.replace("Seated Shoulder  Press (Barbell) (Dumbbell)", "Seated Shoulder Press (Dumbbell)")
+    # Replace "Military Press (Standing)" with "Shoulder Press (Standing)"
+    cleaned_name = cleaned_name.replace("Military Press (Standing)", "Shoulder Press (Standing)")
+    # Replace "Incline Bench Press (Barbell)" with "Incline Bench Press"
+    cleaned_name = cleaned_name.replace("Incline Bench Press (Barbell)", "Incline Bench Press")
+    # Replace "Curl Dumbbell" with "Bicep Curl (Dumbbell)"
+    cleaned_name = cleaned_name.replace("Curl Dumbbell", "Bicep Curl (Dumbbell)")
 
     return cleaned_name
 
+# This function updates the muscle group names in the dataset based on keywords in exercise names
+def clean_muscle_group_names(dataset):
+    keywords_to_muscle_group = {
+        'tricep': 'Triceps',
+        'bicep': 'Biceps',
+        'dips': 'Chest',
+        'bench': 'Chest',
+        'incline press': 'Chest',
+        'cable fly': 'Chest',
+        'hammer curl': 'Biceps',
+        'curl ez': 'Biceps',
+        'curl dumbbell': 'Biceps',
+        'military press': 'Shoulders',
+        'lateral raise': 'Shoulders',
+        'shoulder': 'Shoulders',
+        'skullcrusher': 'Triceps',
+        'stairmaster': 'Legs',
+        'overhead press': 'Shoulders',
+        'rotator cuff work': 'Shoulders',
+        'chin up': 'Back'
+    }
+
+    def update_muscle_group(row):
+        for keyword, muscle_group in keywords_to_muscle_group.items():
+            if keyword in row['exercise_name'].lower():
+                return muscle_group
+        return row['muscle_group']
+
+    dataset = dataset.copy()
+    dataset['muscle_group'] = dataset.apply(update_muscle_group, axis=1)
+    return dataset
+
+# This function preprocesses the dataset by cleaning variable names, dropping unnecessary columns,
+# converting weight values to kg, and extracting muscle group names from workout names
 def preprocess_dataset():
     dataset = pd.read_csv('Dataset/weightlifting_721_workouts.csv')
 
@@ -60,64 +111,12 @@ def preprocess_dataset():
     # Drop rows where the muscle_group column is None
     dataset = dataset.dropna(subset=['muscle_group'])
 
-    # Define a lambda function to check if 'tricep' is in the exercise name
-    check_for_tricep = lambda x: 'Triceps' if 'tricep' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'bicep' is in the exercise name
-    check_for_bicep = lambda x: 'Biceps' if 'bicep' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'dips' is in the exercise name
-    check_for_dips = lambda x: 'Chest' if 'dips' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'bench' is in the exercise name
-    check_for_bench = lambda x: 'Chest' if 'bench' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'incline press' is in the exercise name
-    check_for_incline = lambda x: 'Chest' if 'incline press' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'cable fly' is in the exercise name
-    check_for_fly = lambda x: 'Chest' if 'cable fly' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'hammer curl' is in the exercise name
-    check_for_hammer = lambda x: 'Biceps' if 'hammer curl' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'military press' is in the exercise name
-    check_for_military = lambda x: 'Shoulders' if 'military press' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'lateral raise' is in the exercise name
-    check_for_lateral = lambda x: 'Shoulders' if 'lateral raise' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'shoulder' is in the exercise name
-    check_for_shoulder = lambda x: 'Shoulders' if 'shoulder' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'skullcrusher' is in the exercise name
-    check_for_skullcrusher = lambda x: 'Triceps' if 'skullcrusher' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'overhead press' is in the exercise name
-    check_for_overhead = lambda x: 'Shoulders' if 'overhead press' in x['exercise_name'].lower() else x['muscle_group']
-
-    # Define a lambda function to check if 'rotator cuff work' is in the exercise name
-    check_for_rotator = lambda x: 'Shoulders' if 'rotator cuff work' in x['exercise_name'].lower() else x[
-        'muscle_group']
-
-    # Apply the lambda functions to the muscle_group column
-    dataset = dataset.copy()
-    dataset['muscle_group'] = dataset.apply(check_for_tricep, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_bicep, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_dips, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_bench, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_incline, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_fly, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_hammer, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_military, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_lateral, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_shoulder, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_skullcrusher, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_overhead, axis=1)
-    dataset['muscle_group'] = dataset.apply(check_for_rotator, axis=1)
+    # Clean muscle group names
+    dataset = clean_muscle_group_names(dataset)
 
     return dataset
 
+# This function cleans workout names by standardizing the spelling of certain words and removing digits and punctuation marks
 def clean_workout_name(workout_name):
     # Replace "shoulder" with "shoulders"
     cleaned_name = workout_name.replace('shoulder', 'shoulders')
@@ -131,18 +130,20 @@ def clean_workout_name(workout_name):
     # Convert to lowercase and strip leading/trailing spaces
     return cleaned_name.lower().strip()
 
+# This function extracts muscle group names from workout names using regular expressions
 def extract_muscle_group(workout_name):
     # Define a list of known muscle group names
     muscle_groups = ['chest', 'legs', 'back', 'shoulders']
 
     # Use a regular expression pattern to match muscle group names
-    pattern = r'\b(' + '|'.join(muscle_groups) + r')\b'
+    pattern = fr'\b({"|".join(muscle_groups)})\b'
     match = re.search(pattern, workout_name, flags=re.IGNORECASE)
     if match:
         return match.group(1)
     else:
         return None
 
+# This function generates personalized exercise recommendations based on user preferences and dataset features
 def generate_recommendations(dataset, apiArgs):
     preferences = {}
     muscleArr = []
@@ -203,7 +204,7 @@ def generate_recommendations(dataset, apiArgs):
         random_recommendations.extend(unique_exercises)
     return random_recommendations
 
-
+# This function preprocesses the dataset and generates exercise recommendations based on user preferences
 def run_model(apiArgs):
     dataset = preprocess_dataset()
     return generate_recommendations(dataset, apiArgs)

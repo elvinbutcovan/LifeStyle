@@ -1,11 +1,11 @@
 workout_name,exercise_name,weight,reps
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,7
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,7
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
 Chest,Weighted Dips,99,8
 Chest,Weighted Dips,142,8
 Chest,Weighted Dips,142,8
@@ -49,8 +49,8 @@ Back,Chin Up,21,8
 Back,Chin Up,21,8
 Back,Chin Up,21,8
 Back,Chin Up,0,10
-Back,Lat Pulldown ,68,10
-Back,Lat Pulldown ,68,10
+Back,Lat Pulldown,68,10
+Back,Lat Pulldown,68,10
 Back,Seated Cable Row (Close Grip),58,8
 Back,Seated Cable Row (Close Grip),58,8
 Back,Seated Cable Row (Close Grip),58,8
@@ -82,14 +82,14 @@ Chest,Incline Bench Press,106,6
 Chest,Weighted Dips,99,8
 Chest,Weighted Dips,99,8
 Chest,Weighted Dips,99,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),83,7
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),106,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,83,7
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,106,6
 Chest,Weighted Dips,99,8
 Chest,Weighted Dips,99,8
 Chest,Weighted Dips,99,8
@@ -149,18 +149,18 @@ Chest,Incline Bench Press,104,8
 Chest,Incline Bench Press,104,8
 Chest,Incline Bench Press,104,8
 Chest,Incline Bench Press,108,7
-Chest,Seated Military Press,61,10
-Chest,Seated Military Press,70,8
-Chest,Seated Military Press,70,8
-Chest,Seated Military Press,74,8
+Chest,Seated Shoulder  Press (Barbell),61,10
+Chest,Seated Shoulder  Press (Barbell),70,8
+Chest,Seated Shoulder  Press (Barbell),70,8
+Chest,Seated Shoulder  Press (Barbell),74,8
 Chest,Weighted Dips,0,12
 Chest,Weighted Dips,0,10
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),108,7
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,108,7
 Chest,Seated Shoulder  Press (Barbell),61,10
 Chest,Seated Shoulder  Press (Barbell),70,8
 Chest,Seated Shoulder  Press (Barbell),70,8
@@ -186,9 +186,9 @@ Back,Chin Up,22,8
 Back,Seated Cable Row (Close Grip),65,11
 Back,Seated Cable Row (Close Grip),72,9
 Back,Seated Cable Row (Close Grip),72,8
-Back,Lat Pulldown ,68,12
-Back,Lat Pulldown ,70,12
-Back,Lat Pulldown ,70,12
+Back,Lat Pulldown,68,12
+Back,Lat Pulldown,70,12
+Back,Lat Pulldown,70,12
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,12
@@ -198,16 +198,16 @@ Chest,Incline Bench Press,83,7
 Chest,Incline Bench Press,104,8
 Chest,Incline Bench Press,104,8
 Chest,Incline Bench Press,106,8
-Chest,Seated Military Press,74,10
-Chest,Seated Military Press,74,10
-Chest,Seated Military Press,74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,14
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,7
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),106,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,7
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,106,8
 Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Seated Shoulder  Press (Barbell),74,10
@@ -267,12 +267,12 @@ Back,Seated Cable Row (Close Grip),86,10
 Back,Seated Cable Row (Close Grip),58,12
 Back,Hammer Curl,36,15
 Back,Hammer Curl,36,15
-Shoulder Day,Seated Military Press (Dumbbell),31,10
-Shoulder Day,Seated Military Press (Dumbbell),31,10
-Shoulder Day,Seated Military Press (Dumbbell),81,10
-Shoulder Day,Seated Military Press (Dumbbell),81,10
-Shoulder Day,Seated Military Press (Dumbbell),81,10
-Shoulder Day,Seated Military Press (Dumbbell),54,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),31,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),31,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),54,10
 Shoulder Day,Lateral Raise,18,12
 Shoulder Day,Lateral Raise,18,15
 Shoulder Day,Weighted Dips,0,10
@@ -286,8 +286,8 @@ Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
 Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
 Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
 Shoulder Day,Seated Shoulder Press (Dumbbell),54,10
-Shoulder Day,Lateral Raise (Dumbbells),18,12
-Shoulder Day,Lateral Raise (Dumbbells),18,15
+Shoulder Day,Lateral Raise (Dumbbell),18,12
+Shoulder Day,Lateral Raise (Dumbbell),18,15
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,20,10
 Shoulder Day,Weighted Dips,40,10
@@ -343,19 +343,19 @@ Back,T-Bar Row,40,12
 Back,T-Bar Row,45,10
 Back,T-Bar Row,45,10
 Back,T-Bar Row,40,12
-Chest,Incline Bench Press (Barbell),74,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),105,8
-Chest,Incline Bench Press (Barbell),105,8
-Chest,Incline Bench Press (Barbell),106,8
+Chest,Incline Bench Press,74,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,105,8
+Chest,Incline Bench Press,105,8
+Chest,Incline Bench Press,106,8
 Chest,Incline Press (Dumbbell),54,11
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,14
 Chest,Weighted Dips,22,12
 Chest,Weighted Dips,22,12
-Chest,Lateral Raise (Dumbbells),22,12
-Chest,Lateral Raise (Dumbbells),22,12
-Chest,Lateral Raise (Dumbbells),22,12
+Chest,Lateral Raise (Dumbbell),22,12
+Chest,Lateral Raise (Dumbbell),22,12
+Chest,Lateral Raise (Dumbbell),22,12
 Chest,Tricep Pushdown,31,15
 Chest,Tricep Pushdown,31,15
 Chest,Incline Bench Press,74,8
@@ -413,19 +413,19 @@ Shoulder Day,Weighted Dips,40,10
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Seated Shoulder  Press (Barbell),61,10
 Shoulder Day,Seated Shoulder  Press (Barbell),61,12
-Shoulder Day,Incline Bench Press (Barbell),62,10
-Shoulder Day,Seated Military Press (Dumbbell),40,10
-Shoulder Day,Seated Military Press (Dumbbell),81,12
-Shoulder Day,Seated Military Press (Dumbbell),81,12
-Shoulder Day,Seated Military Press (Dumbbell),81,10
+Shoulder Day,Incline Bench Press,62,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),40,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,40,10
 Shoulder Day,Weighted Dips,40,10
 Shoulder Day,Weighted Dips,40,10
 Shoulder Day,Weighted Dips,0,8
-Shoulder Day,Seated Military Press,61,10
-Shoulder Day,Seated Military Press,61,12
+Shoulder Day,Seated Shoulder  Press (Barbell),61,10
+Shoulder Day,Seated Shoulder  Press (Barbell),61,12
 Shoulder Day,Incline Bench Press,62,10
 Squat 1,Squat,83,8
 Squat 1,Squat,83,8
@@ -469,8 +469,8 @@ Back,Seated Cable Row (Close Grip),83,10
 Back,Seated Cable Row (Close Grip),83,10
 Back,Rear Delt Fly,54,10
 Back,Rear Delt Fly,54,10
-Back,Lat Pulldown ,61,10
-Back,Lat Pulldown ,68,10
+Back,Lat Pulldown,61,10
+Back,Lat Pulldown,68,10
 Chest,Incline Bench Press,43,8
 Chest,Incline Bench Press,61,8
 Chest,Incline Bench Press,83,7
@@ -487,20 +487,20 @@ Chest,Lateral Raise,22,12
 Chest,Lateral Raise,22,12
 Chest,Tricep Extension,34,10
 Chest,Tricep Extension,34,10
-Chest,Incline Bench Press (Barbell),43,8
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,7
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),105,8
-Chest,Incline Bench Press (Barbell),106,8
+Chest,Incline Bench Press,43,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,7
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,105,8
+Chest,Incline Bench Press,106,8
 Chest,Weighted Dips,0,12
 Chest,Weighted Dips,0,12
 Chest,Weighted Dips,0,12
 Chest,Weighted Dips,0,12
-Chest,Lateral Raise (Dumbbells),22,12
-Chest,Lateral Raise (Dumbbells),22,12
-Chest,Lateral Raise (Dumbbells),22,12
+Chest,Lateral Raise (Dumbbell),22,12
+Chest,Lateral Raise (Dumbbell),22,12
+Chest,Lateral Raise (Dumbbell),22,12
 Chest,Tricep Extension,34,10
 Chest,Tricep Extension,34,10
 Back,Chin Up,11,12
@@ -543,18 +543,18 @@ Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
 Chest,Lateral Raise,22,10
 Chest,Lateral Raise,22,10
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
-Chest,Lateral Raise (Dumbbells),22,10
-Chest,Lateral Raise (Dumbbells),22,10
+Chest,Lateral Raise (Dumbbell),22,10
+Chest,Lateral Raise (Dumbbell),22,10
 Squat 1,Squat (Barbell),83,6
 Squat 1,Squat (Barbell),102,8
 Squat 1,Squat (Barbell),102,8
@@ -592,7 +592,7 @@ Back,Chin Up,0,9
 Back,Bent Over Row (Dumbbell),68,12
 Back,Bent Over Row (Dumbbell),68,12
 Back,Bent Over Row (Dumbbell),68,12
-Back,Lat Pulldown ,65,9
+Back,Lat Pulldown,65,9
 Back,Rear Delt Fly,52,14
 Back,Rear Delt Fly,52,15
 Back,Rear Delt Fly,52,12
@@ -607,18 +607,18 @@ Chest,Incline Bench Press,111,6
 Chest,Incline Bench Press,113,6
 Chest,Incline Bench Press,113,6
 Chest,Incline Bench Press,61,12
-Chest,Seated Military Press,61,12
-Chest,Seated Military Press,70,10
-Chest,Seated Military Press,70,10
+Chest,Seated Shoulder  Press (Barbell),61,12
+Chest,Seated Shoulder  Press (Barbell),70,10
+Chest,Seated Shoulder  Press (Barbell),70,10
 Chest,Weighted Dips,11,10
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),111,6
-Chest,Incline Bench Press (Barbell),113,6
-Chest,Incline Bench Press (Barbell),113,6
-Chest,Incline Bench Press (Barbell),61,12
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,111,6
+Chest,Incline Bench Press,113,6
+Chest,Incline Bench Press,113,6
+Chest,Incline Bench Press,61,12
 Chest,Seated Shoulder  Press (Barbell),61,12
 Chest,Seated Shoulder  Press (Barbell),70,10
 Chest,Seated Shoulder  Press (Barbell),70,10
@@ -658,9 +658,9 @@ Back,Chin Up,0,10
 Back,Chin Up,0,10
 Back,Seated Cable Row (Close Grip),79,10
 Back,Seated Cable Row (Close Grip),79,10
-Back,Lat Pulldown ,68,10
-Back,Lat Pulldown ,68,10
-Back,Lat Pulldown ,68,10
+Back,Lat Pulldown,68,10
+Back,Lat Pulldown,68,10
+Back,Lat Pulldown,68,10
 Back,Bicep Curl (Barbell),36,12
 Back,Bicep Curl (Barbell),36,12
 Back,Rear Delt Fly,56,12
@@ -681,14 +681,14 @@ Back,Lat Pulldown,68,10
 Back,Rear Delt Fly,56,12
 Back,Rear Delt Fly,56,12
 Back,Rear Delt Fly,56,12
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),83,10
-Chest,Incline Bench Press (Barbell),83,8
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,83,10
+Chest,Incline Bench Press,83,8
 Chest,Seated Shoulder Press (Dumbbell),36,10
 Chest,Seated Shoulder Press (Dumbbell),54,8
 Chest,Seated Shoulder Press (Dumbbell),54,10
@@ -702,9 +702,9 @@ Chest,Incline Bench Press,107,8
 Chest,Incline Bench Press,107,8
 Chest,Incline Bench Press,83,10
 Chest,Incline Bench Press,83,8
-Chest,Seated Military Press (Dumbbell),36,10
-Chest,Seated Military Press (Dumbbell),54,8
-Chest,Seated Military Press (Dumbbell),54,10
+Chest,Seated Shoulder Press (Dumbbell),36,10
+Chest,Seated Shoulder Press (Dumbbell),54,8
+Chest,Seated Shoulder Press (Dumbbell),54,10
 Chest,Tricep Extension,36,10
 Chest,Tricep Extension,36,10
 Squat 1,Squat (Barbell),83,6
@@ -759,12 +759,12 @@ Back,Seated Cable Row (Close Grip),58,10
 Back,Bicep Curl (Barbell),40,12
 Back,Bicep Curl (Barbell),40,12
 Back,Bicep Curl (Barbell),40,12
-Shoulder Day,Seated Military Press (Dumbbell),45,8
-Shoulder Day,Seated Military Press (Dumbbell),45,8
-Shoulder Day,Seated Military Press (Dumbbell),81,13
-Shoulder Day,Seated Military Press (Dumbbell),81,12
-Shoulder Day,Seated Military Press (Dumbbell),81,12
-Shoulder Day,Seated Military Press (Dumbbell),40,12
+Shoulder Day,Seated Shoulder Press (Dumbbell),45,8
+Shoulder Day,Seated Shoulder Press (Dumbbell),45,8
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,13
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
+Shoulder Day,Seated Shoulder Press (Dumbbell),40,12
 Shoulder Day,Lateral Raise,22,12
 Shoulder Day,Lateral Raise,22,12
 Shoulder Day,Weighted Dips,0,8
@@ -779,8 +779,8 @@ Shoulder Day,Seated Shoulder Press (Dumbbell),81,13
 Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
 Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
 Shoulder Day,Seated Shoulder Press (Dumbbell),40,12
-Shoulder Day,Lateral Raise (Dumbbells),22,12
-Shoulder Day,Lateral Raise (Dumbbells),22,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,43,8
@@ -831,12 +831,12 @@ Chest,Lateral Raise,13,15
 Chest,Lateral Raise,18,10
 Chest,Lateral Raise,27,10
 Chest,Lateral Raise,13,10
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),83,12
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,83,12
 Chest,Weighted Dips,0,9
 Chest,Weighted Dips,20,10
 Chest,Weighted Dips,20,10
@@ -849,10 +849,10 @@ Chest,Tricep Pushdown,36,10
 Chest,Tricep Pushdown,24,6
 Chest,Tricep Pushdown,24,6
 Chest,Tricep Pushdown,24,6
-Chest,Lateral Raise (Dumbbells),13,15
-Chest,Lateral Raise (Dumbbells),18,10
-Chest,Lateral Raise (Dumbbells),27,10
-Chest,Lateral Raise (Dumbbells),13,10
+Chest,Lateral Raise (Dumbbell),13,15
+Chest,Lateral Raise (Dumbbell),18,10
+Chest,Lateral Raise (Dumbbell),27,10
+Chest,Lateral Raise (Dumbbell),13,10
 Back,Chin Up,0,9
 Back,Chin Up,23,8
 Back,Chin Up,23,8
@@ -935,21 +935,21 @@ Chest,Weighted Dips,20,12
 Chest,Weighted Dips,20,12
 Chest,Lateral Raise,18,12
 Chest,Lateral Raise,18,12
-Chest,Military Press (Standing),22,10
-Chest,Military Press (Standing),31,10
-Chest,Military Press (Standing),36,10
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),97,9
+Chest,Shoulder Press (Standing),22,10
+Chest,Shoulder Press (Standing),31,10
+Chest,Shoulder Press (Standing),36,10
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,97,9
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,20,12
 Chest,Weighted Dips,20,12
-Chest,Lateral Raise (Dumbbells),18,12
-Chest,Lateral Raise (Dumbbells),18,12
+Chest,Lateral Raise (Dumbbell),18,12
+Chest,Lateral Raise (Dumbbell),18,12
 Chest,Shoulder Press (Standing),22,10
 Chest,Shoulder Press (Standing),31,10
 Chest,Shoulder Press (Standing),36,10
@@ -959,9 +959,9 @@ Back,Chin Up,0,8
 Back,Chin Up,15,8
 Back,Chin Up,15,8
 Back,Chin Up,15,8
-Back,Lat Pulldown ,68,12
-Back,Lat Pulldown ,68,14
-Back,Lat Pulldown ,68,10
+Back,Lat Pulldown,68,12
+Back,Lat Pulldown,68,14
+Back,Lat Pulldown,68,10
 Back,Seated Cable Row (Close Grip),72,10
 Back,Seated Cable Row (Close Grip),72,10
 Back,Seated Cable Row (Close Grip),72,10
@@ -1017,25 +1017,25 @@ Squat 1,Deadlift,124,5
 Squat 1,Deadlift,124,5
 Squat 1,Deadlift,147,5
 Squat 1,Cycling,0,0
-Shoulder Day,Seated Military Press (Dumbbell),40,10
-Shoulder Day,Seated Military Press (Dumbbell),40,10
-Shoulder Day,Seated Military Press (Dumbbell),81,12
-Shoulder Day,Seated Military Press (Dumbbell),81,13
-Shoulder Day,Seated Military Press (Dumbbell),81,12
-Shoulder Day,Lateral Raise,9,12
-Shoulder Day,Weighted Dips,0,10
-Shoulder Day,Weighted Dips,45,10
-Shoulder Day,Weighted Dips,45,10
-Shoulder Day,Weighted Dips,45,10
-Shoulder Day,Military Press (Standing),45,10
-Shoulder Day,Military Press (Standing),45,10
-Shoulder Day,Military Press (Standing),45,9
 Shoulder Day,Seated Shoulder Press (Dumbbell),40,10
 Shoulder Day,Seated Shoulder Press (Dumbbell),40,10
 Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
 Shoulder Day,Seated Shoulder Press (Dumbbell),81,13
 Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
-Shoulder Day,Lateral Raise (Dumbbells),9,12
+Shoulder Day,Lateral Raise,9,12
+Shoulder Day,Weighted Dips,0,10
+Shoulder Day,Weighted Dips,45,10
+Shoulder Day,Weighted Dips,45,10
+Shoulder Day,Weighted Dips,45,10
+Shoulder Day,Shoulder Press (Standing),45,10
+Shoulder Day,Shoulder Press (Standing),45,10
+Shoulder Day,Shoulder Press (Standing),45,9
+Shoulder Day,Seated Shoulder Press (Dumbbell),40,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),40,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,13
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,12
+Shoulder Day,Lateral Raise (Dumbbell),9,12
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,45,10
 Shoulder Day,Weighted Dips,45,10
@@ -1068,9 +1068,9 @@ Back,Chin Up,0,12
 Back,Seated Cable Row (Close Grip),79,10
 Back,Seated Cable Row (Close Grip),79,10
 Back,Seated Cable Row (Close Grip),79,10
-Back,Lat Pulldown ,68,12
-Back,Lat Pulldown ,68,12
-Back,Lat Pulldown ,68,12
+Back,Lat Pulldown,68,12
+Back,Lat Pulldown,68,12
+Back,Lat Pulldown,68,12
 Back,Bicep Curl (Barbell),40,10
 Back,Bicep Curl (Barbell),40,10
 Back,Bicep Curl (Barbell),40,10
@@ -1114,27 +1114,27 @@ Chest,Weighted Dips,40,9
 Chest,Weighted Dips,40,8
 Chest,Lateral Raise,22,12
 Chest,Lateral Raise,22,12
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),102,3
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),83,9
-Chest,Incline Bench Press (Barbell),83,8
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,102,3
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,83,9
+Chest,Incline Bench Press,83,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,40,9
 Chest,Weighted Dips,40,8
-Chest,Lateral Raise (Dumbbells),22,12
-Chest,Lateral Raise (Dumbbells),22,12
-Chest,Incline Bench Press (Barbell),111,8
-Chest,Incline Bench Press (Barbell),111,8
-Chest,Incline Bench Press (Barbell),111,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
+Chest,Lateral Raise (Dumbbell),22,12
+Chest,Lateral Raise (Dumbbell),22,12
+Chest,Incline Bench Press,111,8
+Chest,Incline Bench Press,111,8
+Chest,Incline Bench Press,111,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
 Chest,Weighted Dips,0,6
 Chest,Weighted Dips,52,8
 Chest,Weighted Dips,52,7
@@ -1171,10 +1171,10 @@ Back,Hammer Back Row Wide 45 Angle,81,10
 Back,Hammer Back Row Wide 45 Angle,81,10
 Back,Hammer Curl,29,12
 Back,Hammer Curl,29,12
-Back,Lat Pulldown ,52,8
-Back,Lat Pulldown ,52,8
-Back,Lat Pulldown ,65,8
-Back,Lat Pulldown ,65,8
+Back,Lat Pulldown,52,8
+Back,Lat Pulldown,52,8
+Back,Lat Pulldown,65,8
+Back,Lat Pulldown,65,8
 Squat 1,Squat,83,6
 Squat 1,Squat,83,5
 Squat 1,Squat,102,6
@@ -1199,18 +1199,18 @@ Shoulder Day,Weighted Dips,20,8
 Shoulder Day,Weighted Dips,40,8
 Shoulder Day,Weighted Dips,40,8
 Shoulder Day,Weighted Dips,40,9
-Shoulder Day,Seated Military Press,70,8
-Shoulder Day,Seated Military Press,70,8
-Shoulder Day,Seated Military Press,83,10
-Shoulder Day,Seated Military Press,92,8
-Shoulder Day,Seated Military Press,92,8
-Shoulder Day,Seated Military Press,97,8
-Shoulder Day,Seated Military Press,97,8
-Shoulder Day,Seated Military Press,99,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Lateral Raise (Dumbbells),27,10
-Shoulder Day,Lateral Raise (Dumbbells),27,10
-Shoulder Day,Lateral Raise (Dumbbells),9,8
+Shoulder Day,Seated Shoulder  Press (Barbell),70,8
+Shoulder Day,Seated Shoulder  Press (Barbell),70,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,10
+Shoulder Day,Seated Shoulder  Press (Barbell),92,8
+Shoulder Day,Seated Shoulder  Press (Barbell),92,8
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),99,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Lateral Raise (Dumbbell),27,10
+Shoulder Day,Lateral Raise (Dumbbell),27,10
+Shoulder Day,Lateral Raise (Dumbbell),9,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,8
@@ -1264,28 +1264,28 @@ Chest,Incline Bench Press,108,8
 Chest,Weighted Dips,0,11
 Chest,Weighted Dips,0,11
 Chest,Weighted Dips,0,10
-Chest,Seated Military Press,74,10
-Chest,Seated Military Press,74,10
-Chest,Seated Military Press,74,10
-Chest,Incline Bench Press (Barbell),43,8
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),106,9
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
+Chest,Seated Shoulder  Press (Barbell),74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
+Chest,Incline Bench Press,43,8
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,106,9
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
 Chest,Weighted Dips,0,11
 Chest,Weighted Dips,0,11
 Chest,Weighted Dips,0,10
 Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Seated Shoulder  Press (Barbell),74,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),92,6
-Chest,Incline Bench Press (Barbell),92,6
-Chest,Incline Bench Press (Barbell),102,9
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,92,6
+Chest,Incline Bench Press,92,6
+Chest,Incline Bench Press,102,9
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,8
@@ -1293,9 +1293,9 @@ Chest,Weighted Dips,0,8
 Chest,Chin Up,0,8
 Chest,Chin Up,0,8
 Chest,Chin Up,0,8
-Chest,Lateral Raise (Dumbbells),22,10
-Chest,Lateral Raise (Dumbbells),22,10
-Chest,Lateral Raise (Dumbbells),22,10
+Chest,Lateral Raise (Dumbbell),22,10
+Chest,Lateral Raise (Dumbbell),22,10
+Chest,Lateral Raise (Dumbbell),22,10
 Chest,Incline Bench Press,61,5
 Chest,Incline Bench Press,92,6
 Chest,Incline Bench Press,92,6
@@ -1353,11 +1353,11 @@ Squat 1,Squat (Barbell),151,7
 Squat 1,Squat (Barbell),151,6
 Squat 1,Squat (Barbell),156,5
 Squat 1,Leg Curl,56,10
-Shoulder Day,Seated Military Press (Dumbbell),36,10
-Shoulder Day,Seated Military Press (Dumbbell),54,10
-Shoulder Day,Seated Military Press (Dumbbell),81,11
-Shoulder Day,Seated Military Press (Dumbbell),81,11
-Shoulder Day,Seated Military Press (Dumbbell),81,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),36,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),54,10
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,11
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,11
+Shoulder Day,Seated Shoulder Press (Dumbbell),81,10
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,20,10
 Shoulder Day,Weighted Dips,0,8
@@ -1435,18 +1435,18 @@ Chest,Weighted Dips,20,8
 Chest,Weighted Dips,52,8
 Chest,Weighted Dips,0,8
 Chest,Lateral Raise,22,8
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),102,6
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),61,10
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,102,6
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,61,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,20,8
 Chest,Weighted Dips,52,8
 Chest,Weighted Dips,0,8
-Chest,Lateral Raise (Dumbbells),22,8
+Chest,Lateral Raise (Dumbbell),22,8
 Back,Chin Up,20,12
 Back,Chin Up,20,12
 Back,Chin Up,20,11
@@ -1470,10 +1470,10 @@ Chest,Incline Bench Press,108,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,8
@@ -1483,9 +1483,9 @@ Back,Chin Up,0,10
 Back,Chin Up,0,10
 Back,Chin Up,0,10
 Back,Chin Up,0,10
-Back,Lat Pulldown ,65,10
-Back,Lat Pulldown ,65,10
-Back,Lat Pulldown ,65,10
+Back,Lat Pulldown,65,10
+Back,Lat Pulldown,65,10
+Back,Lat Pulldown,65,10
 Back,Bicep Curl (Barbell),31,10
 Back,Bicep Curl (Barbell),31,10
 Back,Rear Delt Fly,52,10
@@ -1507,13 +1507,13 @@ Back,Rear Delt Fly,52,10
 Back,Rear Delt Fly,52,10
 Back,Hammer Back Row Wide 45 Angle,81,10
 Back,Hammer Back Row Wide 45 Angle,81,10
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,5
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,5
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),83,8
@@ -1525,10 +1525,10 @@ Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,61,8
 Chest,Incline Bench Press,61,8
 Chest,Incline Bench Press,83,5
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,83,8
-Chest,Seated Military Press,83,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),83,8
+Chest,Seated Shoulder  Press (Barbell),83,8
 Back,Chin Up,20,12
 Back,Chin Up,20,12
 Back,Chin Up,20,10
@@ -1571,11 +1571,11 @@ Squat 1,Squat (Barbell),124,8
 Squat 1,Squat (Barbell),124,8
 Squat 1,Squat (Barbell),124,8
 Squat 1,Squat (Barbell),124,8
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,52,8
@@ -1591,8 +1591,8 @@ Chest,Weighted Dips,0,10
 Chest,Weighted Dips,52,8
 Chest,Weighted Dips,52,8
 Chest,Weighted Dips,52,8
-Shoulder Day,Lateral Raise (Dumbbells),22,12
-Shoulder Day,Lateral Raise (Dumbbells),22,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,20,10
 Shoulder Day,Weighted Dips,20,10
@@ -1611,12 +1611,12 @@ Shoulder Day,Weighted Dips,20,10
 Shoulder Day,Weighted Dips,20,10
 Shoulder Day,Weighted Dips,40,10
 Shoulder Day,Weighted Dips,20,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,88,8
-Shoulder Day,Seated Military Press,88,8
-Shoulder Day,Seated Military Press,90,8
-Shoulder Day,Seated Military Press,92,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),88,8
+Shoulder Day,Seated Shoulder  Press (Barbell),88,8
+Shoulder Day,Seated Shoulder  Press (Barbell),90,8
+Shoulder Day,Seated Shoulder  Press (Barbell),92,8
 Squat 1,Squat,102,6
 Squat 1,Squat,102,6
 Squat 1,Squat,124,8
@@ -1637,26 +1637,26 @@ Chest,Incline Bench Press,83,8
 Chest,Incline Bench Press,106,8
 Chest,Incline Bench Press,106,8
 Chest,Incline Bench Press,106,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,79,10
-Chest,Seated Military Press,79,10
-Chest,Seated Military Press,79,10
-Chest,Lateral Raise,22,10
-Chest,Lateral Raise,22,10
-Chest,Lateral Raise,22,10
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),79,10
 Chest,Seated Shoulder  Press (Barbell),79,10
 Chest,Seated Shoulder  Press (Barbell),79,10
-Chest,Lateral Raise (Dumbbells),22,10
-Chest,Lateral Raise (Dumbbells),22,10
-Chest,Lateral Raise (Dumbbells),22,10
+Chest,Lateral Raise,22,10
+Chest,Lateral Raise,22,10
+Chest,Lateral Raise,22,10
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),79,10
+Chest,Seated Shoulder  Press (Barbell),79,10
+Chest,Seated Shoulder  Press (Barbell),79,10
+Chest,Lateral Raise (Dumbbell),22,10
+Chest,Lateral Raise (Dumbbell),22,10
+Chest,Lateral Raise (Dumbbell),22,10
 Back,Chin Up,0,10
 Back,Chin Up,23,10
 Back,Chin Up,23,10
@@ -1720,12 +1720,12 @@ Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,10
 Shoulder Day,Weighted Dips,40,10
 Shoulder Day,Weighted Dips,40,10
-Shoulder Day,Seated Military Press,61,5
-Shoulder Day,Seated Military Press,83,6
-Shoulder Day,Seated Military Press,92,8
-Shoulder Day,Seated Military Press,92,8
-Shoulder Day,Seated Military Press,95,8
-Shoulder Day,Seated Military Press,95,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,5
+Shoulder Day,Seated Shoulder  Press (Barbell),83,6
+Shoulder Day,Seated Shoulder  Press (Barbell),92,8
+Shoulder Day,Seated Shoulder  Press (Barbell),92,8
+Shoulder Day,Seated Shoulder  Press (Barbell),95,8
+Shoulder Day,Seated Shoulder  Press (Barbell),95,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,10
@@ -1782,21 +1782,21 @@ Chest,Incline Bench Press,83,8
 Chest,Weighted Dips,0,8
 Chest,Tricep Extension,40,10
 Chest,Tricep Extension,40,10
-Chest,Seated Military Press (Dumbbell),20,10
-Chest,Seated Military Press (Dumbbell),63,10
-Chest,Seated Military Press (Dumbbell),63,10
-Chest,Seated Military Press (Dumbbell),63,8
+Chest,Seated Shoulder Press (Dumbbell),20,10
+Chest,Seated Shoulder Press (Dumbbell),63,10
+Chest,Seated Shoulder Press (Dumbbell),63,10
+Chest,Seated Shoulder Press (Dumbbell),63,8
 Chest,Rotator Cuff Work ,4,12
 Chest,Rotator Cuff Work ,4,12
 Chest,Rotator Cuff Work ,4,12
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),111,7
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),83,8
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,111,7
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,83,8
 Chest,Weighted Dips,0,8
 Chest,Tricep Extension,40,10
 Chest,Tricep Extension,40,10
@@ -1855,14 +1855,14 @@ Back,T-Bar Row,52,10
 Back,T-Bar Row,52,10
 Back,T-Bar Row,52,10
 Back,T-Bar Row,52,10
-Shoulder Day,Seated Military Press,43,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,70,6
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,92,8
-Shoulder Day,Seated Military Press,92,8
-Shoulder Day,Seated Military Press,95,8
-Shoulder Day,Seated Military Press,95,8
+Shoulder Day,Seated Shoulder  Press (Barbell),43,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),70,6
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),92,8
+Shoulder Day,Seated Shoulder  Press (Barbell),92,8
+Shoulder Day,Seated Shoulder  Press (Barbell),95,8
+Shoulder Day,Seated Shoulder  Press (Barbell),95,8
 Shoulder Day,Lateral Raise,22,12
 Shoulder Day,Lateral Raise,31,12
 Shoulder Day,Cycling,0,0
@@ -1879,8 +1879,8 @@ Shoulder Day,Seated Shoulder  Press (Barbell),92,8
 Shoulder Day,Seated Shoulder  Press (Barbell),92,8
 Shoulder Day,Seated Shoulder  Press (Barbell),95,8
 Shoulder Day,Seated Shoulder  Press (Barbell),95,8
-Shoulder Day,Lateral Raise (Dumbbells),22,12
-Shoulder Day,Lateral Raise (Dumbbells),31,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
+Shoulder Day,Lateral Raise (Dumbbell),31,12
 Shoulder Day,Cycling,0,0
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,40,10
@@ -1925,18 +1925,18 @@ Chest,Incline Bench Press,83,6
 Chest,Incline Bench Press,106,8
 Chest,Incline Bench Press,108,8
 Chest,Incline Bench Press,108,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,83,8
-Chest,Seated Military Press,83,8
-Chest,Seated Military Press,83,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),83,8
+Chest,Seated Shoulder  Press (Barbell),83,8
+Chest,Seated Shoulder  Press (Barbell),83,8
 Chest,Weighted Dips,0,15
 Chest,Weighted Dips,0,15
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),83,8
 Chest,Seated Shoulder  Press (Barbell),83,8
@@ -2024,20 +2024,20 @@ Shoulder Day,Weighted Dips,20,10
 Shoulder Day,Shoulder Press (Standing),20,10
 Shoulder Day,Shoulder Press (Standing),20,10
 Shoulder Day,Cycling,0,0
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,61,6
-Shoulder Day,Seated Military Press,83,6
-Shoulder Day,Seated Military Press,90,8
-Shoulder Day,Seated Military Press,97,8
-Shoulder Day,Seated Military Press,97,8
-Shoulder Day,Seated Military Press,97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,6
+Shoulder Day,Seated Shoulder  Press (Barbell),83,6
+Shoulder Day,Seated Shoulder  Press (Barbell),90,8
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,40,10
 Shoulder Day,Weighted Dips,52,8
 Shoulder Day,Weighted Dips,52,8
 Shoulder Day,Weighted Dips,20,10
-Shoulder Day,Military Press (Standing),20,10
-Shoulder Day,Military Press (Standing),20,10
+Shoulder Day,Shoulder Press (Standing),20,10
+Shoulder Day,Shoulder Press (Standing),20,10
 Shoulder Day,Cycling,0,0
 Squat 1,Squat,61,6
 Squat 1,Squat,83,6
@@ -2082,11 +2082,11 @@ Chest,Incline Bench Press,108,8
 Chest,Incline Bench Press,108,6
 Chest,Incline Bench Press,108,6
 Chest,Incline Bench Press,111,6
-Chest,Incline Bench Press (Barbell),92,6
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),111,6
+Chest,Incline Bench Press,92,6
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,111,6
 Squat 1,Squat (Barbell),61,6
 Squat 1,Squat (Barbell),83,6
 Squat 1,Squat (Barbell),83,6
@@ -2121,20 +2121,20 @@ Back,Chin Up,0,10
 Back,T-Bar Row,40,8
 Back,T-Bar Row,40,8
 Back,T-Bar Row,40,8
-Shoulder Day,Military Press (Standing),38,10
-Shoulder Day,Military Press (Standing),38,8
+Shoulder Day,Shoulder Press (Standing),38,10
+Shoulder Day,Shoulder Press (Standing),38,8
 Shoulder Day,Weighted Dips,20,8
 Shoulder Day,Weighted Dips,20,9
 Shoulder Day,Weighted Dips,40,8
 Shoulder Day,Weighted Dips,40,8
 Shoulder Day,Weighted Dips,40,9
-Shoulder Day,Seated Military Press,47,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,83,9
-Shoulder Day,Seated Military Press,97,8
-Shoulder Day,Seated Military Press,99,8
-Shoulder Day,Seated Military Press,99,8
-Shoulder Day,Seated Military Press,70,8
+Shoulder Day,Seated Shoulder  Press (Barbell),47,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,9
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),99,8
+Shoulder Day,Seated Shoulder  Press (Barbell),99,8
+Shoulder Day,Seated Shoulder  Press (Barbell),70,8
 Shoulder Day,Shoulder Press (Standing),38,10
 Shoulder Day,Shoulder Press (Standing),38,8
 Shoulder Day,Weighted Dips,20,8
@@ -2222,30 +2222,30 @@ Chest,Incline Bench Press,108,8
 Chest,Incline Bench Press,108,7
 Chest,Incline Bench Press,108,7
 Chest,Incline Bench Press,111,5
-Chest,Seated Military Press,74,10
-Chest,Seated Military Press,74,10
-Chest,Seated Military Press,74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
+Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,20,10
 Chest,Weighted Dips,20,10
 Chest,Lateral Raise,27,13
 Chest,Lateral Raise,27,14
 Chest,Tricep Extension,36,8
-Chest,Incline Bench Press (Barbell),52,8
-Chest,Incline Bench Press (Barbell),52,6
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,7
-Chest,Incline Bench Press (Barbell),108,7
-Chest,Incline Bench Press (Barbell),111,5
+Chest,Incline Bench Press,52,8
+Chest,Incline Bench Press,52,6
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,7
+Chest,Incline Bench Press,108,7
+Chest,Incline Bench Press,111,5
 Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Seated Shoulder  Press (Barbell),74,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,20,10
 Chest,Weighted Dips,20,10
-Chest,Lateral Raise (Dumbbells),27,13
-Chest,Lateral Raise (Dumbbells),27,14
+Chest,Lateral Raise (Dumbbell),27,13
+Chest,Lateral Raise (Dumbbell),27,14
 Chest,Tricep Extension,36,8
 Back,Chin Up,24,11
 Back,Chin Up,24,10
@@ -2299,14 +2299,14 @@ Shoulder Day,Weighted Dips,45,9
 Shoulder Day,Weighted Dips,45,10
 Shoulder Day,Weighted Dips,45,8
 Shoulder Day,Weighted Dips,0,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,83,6
-Shoulder Day,Seated Military Press,99,8
-Shoulder Day,Seated Military Press,99,8
-Shoulder Day,Seated Military Press,99,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Lateral Raise (Dumbbells),18,10
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,6
+Shoulder Day,Seated Shoulder  Press (Barbell),99,8
+Shoulder Day,Seated Shoulder  Press (Barbell),99,8
+Shoulder Day,Seated Shoulder  Press (Barbell),99,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Lateral Raise (Dumbbell),18,10
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,45,9
 Shoulder Day,Weighted Dips,45,10
@@ -2365,11 +2365,11 @@ Back,Hammer Seated Row (Close Grip),68,12
 Back,Hammer Seated Row (Close Grip),68,12
 Back,Hammer Seated Row (Close Grip),68,12
 Back,Hammer Seated Row (Close Grip),68,12
-Shoulder Day,Seated Military Press,92,6
-Shoulder Day,Seated Military Press,92,5
-Shoulder Day,Seated Military Press,92,5
-Shoulder Day,Seated Military Press,92,6
-Shoulder Day,Seated Military Press,95,8
+Shoulder Day,Seated Shoulder  Press (Barbell),92,6
+Shoulder Day,Seated Shoulder  Press (Barbell),92,5
+Shoulder Day,Seated Shoulder  Press (Barbell),92,5
+Shoulder Day,Seated Shoulder  Press (Barbell),92,6
+Shoulder Day,Seated Shoulder  Press (Barbell),95,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,8
 Shoulder Day,Weighted Dips,40,12
@@ -2440,21 +2440,21 @@ Chest,Incline Bench Press,83,6
 Chest,Incline Bench Press,106,8
 Chest,Incline Bench Press,106,8
 Chest,Incline Bench Press,106,8
-Chest,Seated Military Press,52,8
-Chest,Seated Military Press,74,9
-Chest,Seated Military Press,79,9
-Chest,Seated Military Press,79,10
+Chest,Seated Shoulder  Press (Barbell),52,8
+Chest,Seated Shoulder  Press (Barbell),74,9
+Chest,Seated Shoulder  Press (Barbell),79,9
+Chest,Seated Shoulder  Press (Barbell),79,10
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
 Chest,Tricep Pushdown,58,15
 Chest,Tricep Pushdown,58,15
 Chest,Tricep Pushdown,58,8
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
 Chest,Seated Shoulder  Press (Barbell),52,8
 Chest,Seated Shoulder  Press (Barbell),74,9
 Chest,Seated Shoulder  Press (Barbell),79,9
@@ -2528,14 +2528,14 @@ Chest,Incline Bench Press,83,8
 Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,102,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,83,8
-Chest,Seated Military Press,83,8
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),83,8
+Chest,Seated Shoulder  Press (Barbell),83,8
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),83,8
 Chest,Seated Shoulder  Press (Barbell),83,8
@@ -2590,17 +2590,17 @@ Chest,Incline Bench Press,108,8
 Chest,Incline Bench Press,83,10
 Chest,Incline Bench Press,83,10
 Chest,Incline Bench Press,90,10
-Chest,Seated Military Press,70,10
-Chest,Seated Military Press,70,10
+Chest,Seated Shoulder  Press (Barbell),70,10
+Chest,Seated Shoulder  Press (Barbell),70,10
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,20,8
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),83,10
-Chest,Incline Bench Press (Barbell),83,10
-Chest,Incline Bench Press (Barbell),90,10
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,83,10
+Chest,Incline Bench Press,83,10
+Chest,Incline Bench Press,90,10
 Chest,Seated Shoulder  Press (Barbell),70,10
 Chest,Seated Shoulder  Press (Barbell),70,10
 Chest,Weighted Dips,0,10
@@ -2640,13 +2640,13 @@ Shoulder Day,Weighted Dips,20,12
 Shoulder Day,Weighted Dips,20,12
 Shoulder Day,Weighted Dips,20,12
 Shoulder Day,Weighted Dips,20,12
-Shoulder Day,Seated Military Press,61,6
-Shoulder Day,Seated Military Press,61,6
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,97,8
-Shoulder Day,Seated Military Press,97,8
-Shoulder Day,Seated Military Press,99,8
-Shoulder Day,Seated Military Press,61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,6
+Shoulder Day,Seated Shoulder  Press (Barbell),61,6
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),97,8
+Shoulder Day,Seated Shoulder  Press (Barbell),99,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
 Squat 1,Squat,83,6
 Squat 1,Squat,102,8
 Squat 1,Squat,108,8
@@ -2675,19 +2675,19 @@ Chest,Incline Bench Press,111,5
 Chest,Incline Bench Press,111,5
 Chest,Incline Bench Press,111,5
 Chest,Incline Bench Press,92,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,74,8
-Chest,Seated Military Press,74,8
-Chest,Seated Military Press,77,9
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),74,8
+Chest,Seated Shoulder  Press (Barbell),74,8
+Chest,Seated Shoulder  Press (Barbell),77,9
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
-Chest,Incline Bench Press (Barbell),52,8
-Chest,Incline Bench Press (Barbell),83,7
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),92,8
+Chest,Incline Bench Press,52,8
+Chest,Incline Bench Press,83,7
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,92,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),74,8
@@ -2705,10 +2705,10 @@ Back,Hammer Seated Row (Close Grip),58,12
 Back,Bicep Curl (Barbell),43,12
 Back,Bicep Curl (Barbell),43,12
 Back,Bicep Curl (Barbell),43,10
-Back,Lat Pulldown ,61,12
-Back,Lat Pulldown ,65,12
-Back,Lat Pulldown ,68,12
-Back,Lat Pulldown ,68,12
+Back,Lat Pulldown,61,12
+Back,Lat Pulldown,65,12
+Back,Lat Pulldown,68,12
+Back,Lat Pulldown,68,12
 Back,Chin Up,24,11
 Back,Chin Up,24,10
 Back,Chin Up,24,10
@@ -2733,30 +2733,30 @@ Shoulder Day,Seated Shoulder  Press (Barbell),83,8
 Shoulder Day,Seated Shoulder  Press (Barbell),83,8
 Shoulder Day,Weighted Dips,0,10
 Shoulder Day,Weighted Dips,31,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,74,8
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),74,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
 Chest,Incline Bench Press,61,8
 Chest,Incline Bench Press,61,8
 Chest,Incline Bench Press,83,6
 Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,102,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,70,8
-Chest,Seated Military Press,70,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),70,8
+Chest,Seated Shoulder  Press (Barbell),70,8
 Chest,Weighted Dips,0,10
 Chest,Weighted Dips,0,10
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),70,8
@@ -2847,14 +2847,14 @@ Shoulder Day,Weighted Dips,20,8
 Shoulder Day,Weighted Dips,20,8
 Shoulder Day,Weighted Dips,40,8
 Shoulder Day,Weighted Dips,40,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,70,8
-Shoulder Day,Seated Military Press,70,8
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,86,8
-Shoulder Day,Seated Military Press,88,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),70,8
+Shoulder Day,Seated Shoulder  Press (Barbell),70,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),86,8
+Shoulder Day,Seated Shoulder  Press (Barbell),88,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,8
@@ -2923,12 +2923,12 @@ Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,12
 Shoulder Day,Weighted Dips,20,12
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,61,8
-Shoulder Day,Seated Military Press,83,8
-Shoulder Day,Seated Military Press,88,8
-Shoulder Day,Seated Military Press,88,8
-Shoulder Day,Seated Military Press,90,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),61,8
+Shoulder Day,Seated Shoulder  Press (Barbell),83,8
+Shoulder Day,Seated Shoulder  Press (Barbell),88,8
+Shoulder Day,Seated Shoulder  Press (Barbell),88,8
+Shoulder Day,Seated Shoulder  Press (Barbell),90,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,0,8
 Shoulder Day,Weighted Dips,20,12
@@ -2978,13 +2978,13 @@ Chest,Hammer Shoulder Press,63,10
 Chest,Tricep Pushdown,54,15
 Chest,Tricep Pushdown,54,15
 Chest,Tricep Pushdown,45,12
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),70,15
-Chest,Incline Bench Press (Barbell),70,15
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,70,15
+Chest,Incline Bench Press,70,15
 Chest,Hammer Shoulder Press,63,10
 Chest,Hammer Shoulder Press,63,10
 Chest,Hammer Shoulder Press,63,10
@@ -3013,22 +3013,22 @@ Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,102,8
 Chest,Incline Bench Press,79,25
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,61,8
-Chest,Seated Military Press,74,8
-Chest,Seated Military Press,74,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),61,8
+Chest,Seated Shoulder  Press (Barbell),74,8
+Chest,Seated Shoulder  Press (Barbell),74,8
 Chest,Weighted Dips,20,10
 Chest,Weighted Dips,20,10
 Chest,Weighted Dips,20,12
 Chest,Hammer Shoulder Press,0,0
 Chest,Hammer Shoulder Press,0,0
 Chest,Hammer Shoulder Press,0,0
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),70,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),79,25
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,70,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,79,25
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),61,8
 Chest,Seated Shoulder  Press (Barbell),74,8
@@ -3047,9 +3047,9 @@ Back,Chin Up,15,8
 Back,T-Bar Row,54,10
 Back,T-Bar Row,54,10
 Back,T-Bar Row,52,10
-Back,Lat Pulldown ,70,12
-Back,Lat Pulldown ,74,10
-Back,Lat Pulldown ,74,10
+Back,Lat Pulldown,70,12
+Back,Lat Pulldown,74,10
+Back,Lat Pulldown,74,10
 Back,Rear Delt Fly,61,15
 Back,Rear Delt Fly,61,15
 Back,Rear Delt Fly,61,15
@@ -3057,12 +3057,12 @@ Back,Bicep Curl (Barbell),43,10
 Back,Bicep Curl (Barbell),43,10
 Back,Hammer Curl,36,10
 Back,Hammer Curl,31,12
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
 Chest,Overhead Press (Dumbbell),54,12
 Chest,Overhead Press (Dumbbell),54,10
 Chest,Overhead Press (Dumbbell),54,10
@@ -3103,12 +3103,12 @@ Squat 1,Deadlift (Barbell),102,6
 Squat 1,Deadlift (Barbell),113,6
 Squat 1,Deadlift (Barbell),124,6
 Squat 1,Deadlift (Barbell),124,6
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
 Chest,Overhead Press (Barbell),70,10
 Chest,Overhead Press (Barbell),70,10
 Chest,Overhead Press (Barbell),77,10
@@ -3236,13 +3236,13 @@ Back,Bicep Curl (Barbell),34,12
 Back,Hammer Curl,31,12
 Back,Pull Up,22,8
 Back,Pull Up,22,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),83,6
-Chest,Incline Bench Press (Barbell),102,6
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,83,6
+Chest,Incline Bench Press,102,6
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,61,5
 Chest,Overhead Press (Barbell),83,8
 Chest,Overhead Press (Barbell),83,8
 Chest,Overhead Press (Barbell),83,8
@@ -3327,13 +3327,13 @@ Squat 1,Leg Curl,61,10
 Squat 1,Front Squat (Barbell),61,6
 Squat 1,Front Squat (Barbell),70,5
 Squat 1,Front Squat (Barbell),79,5
-Chest,Incline Bench Press (Barbell),61,8
-Chest,Incline Bench Press (Barbell),61,6
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),92,8
-Chest,Incline Bench Press (Barbell),95,8
-Chest,Incline Bench Press (Barbell),97,8
-Chest,Incline Bench Press (Barbell),102,8
+Chest,Incline Bench Press,61,8
+Chest,Incline Bench Press,61,6
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,92,8
+Chest,Incline Bench Press,95,8
+Chest,Incline Bench Press,97,8
+Chest,Incline Bench Press,102,8
 Chest,Weighted Dips,45,8
 Chest,Weighted Dips,45,8
 Chest,Weighted Dips,45,10
@@ -3359,8 +3359,8 @@ Back,Pull Up,13,10
 Back,Bent Over Row (Dumbbell),86,10
 Back,Bent Over Row (Dumbbell),86,10
 Back,Bent Over Row (Dumbbell),86,10
-Back,Lat Pulldown ,61,10
-Back,Lat Pulldown ,61,10
+Back,Lat Pulldown,61,10
+Back,Lat Pulldown,61,10
 Back,Hammer Curl,31,12
 Back,Hammer Curl,22,6
 Back,Hammer Curl,31,12
@@ -3412,8 +3412,8 @@ Back,T-Bar Row,62,10
 Back,T-Bar Row,52,10
 Back,T-Bar Row,40,12
 Back,T-Bar Row,40,15
-Back,Lat Pulldown ,61,10
-Back,Lat Pulldown ,61,10
+Back,Lat Pulldown,61,10
+Back,Lat Pulldown,61,10
 Back,Rear Delt Fly,58,15
 Back,Rear Delt Fly,58,15
 Back,Rear Delt Fly,58,15
@@ -3437,8 +3437,8 @@ Squat 1,Leg Press (Hinge),215,12
 Squat 1,Leg Outward Fly,49,12
 Squat 1,Leg Outward Fly,49,12
 Squat 1,Leg Outward Fly,49,12
-Shoulder Day,Lateral Raise (Dumbbells),22,10
-Shoulder Day,Lateral Raise (Dumbbells),22,10
+Shoulder Day,Lateral Raise (Dumbbell),22,10
+Shoulder Day,Lateral Raise (Dumbbell),22,10
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),70,5
 Shoulder Day,Seated Shoulder  Press (Barbell),83,5
@@ -3462,7 +3462,7 @@ Back,T-Bar Row,56,10
 Back,T-Bar Row,56,10
 Back,T-Bar Row,62,10
 Back,T-Bar Row,62,10
-Back,Lat Pulldown ,63,10
+Back,Lat Pulldown,63,10
 Back,Rear Delt Fly,58,15
 Back,Rear Delt Fly,58,15
 Back,Rear Delt Fly,58,15
@@ -3494,21 +3494,21 @@ Squat 1,Good Morning (Barbell),45,10
 Squat 1,Leg Outward Fly,49,12
 Squat 1,Leg Outward Fly,54,12
 Squat 1,Leg Outward Fly,54,12
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),83,3
-Chest,Incline Bench Press (Barbell),92,3
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),108,5
-Chest,Incline Bench Press (Barbell),113,4
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,83,3
+Chest,Incline Bench Press,92,3
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,108,5
+Chest,Incline Bench Press,113,4
 Chest,Incline Press (Dumbbell),72,12
 Chest,Incline Press (Dumbbell),81,10
 Chest,Incline Press (Dumbbell),81,8
-Chest,Lateral Raise (Dumbbells),13,15
-Chest,Lateral Raise (Dumbbells),22,15
+Chest,Lateral Raise (Dumbbell),13,15
+Chest,Lateral Raise (Dumbbell),22,15
 Chest,Tricep Extension,34,12
 Chest,Landmine Press,40,10
 Chest,Landmine Press,47,10
@@ -3555,8 +3555,8 @@ Squat 1,Leg Curl,63,12
 Squat 1,Good Morning (Barbell),45,12
 Squat 1,Good Morning (Barbell),45,10
 Squat 1,Good Morning (Barbell),45,10
-Shoulder Day,Lateral Raise (Dumbbells),18,15
-Shoulder Day,Lateral Raise (Dumbbells),18,15
+Shoulder Day,Lateral Raise (Dumbbell),18,15
+Shoulder Day,Lateral Raise (Dumbbell),18,15
 Shoulder Day,Seated Shoulder  Press (Barbell),43,8
 Shoulder Day,Seated Shoulder  Press (Barbell),61,5
 Shoulder Day,Seated Shoulder  Press (Barbell),70,6
@@ -3580,9 +3580,9 @@ Back,Rear Delt Fly,61,12
 Back,Rear Delt Fly,61,12
 Back,Rear Delt Fly,61,12
 Back,Pull Up,15,9
-Back,Lat Pulldown ,68,10
-Back,Lat Pulldown ,70,12
-Back,Lat Pulldown ,70,12
+Back,Lat Pulldown,68,10
+Back,Lat Pulldown,70,12
+Back,Lat Pulldown,70,12
 Back,Hammer Curl,22,13
 Back,Hammer Curl,22,11
 Back,Hammer Curl,22,12
@@ -3610,24 +3610,24 @@ Squat 1,Leg Press (Hinge),204,12
 Squat 1,Leg Press (Hinge),206,12
 Squat 1,Leg Press (Hinge),229,12
 Squat 1,Leg Press (Hinge),229,12
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),92,3
-Chest,Incline Bench Press (Barbell),103,8
-Chest,Incline Bench Press (Barbell),103,8
-Chest,Incline Bench Press (Barbell),105,8
-Chest,Incline Bench Press (Barbell),109,5
-Chest,Incline Bench Press (Barbell),113,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,92,3
+Chest,Incline Bench Press,103,8
+Chest,Incline Bench Press,103,8
+Chest,Incline Bench Press,105,8
+Chest,Incline Bench Press,109,5
+Chest,Incline Bench Press,113,5
 Chest,Overhead Press (Dumbbell),36,10
 Chest,Overhead Press (Dumbbell),54,12
 Chest,Incline Press (Dumbbell),77,10
 Chest,Incline Press (Dumbbell),77,10
 Chest,Landmine Press,52,10
 Chest,Landmine Press,52,10
-Chest,Lateral Raise (Dumbbells),10,18
-Chest,Lateral Raise (Dumbbells),10,18
+Chest,Lateral Raise (Dumbbell),10,18
+Chest,Lateral Raise (Dumbbell),10,18
 Chest,Tricep Extension,38,12
 Chest,Tricep Extension,38,12
 Back,Chin Up,26,8
@@ -3651,8 +3651,8 @@ Back,Bicep Curl (Dumbbell),22,12
 Shoulder Day,Seated Shoulder Press (Dumbbell),45,10
 Shoulder Day,Seated Shoulder Press (Dumbbell),45,10
 Shoulder Day,Seated Shoulder Press (Dumbbell),45,12
-Shoulder Day,Lateral Raise (Dumbbells),13,12
-Shoulder Day,Lateral Raise (Dumbbells),13,15
+Shoulder Day,Lateral Raise (Dumbbell),13,12
+Shoulder Day,Lateral Raise (Dumbbell),13,15
 Shoulder Day,Seated Shoulder  Press (Barbell),61,5
 Shoulder Day,Seated Shoulder  Press (Barbell),61,5
 Shoulder Day,Seated Shoulder  Press (Barbell),70,5
@@ -3694,14 +3694,14 @@ Back,Bicep Curl (Dumbbell),18,16
 Back,Bicep Curl (Barbell),45,10
 Back,Bicep Curl (Barbell),45,10
 Back,Bicep Curl (Barbell),45,10
-Chest,Incline Bench Press (Barbell),52,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),113,5
+Chest,Incline Bench Press,52,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,113,5
 Chest,Incline Press (Dumbbell),81,11
 Chest,Incline Press (Dumbbell),81,11
 Chest,Incline Press (Dumbbell),81,10
@@ -3792,15 +3792,15 @@ Back,Rear Delt Fly,65,15
 Back,Rear Delt Fly,65,15
 Back,Bicep Curl (Barbell),34,12
 Back,Bicep Curl (Barbell),34,12
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),105,8
-Chest,Incline Bench Press (Barbell),105,8
-Chest,Incline Bench Press (Barbell),109,5
-Chest,Incline Bench Press (Barbell),115,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,105,8
+Chest,Incline Bench Press,105,8
+Chest,Incline Bench Press,109,5
+Chest,Incline Bench Press,115,5
 Chest,Overhead Press (Barbell),18,12
 Chest,Overhead Press (Barbell),18,12
 Chest,Incline Press (Dumbbell),86,10
@@ -3889,20 +3889,20 @@ Squat 1,Romanian Deadlift (Barbell),65,10
 Back,Chin Up,32,8
 Back,Chin Up,32,8
 Back,Chin Up,32,9
-Back,Lat Pulldown ,70,12
-Back,Lat Pulldown ,70,12
-Back,Lat Pulldown ,70,12
+Back,Lat Pulldown,70,12
+Back,Lat Pulldown,70,12
+Back,Lat Pulldown,70,12
 Back,Rear Delt Fly,63,12
 Back,Rear Delt Fly,63,12
 Back,Rear Delt Fly,63,12
-Chest,Incline Bench Press (Barbell),65,5
-Chest,Incline Bench Press (Barbell),65,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),105,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),111,6
-Chest,Incline Bench Press (Barbell),115,5
+Chest,Incline Bench Press,65,5
+Chest,Incline Bench Press,65,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,105,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,111,6
+Chest,Incline Bench Press,115,5
 Chest,Incline Press (Dumbbell),81,12
 Chest,Incline Press (Dumbbell),81,12
 Squat 1,Squat (Barbell),83,6
@@ -3931,9 +3931,9 @@ Back,Chin Up,34,5
 Back,Chin Up,36,5
 Back,Chin Up,0,5
 Back,Chin Up,0,5
-Back,Lat Pulldown ,74,9
-Back,Lat Pulldown ,77,9
-Back,Lat Pulldown ,83,9
+Back,Lat Pulldown,74,9
+Back,Lat Pulldown,77,9
+Back,Lat Pulldown,83,9
 Back,Rear Delt Fly,63,12
 Back,Rear Delt Fly,63,12
 Back,Rear Delt Fly,63,12
@@ -3943,14 +3943,14 @@ Back,Hammer Seated Row (Close Grip),72,12
 Back,Hammer Seated Row (Close Grip),72,12
 Back,Hammer Seated Row (Close Grip),72,10
 Back,Hammer Seated Row (Close Grip),72,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,9
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),112,5
-Chest,Incline Bench Press (Barbell),116,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,9
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,112,5
+Chest,Incline Bench Press,116,5
 Chest,Overhead Press (Barbell),58,10
 Chest,Overhead Press (Barbell),58,10
 Chest,Incline Press (Dumbbell),86,10
@@ -3984,8 +3984,8 @@ Back,Seated Cable Row (Close Grip),92,10
 Back,Seated Cable Row (Close Grip),86,10
 Back,Seated Cable Row (Close Grip),92,10
 Back,Seated Cable Row (Close Grip),92,10
-Back,Lat Pulldown ,77,10
-Back,Lat Pulldown ,77,8
+Back,Lat Pulldown,77,10
+Back,Lat Pulldown,77,8
 Back,Bicep Curl (Barbell),47,8
 Back,Bicep Curl (Barbell),47,8
 Shoulders  - Heavy Day,Seated Shoulder  Press (Barbell),29,8
@@ -4030,12 +4030,12 @@ Back,Chin Up,37,6
 Back,Chin Up,37,6
 Back,Chin Up,37,6
 Back,Chin Up,0,10
-Back,Lat Pulldown ,81,10
-Back,Lat Pulldown ,81,10
-Back,Lat Pulldown ,81,10
-Back,Lat Pulldown ,83,10
-Back,Lat Pulldown ,88,10
-Back,Lat Pulldown ,88,10
+Back,Lat Pulldown,81,10
+Back,Lat Pulldown,81,10
+Back,Lat Pulldown,81,10
+Back,Lat Pulldown,83,10
+Back,Lat Pulldown,88,10
+Back,Lat Pulldown,88,10
 Back,Rear Delt Fly,63,12
 Back,Rear Delt Fly,63,12
 Back,Rear Delt Fly,63,12
@@ -4045,13 +4045,13 @@ Back,Hammer Seated Row (Close Grip),77,10
 Back,Hammer Seated Row (Close Grip),77,10
 Back,Bicep Curl (Dumbbell),22,10
 Back,Bicep Curl (Dumbbell),22,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),113,6
-Chest,Incline Bench Press (Barbell),117,5
-Chest,Incline Bench Press (Barbell),113,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,113,6
+Chest,Incline Bench Press,117,5
+Chest,Incline Bench Press,113,5
 Chest,Incline Press (Dumbbell),81,10
 Chest,Incline Press (Dumbbell),81,10
 Chest,Incline Press (Dumbbell),86,10
@@ -4112,14 +4112,14 @@ Squat 1,Romanian Deadlift (Barbell),111,5
 Squat 1,Romanian Deadlift (Barbell),113,5
 Squat 1,Leg Extension (Machine),70,10
 Squat 1,Leg Extension (Machine),70,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,1
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),109,8
-Chest,Incline Bench Press (Barbell),114,5
-Chest,Incline Bench Press (Barbell),114,5
-Chest,Incline Bench Press (Barbell),119,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,1
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,109,8
+Chest,Incline Bench Press,114,5
+Chest,Incline Bench Press,114,5
+Chest,Incline Bench Press,119,6
 Chest,Incline Press (Dumbbell),86,8
 Chest,Incline Press (Dumbbell),86,8
 Chest,Incline Press (Dumbbell),86,8
@@ -4135,8 +4135,8 @@ Back,Seated Cable Row (Close Grip),92,10
 Back,Seated Cable Row (Close Grip),92,10
 Back,Seated Cable Row (Close Grip),92,10
 Back,Seated Cable Row (Close Grip),92,10
-Back,Lat Pulldown ,88,10
-Back,Lat Pulldown ,81,12
+Back,Lat Pulldown,88,10
+Back,Lat Pulldown,81,12
 Back,Rear Delt Fly,63,15
 Back,Rear Delt Fly,63,15
 Back,Rear Delt Fly,63,15
@@ -4158,8 +4158,8 @@ Squat 1,Romanian Deadlift (Barbell),115,6
 Squat 1,Romanian Deadlift (Barbell),115,6
 Squat 1,Leg Press (Hinge),163,15
 Squat 1,Leg Press (Hinge),163,15
-Shoulder Day,Lateral Raise (Dumbbells),18,10
-Shoulder Day,Lateral Raise (Dumbbells),18,10
+Shoulder Day,Lateral Raise (Dumbbell),18,10
+Shoulder Day,Lateral Raise (Dumbbell),18,10
 Shoulder Day,Seated Shoulder  Press (Barbell),47,6
 Shoulder Day,Seated Shoulder  Press (Barbell),47,5
 Shoulder Day,Seated Shoulder  Press (Barbell),65,5
@@ -4219,14 +4219,14 @@ Squat 1,Front Squat (Barbell),83,5
 Squat 1,Front Squat (Barbell),90,5
 Squat 1,Front Squat (Barbell),102,4
 Squat 1,Front Squat (Barbell),102,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),109,8
-Chest,Incline Bench Press (Barbell),109,8
-Chest,Incline Bench Press (Barbell),115,5
-Chest,Incline Bench Press (Barbell),115,5
-Chest,Incline Bench Press (Barbell),116,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,109,8
+Chest,Incline Bench Press,109,8
+Chest,Incline Bench Press,115,5
+Chest,Incline Bench Press,115,5
+Chest,Incline Bench Press,116,5
 Chest,Incline Press (Dumbbell),86,10
 Chest,Incline Press (Dumbbell),86,10
 Chest,Incline Press (Dumbbell),86,10
@@ -4247,8 +4247,8 @@ Back,Rear Delt Fly,61,15
 Back,Bicep Curl (Barbell),44,10
 Back,Bicep Curl (Barbell),44,10
 Back,Bicep Curl (Barbell),44,10
-Back,Lat Pulldown ,61,10
-Back,Lat Pulldown ,68,10
+Back,Lat Pulldown,61,10
+Back,Lat Pulldown,68,10
 Squat 1,Squat (Barbell),61,6
 Squat 1,Squat (Barbell),70,5
 Squat 1,Squat (Barbell),83,5
@@ -4269,8 +4269,8 @@ Squat 1,Romanian Deadlift (Barbell),115,5
 Squat 1,Romanian Deadlift (Barbell),115,5
 Squat 1,Front Squat (Barbell),61,5
 Squat 1,Front Squat (Barbell),70,5
-Shoulder Day,Lateral Raise (Dumbbells),13,15
-Shoulder Day,Lateral Raise (Dumbbells),13,15
+Shoulder Day,Lateral Raise (Dumbbell),13,15
+Shoulder Day,Lateral Raise (Dumbbell),13,15
 Shoulder Day,Seated Shoulder  Press (Barbell),20,6
 Shoulder Day,Seated Shoulder  Press (Barbell),43,6
 Shoulder Day,Seated Shoulder  Press (Barbell),61,5
@@ -4316,17 +4316,17 @@ Squat 1,Squat (Barbell),124,5
 Squat 1,Leg Press (Hinge),122,10
 Squat 1,Leg Press (Hinge),163,10
 Squat 1,Leg Press (Hinge),163,10
-Chest,Incline Bench Press (Barbell),52,5
-Chest,Incline Bench Press (Barbell),52,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),83,3
-Chest,Incline Bench Press (Barbell),111,8
-Chest,Incline Bench Press (Barbell),111,8
-Chest,Incline Bench Press (Barbell),116,5
-Chest,Incline Bench Press (Barbell),116,5
-Chest,Incline Bench Press (Barbell),116,5
-Chest,Incline Bench Press (Barbell),83,8
-Chest,Incline Bench Press (Barbell),88,10
+Chest,Incline Bench Press,52,5
+Chest,Incline Bench Press,52,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,83,3
+Chest,Incline Bench Press,111,8
+Chest,Incline Bench Press,111,8
+Chest,Incline Bench Press,116,5
+Chest,Incline Bench Press,116,5
+Chest,Incline Bench Press,116,5
+Chest,Incline Bench Press,83,8
+Chest,Incline Bench Press,88,10
 Chest,Overhead Press (Barbell),61,8
 Chest,Overhead Press (Barbell),74,8
 Chest,Overhead Press (Barbell),74,8
@@ -4418,14 +4418,14 @@ Squat 1,Leg Press (Hinge),154,12
 Squat 1,Leg Press (Hinge),195,10
 Squat 1,Leg Press (Hinge),235,8
 Squat 1,Leg Press (Hinge),235,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,5
-Chest,Incline Bench Press (Barbell),113,5
-Chest,Incline Bench Press (Barbell),113,5
-Chest,Incline Bench Press (Barbell),115,5
-Chest,Incline Bench Press (Barbell),115,5
-Chest,Incline Bench Press (Barbell),115,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,5
+Chest,Incline Bench Press,113,5
+Chest,Incline Bench Press,113,5
+Chest,Incline Bench Press,115,5
+Chest,Incline Bench Press,115,5
+Chest,Incline Bench Press,115,6
 Chest,Overhead Press (Barbell),79,8
 Chest,Overhead Press (Barbell),83,10
 Chest,Weighted Dips,0,10
@@ -4473,14 +4473,14 @@ Squat 1,Romanian Deadlift (Barbell),83,6
 Squat 1,Romanian Deadlift (Barbell),102,6
 Squat 1,Romanian Deadlift (Barbell),115,6
 Squat 1,Romanian Deadlift (Barbell),115,6
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,5
-Chest,Incline Bench Press (Barbell),115,5
-Chest,Incline Bench Press (Barbell),115,5
-Chest,Incline Bench Press (Barbell),116,5
-Chest,Incline Bench Press (Barbell),117,5
-Chest,Incline Bench Press (Barbell),119,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,5
+Chest,Incline Bench Press,115,5
+Chest,Incline Bench Press,115,5
+Chest,Incline Bench Press,116,5
+Chest,Incline Bench Press,117,5
+Chest,Incline Bench Press,119,5
 Chest,Incline Press (Dumbbell),81,10
 Chest,Incline Press (Dumbbell),81,10
 Chest,Incline Press (Dumbbell),81,8
@@ -4525,14 +4525,14 @@ Back,Bicep Curl (Barbell),35,12
 Back,Seated Cable Row (Close Grip),86,10
 Back,Seated Cable Row (Close Grip),86,10
 Back,Seated Cable Row (Close Grip),86,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,5
-Chest,Incline Bench Press (Barbell),116,5
-Chest,Incline Bench Press (Barbell),116,5
-Chest,Incline Bench Press (Barbell),117,5
-Chest,Incline Bench Press (Barbell),117,5
-Chest,Incline Bench Press (Barbell),86,10
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,5
+Chest,Incline Bench Press,116,5
+Chest,Incline Bench Press,116,5
+Chest,Incline Bench Press,117,5
+Chest,Incline Bench Press,117,5
+Chest,Incline Bench Press,86,10
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,31,8
 Chest,Weighted Dips,31,8
@@ -4602,9 +4602,9 @@ Squat 1,Leg Press (Hinge),163,10
 Squat 1,Leg Press (Hinge),163,10
 Squat 1,Leg Press (Hinge),163,10
 Squat 1,Leg Press (Hinge),163,10
-Shoulder Day,Lateral Raise (Dumbbells),22,10
-Shoulder Day,Lateral Raise (Dumbbells),22,10
-Shoulder Day,Lateral Raise (Dumbbells),22,10
+Shoulder Day,Lateral Raise (Dumbbell),22,10
+Shoulder Day,Lateral Raise (Dumbbell),22,10
+Shoulder Day,Lateral Raise (Dumbbell),22,10
 Shoulder Day,Seated Shoulder  Press (Barbell),38,6
 Shoulder Day,Seated Shoulder  Press (Barbell),65,6
 Shoulder Day,Seated Shoulder  Press (Barbell),83,6
@@ -4633,14 +4633,14 @@ Back,Rear Delt Fly,58,12
 Back,Bicep Curl (Barbell),45,10
 Back,Bicep Curl (Barbell),45,10
 Back,Bicep Curl (Barbell),45,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),111,6
-Chest,Incline Bench Press (Barbell),111,5
-Chest,Incline Bench Press (Barbell),111,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,111,6
+Chest,Incline Bench Press,111,5
+Chest,Incline Bench Press,111,6
 Chest,Incline Press (Dumbbell),68,10
 Chest,Incline Press (Dumbbell),68,12
 Back,Chin Up,0,10
@@ -4656,8 +4656,8 @@ Back,Seated Cable Row (Close Grip),58,12
 Back,Seated Cable Row (Close Grip),79,12
 Back,Seated Cable Row (Close Grip),86,10
 Back,Seated Cable Row (Close Grip),86,10
-Back,Lat Pulldown ,81,12
-Back,Lat Pulldown ,83,12
+Back,Lat Pulldown,81,12
+Back,Lat Pulldown,83,12
 Back,Bicep Curl (Barbell),40,10
 Back,Bicep Curl (Barbell),40,10
 Back,Bicep Curl (Barbell),40,10
@@ -4709,14 +4709,14 @@ Back,Chin Up,20,10
 Back,Chin Up,20,10
 Back,Chin Up,20,10
 Back,Chin Up,20,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,6
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),111,6
-Chest,Incline Bench Press (Barbell),113,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,6
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,111,6
+Chest,Incline Bench Press,113,6
 Squat 1,Squat (Barbell),61,5
 Squat 1,Squat (Barbell),83,5
 Squat 1,Squat (Barbell),102,5
@@ -4774,13 +4774,13 @@ Back,Chin Up,23,8
 Back,Chin Up,23,8
 Back,Chin Up,23,10
 Back,Chin Up,23,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),111,8
-Chest,Incline Bench Press (Barbell),115,5
-Chest,Incline Bench Press (Barbell),102,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,111,8
+Chest,Incline Bench Press,115,5
+Chest,Incline Bench Press,102,8
 Squat 1,Squat (Barbell),83,6
 Squat 1,Squat (Barbell),102,8
 Squat 1,Squat (Barbell),102,8
@@ -4841,8 +4841,8 @@ Squat 1,Squat (Barbell),124,6
 Squat 1,Squat (Barbell),124,6
 Squat 1,Squat (Barbell),133,6
 Squat 1,Squat (Barbell),133,6
-Shoulder Day,Lateral Raise (Dumbbells),27,10
-Shoulder Day,Lateral Raise (Dumbbells),27,10
+Shoulder Day,Lateral Raise (Dumbbell),27,10
+Shoulder Day,Lateral Raise (Dumbbell),27,10
 Shoulder Day,Seated Shoulder  Press (Barbell),38,6
 Shoulder Day,Seated Shoulder  Press (Barbell),65,6
 Shoulder Day,Seated Shoulder  Press (Barbell),65,6
@@ -4880,14 +4880,14 @@ Back,Hammer Seated Row (Close Grip),95,10
 Back,Hammer Seated Row (Close Grip),95,12
 Back,Hammer Seated Row (Close Grip),95,10
 Back,Hammer Seated Row (Close Grip),81,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),88,10
-Chest,Incline Bench Press (Barbell),88,10
-Chest,Incline Bench Press (Barbell),88,10
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,88,10
+Chest,Incline Bench Press,88,10
+Chest,Incline Bench Press,88,10
 Squat 1,Squat (Barbell),83,5
 Squat 1,Squat (Barbell),83,5
 Squat 1,Squat (Barbell),102,8
@@ -4912,12 +4912,12 @@ Back,Hammer Seated Row (Close Grip),95,10
 Back,Hammer Seated Row (Close Grip),81,12
 Back,Hammer Seated Row (Close Grip),81,12
 Back,Deadlift (Barbell),92,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),111,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,111,5
 Chest,Bench Press (Barbell),83,6
 Chest,Bench Press (Barbell),102,5
 Chest,Bench Press (Barbell),115,6
@@ -5002,13 +5002,13 @@ Back,Hammer Seated Row (Close Grip),86,12
 Back,Hammer Seated Row (Close Grip),86,12
 Back,Hammer Seated Row (Close Grip),86,12
 Back,Hammer Seated Row (Close Grip),86,12
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,9
-Chest,Incline Bench Press (Barbell),115,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,9
+Chest,Incline Bench Press,115,6
 Chest,Overhead Press (Dumbbell),63,12
 Chest,Overhead Press (Dumbbell),63,10
 Chest,Overhead Press (Dumbbell),63,10
@@ -5016,13 +5016,13 @@ Chest,Weighted Dips,0,10
 Chest,Weighted Dips,40,10
 Chest,Weighted Dips,40,10
 Chest,Weighted Dips,52,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),70,5
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,9
-Chest,Incline Bench Press (Barbell),115,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,70,5
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,9
+Chest,Incline Bench Press,115,6
 Chest,Overhead Press (Dumbbell),63,12
 Chest,Overhead Press (Dumbbell),63,10
 Chest,Overhead Press (Dumbbell),63,10
@@ -5067,13 +5067,13 @@ Squat 1,Leg Press (Hinge),226,10
 Squat 1,Leg Press (Hinge),226,10
 Squat 1,Leg Press (Hinge),226,10
 Squat 1,Leg Press (Hinge),226,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),90,10
-Chest,Incline Bench Press (Barbell),90,10
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,90,10
+Chest,Incline Bench Press,90,10
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,20,8
 Chest,Weighted Dips,40,8
@@ -5101,12 +5101,12 @@ Squat 1,Squat (Barbell),142,6
 Squat 1,Leg Curl,63,12
 Squat 1,Leg Curl,63,12
 Squat 1,Leg Curl,63,12
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),108,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,108,8
 Chest,Bench Press (Barbell),124,6
 Chest,Bench Press (Barbell),129,5
 Chest,Bench Press (Barbell),83,5
@@ -5139,22 +5139,22 @@ Back,Rear Delt Fly,65,10
 Back,Hammer Seated Row (Close Grip),106,8
 Back,Hammer Seated Row (Close Grip),106,8
 Back,Hammer Seated Row (Close Grip),106,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),102,9
-Chest,Incline Bench Press (Barbell),86,10
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,102,9
+Chest,Incline Bench Press,86,10
 Chest,Bench Press (Barbell),83,5
 Chest,Bench Press (Barbell),111,5
 Chest,Bench Press (Barbell),124,5
 Chest,Bench Press (Barbell),129,5
 Chest,Bench Press (Barbell),131,5
-Chest,Lateral Raise (Dumbbells),27,15
-Chest,Lateral Raise (Dumbbells),27,11
-Chest,Lateral Raise (Dumbbells),13,12
-Chest,Lateral Raise (Dumbbells),13,12
+Chest,Lateral Raise (Dumbbell),27,15
+Chest,Lateral Raise (Dumbbell),27,11
+Chest,Lateral Raise (Dumbbell),13,12
+Chest,Lateral Raise (Dumbbell),13,12
 Legs,Squat (Barbell),61,6
 Legs,Squat (Barbell),102,5
 Legs,Squat (Barbell),124,6
@@ -5162,20 +5162,20 @@ Legs,Squat (Barbell),145,5
 Legs,Squat (Barbell),145,5
 Legs,Squat (Barbell),149,6
 Legs,Squat (Barbell),149,6
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),102,10
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,102,10
 Chest,Overhead Press (Dumbbell),40,8
 Chest,Overhead Press (Dumbbell),40,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),88,10
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,88,10
 Back,Chin Up,0,10
 Back,Chin Up,22,10
 Back,Chin Up,22,10
@@ -5191,8 +5191,8 @@ Back,Hammer Seated Row (Close Grip),104,12
 Back,Hammer Seated Row (Close Grip),104,12
 Back,Hammer Seated Row (Close Grip),99,10
 Back,Hammer Seated Row (Close Grip),99,10
-Back,Lat Pulldown ,77,10
-Back,Lat Pulldown ,77,10
+Back,Lat Pulldown,77,10
+Back,Lat Pulldown,77,10
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),47,8
 Shoulder Day,Seated Shoulder  Press (Barbell),83,6
@@ -5216,13 +5216,13 @@ Back,Hammer Seated Row (Close Grip),113,10
 Back,Hammer Seated Row (Close Grip),113,10
 Back,Hammer Seated Row (Close Grip),113,10
 Back,Hammer Seated Row (Close Grip),113,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),107,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),90,10
-Chest,Incline Bench Press (Barbell),90,9
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,107,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,90,10
+Chest,Incline Bench Press,90,9
 Chest,Weighted Dips,0,8
 Chest,Weighted Dips,15,8
 Chest,Weighted Dips,47,10
@@ -5261,12 +5261,12 @@ Squat 1,Squat (Barbell),133,7
 Squat 1,Leg Curl,65,10
 Squat 1,Leg Curl,65,10
 Squat 1,Leg Curl,65,10
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),108,8
-Chest,Incline Bench Press (Barbell),102,8
-Chest,Incline Bench Press (Barbell),102,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,108,8
+Chest,Incline Bench Press,102,8
+Chest,Incline Bench Press,102,6
 Chest,Bench Press (Barbell),61,5
 Chest,Bench Press (Barbell),83,5
 Chest,Bench Press (Barbell),102,8
@@ -5307,16 +5307,16 @@ Squat 1,Romanian Deadlift (Barbell),88,8
 Squat 1,Leg Outward Fly,54,12
 Squat 1,Leg Outward Fly,54,12
 Squat 1,Leg Outward Fly,54,12
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),86,6
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),108,8
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,86,6
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,108,8
 Chest,Weighted Dips,0,11
 Chest,Weighted Dips,0,10
-Chest,Lateral Raise (Dumbbells),9,15
-Chest,Lateral Raise (Dumbbells),9,15
+Chest,Lateral Raise (Dumbbell),9,15
+Chest,Lateral Raise (Dumbbell),9,15
 Chest,Incline Press (Dumbbell),81,12
 Chest,Incline Press (Dumbbell),81,10
 Chest,Incline Press (Dumbbell),86,10
@@ -5335,9 +5335,9 @@ Squat 1,Good Morning (Barbell),92,8
 Squat 1,Leg Outward Fly,54,12
 Squat 1,Leg Outward Fly,54,12
 Squat 1,Leg Outward Fly,54,12
-Shoulder Day,Lateral Raise (Dumbbells),22,12
-Shoulder Day,Lateral Raise (Dumbbells),22,12
-Shoulder Day,Lateral Raise (Dumbbells),22,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
+Shoulder Day,Lateral Raise (Dumbbell),22,12
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),83,6
@@ -5371,20 +5371,20 @@ Squat 1,Squat (Barbell),127,8
 Squat 1,Squat (Barbell),136,8
 Squat 1,Squat (Barbell),142,8
 Squat 1,Squat (Barbell),142,6
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),83,14
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,83,14
 Chest,Weighted Dips,20,6
 Chest,Bench Press (Barbell),61,6
 Chest,Bench Press (Barbell),83,6
 Chest,Bench Press (Barbell),102,8
 Chest,Bench Press (Barbell),113,8
 Chest,Bench Press (Barbell),127,7
-Shoulder Day,Lateral Raise (Dumbbells),18,10
-Shoulder Day,Lateral Raise (Dumbbells),18,10
+Shoulder Day,Lateral Raise (Dumbbell),18,10
+Shoulder Day,Lateral Raise (Dumbbell),18,10
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),83,6
@@ -5400,8 +5400,8 @@ Shoulder Day,Weighted Dips,31,8
 Shoulder Day,Shoulder Press (Standing),20,10
 Shoulder Day,Shoulder Press (Standing),31,10
 Shoulder Day,Shoulder Press (Standing),31,10
-Shoulder Day,Lateral Raise (Dumbbells),18,10
-Shoulder Day,Lateral Raise (Dumbbells),18,10
+Shoulder Day,Lateral Raise (Dumbbell),18,10
+Shoulder Day,Lateral Raise (Dumbbell),18,10
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),61,6
 Shoulder Day,Seated Shoulder  Press (Barbell),83,6
@@ -5468,13 +5468,13 @@ Legs,Deadlift (Barbell),106,6
 Legs,Deadlift (Barbell),106,6
 Legs,Romanian Deadlift (Barbell),106,8
 Legs,Romanian Deadlift (Barbell),106,8
-Chest,Incline Bench Press (Barbell),61,5
-Chest,Incline Bench Press (Barbell),83,5
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),104,8
-Chest,Incline Bench Press (Barbell),106,8
-Chest,Incline Bench Press (Barbell),108,6
-Chest,Incline Bench Press (Barbell),111,6
+Chest,Incline Bench Press,61,5
+Chest,Incline Bench Press,83,5
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,104,8
+Chest,Incline Bench Press,106,8
+Chest,Incline Bench Press,108,6
+Chest,Incline Bench Press,111,6
 Chest,Incline Press (Dumbbell),86,10
 Chest,Incline Press (Dumbbell),86,8
 Chest,Shoulder Press (Standing),38,10
@@ -5490,8 +5490,8 @@ Back Heavier Chins,Hammer Seated Row (Close Grip),104,11
 Back Heavier Chins,Hammer Seated Row (Close Grip),95,9
 Back Heavier Chins,Hammer Seated Row (Close Grip),95,8
 Back Heavier Chins,Hammer Seated Row (Close Grip),81,6
-Back Heavier Chins,Lat Pulldown (Cable),58,12
-Back Heavier Chins,Lat Pulldown (Cable),63,10
+Back Heavier Chins,Lat Pulldown,58,12
+Back Heavier Chins,Lat Pulldown,63,10
 Back Heavier Chins,Bicep Curl (Barbell),36,10
 Back Heavier Chins,Bicep Curl (Barbell),36,10
 2 - Back Heavy Chins,Chin Up,0,10
@@ -5508,14 +5508,14 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 2 - Back Heavy Chins,Bicep Curl (Barbell),43,10
 2 - Back Heavy Chins,Bicep Curl (Barbell),38,10
 2 - Back Heavy Chins,Bicep Curl (Barbell),34,11
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),102,10
-1 Incline Day,Incline Bench Press (Barbell),104,10
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),113,6
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,102,10
+1 Incline Day,Incline Bench Press,104,10
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,113,6
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),81,10
@@ -5534,16 +5534,16 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 2 - Shoulders ,Shoulder Press (Standing),29,10
 2 - Shoulders ,Shoulder Press (Standing),34,10
 2 - Shoulders ,Rope Never Ending ,453,5
-2 - Shoulders ,Lateral Raise (Dumbbells),13,12
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),102,9
-1 Incline Day,Incline Bench Press (Barbell),102,9
-1 Incline Day,Incline Bench Press (Barbell),104,9
-1 Incline Day,Incline Bench Press (Barbell),104,9
+2 - Shoulders ,Lateral Raise (Dumbbell),13,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,102,9
+1 Incline Day,Incline Bench Press,102,9
+1 Incline Day,Incline Bench Press,104,9
+1 Incline Day,Incline Bench Press,104,9
 1 Incline Day,Shoulder Press (Standing),40,10
 1 Incline Day,Shoulder Press (Standing),40,10
 1 Incline Day,Weighted Dips,0,10
@@ -5551,8 +5551,8 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 1 Incline Day,Weighted Dips,32,12
 1 Incline Day,Weighted Dips,32,12
 1 Incline Day,Rope Never Ending ,498,5
-1 Incline Day,Lateral Raise (Dumbbells),18,15
-1 Incline Day,Lateral Raise (Dumbbells),18,15
+1 Incline Day,Lateral Raise (Dumbbell),18,15
+1 Incline Day,Lateral Raise (Dumbbell),18,15
 2 - Back Heavy Chins,Chin Up,0,10
 2 - Back Heavy Chins,Chin Up,11,10
 2 - Back Heavy Chins,Chin Up,22,9
@@ -5617,13 +5617,13 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),81,15
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),90,12
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),90,12
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),115,5
-1 Incline Day,Incline Bench Press (Barbell),115,5
-1 Incline Day,Incline Bench Press (Barbell),117,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,115,5
+1 Incline Day,Incline Bench Press,115,5
+1 Incline Day,Incline Bench Press,117,5
 1 Incline Day,Incline Press (Dumbbell),77,10
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),81,10
@@ -5708,27 +5708,27 @@ Back Heavier Chins,Bicep Curl (Barbell),36,10
 2 - Back Heavy Chins,Pull Up,4,8
 2 - Back Heavy Chins,Bent Over Row (Dumbbell),36,10
 2 - Back Heavy Chins,Bent Over Row (Dumbbell),40,10
-1 Incline Day,Incline Bench Press (Barbell),43,5
-1 Incline Day,Incline Bench Press (Barbell),43,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),112,8
-1 Incline Day,Incline Bench Press (Barbell),116,5
-1 Incline Day,Incline Bench Press (Barbell),116,5
+1 Incline Day,Incline Bench Press,43,5
+1 Incline Day,Incline Bench Press,43,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,112,8
+1 Incline Day,Incline Bench Press,116,5
+1 Incline Day,Incline Bench Press,116,5
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),72,12
 1 Incline Day,Weighted Dips,0,12
 1 Incline Day,Weighted Dips,0,12
-1 Incline Day,Incline Bench Press (Barbell),43,5
-1 Incline Day,Incline Bench Press (Barbell),43,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),112,8
-1 Incline Day,Incline Bench Press (Barbell),116,5
-1 Incline Day,Incline Bench Press (Barbell),116,5
+1 Incline Day,Incline Bench Press,43,5
+1 Incline Day,Incline Bench Press,43,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,112,8
+1 Incline Day,Incline Bench Press,116,5
+1 Incline Day,Incline Bench Press,116,5
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),72,12
@@ -5812,13 +5812,13 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Bent Over Row (Dumbbell),45,10
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),95,10
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),95,10
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,7
-1 Incline Day,Incline Bench Press (Barbell),102,8
-1 Incline Day,Incline Bench Press (Barbell),102,8
-1 Incline Day,Incline Bench Press (Barbell),104,8
-1 Incline Day,Incline Bench Press (Barbell),106,7
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,7
+1 Incline Day,Incline Bench Press,102,8
+1 Incline Day,Incline Bench Press,102,8
+1 Incline Day,Incline Bench Press,104,8
+1 Incline Day,Incline Bench Press,106,7
 1 Incline Day,Incline Press (Dumbbell),77,10
 1 Incline Day,Incline Press (Dumbbell),77,8
 1 Incline Day,Incline Press (Dumbbell),77,10
@@ -5855,8 +5855,8 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Shoulders ,Seated Shoulder  Press (Barbell),104,8
 2 - Shoulders ,Seated Shoulder  Press (Barbell),106,6
 2 - Shoulders ,Seated Shoulder  Press (Barbell),106,6
-2 - Shoulders ,Lateral Raise (Dumbbells),22,8
-2 - Shoulders ,Lateral Raise (Dumbbells),22,8
+2 - Shoulders ,Lateral Raise (Dumbbell),22,8
+2 - Shoulders ,Lateral Raise (Dumbbell),22,8
 2 - Shoulders ,Bench Press (Barbell),61,6
 2 - Shoulders ,Bench Press (Barbell),83,8
 2 - Shoulders ,Bench Press (Barbell),92,8
@@ -5874,9 +5874,9 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Seated Cable Row (Close Grip),72,10
 2 - Back Heavy Chins,Bent Over Row (Dumbbell),45,10
 2 - Back Heavy Chins,Bent Over Row (Dumbbell),45,10
-2 - Back Heavy Chins,Lat Pulldown ,72,12
-2 - Back Heavy Chins,Lat Pulldown ,79,10
-2 - Back Heavy Chins,Lat Pulldown ,86,8
+2 - Back Heavy Chins,Lat Pulldown,72,12
+2 - Back Heavy Chins,Lat Pulldown,79,10
+2 - Back Heavy Chins,Lat Pulldown,86,8
 2 - Back Heavy Chins,Hammer Curl,36,10
 2 - Back Heavy Chins,Hammer Curl,36,10
 1 - Heavy Squats,Squat (Barbell),83,7
@@ -5917,13 +5917,13 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Good Morning (Barbell),43,12
 1 - Heavy Squats,Good Morning (Barbell),45,11
 1 - Heavy Squats,Good Morning (Barbell),45,12
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),83,6
-1 Incline Day,Incline Bench Press (Barbell),104,8
-1 Incline Day,Incline Bench Press (Barbell),104,8
-1 Incline Day,Incline Bench Press (Barbell),104,8
-1 Incline Day,Incline Bench Press (Barbell),108,8
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,83,6
+1 Incline Day,Incline Bench Press,104,8
+1 Incline Day,Incline Bench Press,104,8
+1 Incline Day,Incline Bench Press,104,8
+1 Incline Day,Incline Bench Press,108,8
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),86,9
 1 Incline Day,Incline Press (Dumbbell),86,8
@@ -5995,9 +5995,9 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),104,12
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),106,12
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),104,12
-2 - Back Heavy Chins,Lat Pulldown ,77,10
-2 - Back Heavy Chins,Lat Pulldown ,77,10
-2 - Back Heavy Chins,Lat Pulldown ,68,12
+2 - Back Heavy Chins,Lat Pulldown,77,10
+2 - Back Heavy Chins,Lat Pulldown,77,10
+2 - Back Heavy Chins,Lat Pulldown,68,12
 2 - Back Heavy Chins,Hammer Curl,27,12
 2 Legs-High Reps,Squat (Barbell),61,5
 2 Legs-High Reps,Squat (Barbell),102,6
@@ -6020,15 +6020,15 @@ Squat 1,Deadlift (Barbell),170,5
 2 Legs-High Reps,Good Morning (Barbell),49,12
 2 Legs-High Reps,Leg Press (Hinge),235,12
 2 Legs-High Reps,Leg Press (Hinge),235,12
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),88,7
-1 Incline Day,Incline Bench Press (Barbell),106,8
-1 Incline Day,Incline Bench Press (Barbell),106,8
-1 Incline Day,Incline Bench Press (Barbell),106,8
-1 Incline Day,Incline Bench Press (Barbell),102,8
-1 Incline Day,Incline Bench Press (Barbell),102,8
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,88,7
+1 Incline Day,Incline Bench Press,106,8
+1 Incline Day,Incline Bench Press,106,8
+1 Incline Day,Incline Bench Press,106,8
+1 Incline Day,Incline Bench Press,102,8
+1 Incline Day,Incline Bench Press,102,8
 1 Incline Day,Bench Press (Barbell),83,8
 1 Incline Day,Bench Press (Barbell),83,8
 1 Incline Day,Bench Press (Barbell),102,8
@@ -6102,13 +6102,13 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Leg Curl,63,10
 1 - Heavy Squats,Good Morning (Barbell),47,10
 1 - Heavy Squats,Good Morning (Barbell),52,12
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),104,8
-1 Incline Day,Incline Bench Press (Barbell),104,8
-1 Incline Day,Incline Bench Press (Barbell),108,7
-1 Incline Day,Incline Bench Press (Barbell),108,7
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,104,8
+1 Incline Day,Incline Bench Press,104,8
+1 Incline Day,Incline Bench Press,108,7
+1 Incline Day,Incline Bench Press,108,7
 1 Incline Day,Weighted Dips,0,10
 1 Incline Day,Weighted Dips,0,10
 1 Incline Day,Weighted Dips,0,10
@@ -6130,14 +6130,14 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Bicep Curl (Barbell),45,10
 2 - Back Heavy Chins,Hammer Curl,31,13
 2 - Back Heavy Chins,Hammer Curl,31,13
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),102,8
-1 Incline Day,Incline Bench Press (Barbell),106,8
-1 Incline Day,Incline Bench Press (Barbell),106,8
-1 Incline Day,Incline Bench Press (Barbell),90,12
-1 Incline Day,Incline Bench Press (Barbell),92,11
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,102,8
+1 Incline Day,Incline Bench Press,106,8
+1 Incline Day,Incline Bench Press,106,8
+1 Incline Day,Incline Bench Press,90,12
+1 Incline Day,Incline Bench Press,92,11
 1 Incline Day,Seated Shoulder  Press (Barbell),61,10
 1 Incline Day,Seated Shoulder  Press (Barbell),83,8
 1 Incline Day,Seated Shoulder  Press (Barbell),86,10
@@ -6181,8 +6181,8 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Shoulders ,Bench Press (Barbell),113,6
 2 - Shoulders ,Bench Press (Barbell),115,6
 2 - Shoulders ,Bench Press (Barbell),117,5
-2 - Shoulders ,Lateral Raise (Dumbbells),18,15
-2 - Shoulders ,Lateral Raise (Dumbbells),18,15
+2 - Shoulders ,Lateral Raise (Dumbbell),18,15
+2 - Shoulders ,Lateral Raise (Dumbbell),18,15
 2 - Back Heavy Chins,Chin Up,0,10
 2 - Back Heavy Chins,Chin Up,15,10
 2 - Back Heavy Chins,Chin Up,15,9
@@ -6219,7 +6219,7 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Shoulders ,Seated Shoulder  Press (Barbell),106,8
 2 - Shoulders ,Seated Shoulder  Press (Barbell),90,10
 2 - Shoulders ,Seated Shoulder  Press (Barbell),92,10
-2 - Shoulders ,Lateral Raise (Dumbbells),18,15
+2 - Shoulders ,Lateral Raise (Dumbbell),18,15
 2 - Shoulders ,Tricep Pushdown,63,20
 2 - Shoulders ,Tricep Pushdown,63,20
 2 - Shoulders ,Bench Press (Barbell),83,8
@@ -6255,14 +6255,14 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Leg Curl,49,12
 1 - Heavy Squats,Leg Curl,54,12
 1 - Heavy Squats,Leg Curl,58,12
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),106,8
-1 Incline Day,Incline Bench Press (Barbell),108,8
-1 Incline Day,Incline Bench Press (Barbell),108,7
-1 Incline Day,Incline Bench Press (Barbell),111,5
-1 Incline Day,Incline Bench Press (Barbell),113,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,106,8
+1 Incline Day,Incline Bench Press,108,8
+1 Incline Day,Incline Bench Press,108,7
+1 Incline Day,Incline Bench Press,111,5
+1 Incline Day,Incline Bench Press,113,5
 1 Incline Day,Incline Press (Dumbbell),77,12
 1 Incline Day,Incline Press (Dumbbell),77,12
 1 Incline Day,Incline Press (Dumbbell),81,12
@@ -6362,12 +6362,12 @@ Squat 1,Deadlift (Barbell),170,5
 1 - Heavy Squats,Leg Press (Hinge),258,12
 1 - Heavy Squats,Leg Press (Hinge),163,15
 1 - Heavy Squats,Leg Press (Hinge),163,15
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),108,8
-1 Incline Day,Incline Bench Press (Barbell),109,8
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),113,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,108,8
+1 Incline Day,Incline Bench Press,109,8
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,113,5
 1 Incline Day,Incline Press (Dumbbell),81,10
 1 Incline Day,Incline Press (Dumbbell),86,11
 1 Incline Day,Incline Press (Dumbbell),90,10
@@ -6418,9 +6418,9 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Shoulders ,Seated Shoulder  Press (Barbell),108,6
 2 - Shoulders ,Weighted Dips,0,10
 2 - Shoulders ,Weighted Dips,0,10
-2 - Shoulders ,Lateral Raise (Dumbbells),22,12
-2 - Shoulders ,Lateral Raise (Dumbbells),22,12
-2 - Shoulders ,Lateral Raise (Dumbbells),22,12
+2 - Shoulders ,Lateral Raise (Dumbbell),22,12
+2 - Shoulders ,Lateral Raise (Dumbbell),22,12
+2 - Shoulders ,Lateral Raise (Dumbbell),22,12
 2 - Shoulders ,Tricep Pushdown,54,20
 2 - Shoulders ,Tricep Pushdown,58,20
 2 - Shoulders ,Tricep Pushdown,58,20
@@ -6438,12 +6438,12 @@ Squat 1,Deadlift (Barbell),170,5
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),81,12
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),81,12
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),81,12
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),83,5
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),113,7
-1 Incline Day,Incline Bench Press (Barbell),113,7
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,83,5
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,113,7
+1 Incline Day,Incline Bench Press,113,7
 1 Incline Day,Incline Press (Dumbbell),90,9
 1 Incline Day,Incline Press (Dumbbell),90,9
 1 Incline Day,Incline Press (Dumbbell),90,9
@@ -6524,20 +6524,20 @@ Back,Hammer Seated Row (Close Grip),108,10
 Back,Hammer Seated Row (Close Grip),111,10
 Back,Hammer Seated Row (Close Grip),111,10
 Back,Hammer Seated Row (Close Grip),111,10
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),88,5
-1 Incline Day,Incline Bench Press (Barbell),112,8
-1 Incline Day,Incline Bench Press (Barbell),112,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),115,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,88,5
+1 Incline Day,Incline Bench Press,112,8
+1 Incline Day,Incline Bench Press,112,8
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,115,5
 1 Incline Day,Incline Press (Dumbbell),90,10
 1 Incline Day,Incline Press (Dumbbell),90,10
 1 Incline Day,Incline Press (Dumbbell),95,8
 1 Incline Day,Incline Press (Dumbbell),81,10
-1 Incline Day,Lateral Raise (Dumbbells),13,15
-1 Incline Day,Lateral Raise (Dumbbells),13,15
-1 Incline Day,Lateral Raise (Dumbbells),13,15
-1 Incline Day,Lateral Raise (Dumbbells),13,15
+1 Incline Day,Lateral Raise (Dumbbell),13,15
+1 Incline Day,Lateral Raise (Dumbbell),13,15
+1 Incline Day,Lateral Raise (Dumbbell),13,15
+1 Incline Day,Lateral Raise (Dumbbell),13,15
 1 - Heavy Squats,Squat (Barbell),83,5
 1 - Heavy Squats,Squat (Barbell),108,5
 1 - Heavy Squats,Squat (Barbell),133,5
@@ -6579,9 +6579,9 @@ Back,Hammer Seated Row (Close Grip),113,10
 2 - Shoulders ,Seated Shoulder  Press (Barbell),108,7
 2 - Shoulders ,Seated Shoulder  Press (Barbell),104,6
 2 - Shoulders ,Seated Shoulder  Press (Barbell),90,10
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
 2 - Shoulders ,Bench Press (Barbell),83,6
 2 - Shoulders ,Bench Press (Barbell),111,6
 2 - Shoulders ,Bench Press (Barbell),131,5
@@ -6597,9 +6597,9 @@ Back,Hammer Seated Row (Close Grip),113,10
 2 - Shoulders ,Seated Shoulder  Press (Barbell),108,7
 2 - Shoulders ,Seated Shoulder  Press (Barbell),104,6
 2 - Shoulders ,Seated Shoulder  Press (Barbell),90,10
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
-2 - Shoulders ,Lateral Raise (Dumbbells),18,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
+2 - Shoulders ,Lateral Raise (Dumbbell),18,12
 2 - Shoulders ,Bench Press (Barbell),83,6
 2 - Shoulders ,Bench Press (Barbell),111,6
 2 - Shoulders ,Bench Press (Barbell),131,5
@@ -6635,13 +6635,13 @@ Back,Hammer Seated Row (Close Grip),114,10
 Back,Hammer Seated Row (Close Grip),114,10
 Back,Hammer Seated Row (Close Grip),114,10
 Back,Hammer Seated Row (Close Grip),114,10
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),61,5
-1 Incline Day,Incline Bench Press (Barbell),92,5
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),117,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,61,5
+1 Incline Day,Incline Bench Press,92,5
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,117,5
 1 Incline Day,Incline Press (Dumbbell),95,8
 1 Incline Day,Incline Press (Dumbbell),95,9
 1 Incline Day,Incline Press (Dumbbell),95,8
@@ -6757,12 +6757,12 @@ Back,Hammer Seated Row (Close Grip),95,12
 Back,Hammer Seated Row (Close Grip),104,12
 Back,Hammer Seated Row (Close Grip),104,12
 Back,Hammer Seated Row (Close Grip),81,8
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),90,5
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),115,8
-1 Incline Day,Incline Bench Press (Barbell),115,7
-1 Incline Day,Incline Bench Press (Barbell),115,5
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,90,5
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,115,8
+1 Incline Day,Incline Bench Press,115,7
+1 Incline Day,Incline Bench Press,115,5
 1 Incline Day,Incline Press (Dumbbell),90,10
 1 Incline Day,Incline Press (Dumbbell),90,10
 1 Incline Day,Incline Press (Dumbbell),90,9
@@ -6826,14 +6826,14 @@ Back,Hammer Lat Pulldown,81,10
 Back,Hammer Lat Pulldown,81,10
 Back,Hammer Lat Pulldown,95,10
 Back,Hammer Lat Pulldown,86,10
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),70,6
-1 Incline Day,Incline Bench Press (Barbell),92,6
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),104,8
-1 Incline Day,Incline Bench Press (Barbell),104,8
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,70,6
+1 Incline Day,Incline Bench Press,92,6
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,104,8
+1 Incline Day,Incline Bench Press,104,8
 1 Incline Day,Weighted Dips,0,10
 1 Incline Day,Weighted Dips,27,10
 1 Incline Day,Weighted Dips,42,9
@@ -6927,14 +6927,14 @@ Back,Hammer Lat Pulldown,86,10
 1 - Heavy Squats,Leg Press (Hinge),122,10
 1 - Heavy Squats,Glute Extension ,58,12
 1 - Heavy Squats,Glute Extension ,58,12
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),83,6
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),104,5
-1 Incline Day,Incline Bench Press (Barbell),104,6
-1 Incline Day,Incline Bench Press (Barbell),104,8
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,83,6
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,104,5
+1 Incline Day,Incline Bench Press,104,6
+1 Incline Day,Incline Bench Press,104,8
 1 Incline Day,Weighted Dips,15,10
 1 Incline Day,Weighted Dips,15,10
 2 - Back Heavy Chins,Chin Up,11,10
@@ -6957,13 +6957,13 @@ Back,Hammer Lat Pulldown,86,10
 1 - Heavy Squats,Squat (Barbell),102,5
 1 - Heavy Squats,Squat (Barbell),124,5
 1 - Heavy Squats,Squat (Barbell),142,2
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),83,6
-1 Incline Day,Incline Bench Press (Barbell),111,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),115,6
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,83,6
+1 Incline Day,Incline Bench Press,111,8
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,115,6
 1 Incline Day,Incline Press (Dumbbell),77,11
 1 Incline Day,Incline Press (Dumbbell),77,11
 1 Incline Day,Incline Press (Dumbbell),77,11
@@ -7030,21 +7030,21 @@ Back,Hammer Lat Pulldown,86,10
 2 - Back Heavy Chins,Hammer Seated Row (Close Grip),117,12
 2 - Back Heavy Chins,Hammer Lat Pulldown,90,10
 2 - Back Heavy Chins,Hammer Lat Pulldown,90,10
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),86,6
-1 Incline Day,Incline Bench Press (Barbell),104,3
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,86,6
+1 Incline Day,Incline Bench Press,104,3
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,113,8
 1 Incline Day,Incline Press (Dumbbell),68,15
 1 Incline Day,Incline Press (Dumbbell),72,12
 1 Incline Day,Overhead Press (Dumbbell),58,11
 1 Incline Day,Sling Shot Incline,113,7
 1 Incline Day,Sling Shot Incline,122,6
 1 Incline Day,Sling Shot Incline,122,6
-1 Incline Day,Lateral Raise (Dumbbells),18,12
-1 Incline Day,Lateral Raise (Dumbbells),18,12
+1 Incline Day,Lateral Raise (Dumbbell),18,12
+1 Incline Day,Lateral Raise (Dumbbell),18,12
 1 - Heavy Squats,Squat (Barbell),83,5
 1 - Heavy Squats,Squat (Barbell),102,5
 1 - Heavy Squats,Squat (Barbell),111,5
@@ -7120,17 +7120,17 @@ Back Heavier Chins,Hammer Row - Wide Grip,104,12
 Back Heavier Chins,Hammer Row - Wide Grip,108,11
 Back Heavier Chins,Hammer Row - Wide Grip,108,10
 Back Heavier Chins,Hammer Row - Wide Grip,108,8
-Back Heavier Chins,Lat Pulldown ,63,8
-Back Heavier Chins,Lat Pulldown ,58,8
-Back Heavier Chins,Lat Pulldown ,45,10
+Back Heavier Chins,Lat Pulldown,63,8
+Back Heavier Chins,Lat Pulldown,58,8
+Back Heavier Chins,Lat Pulldown,45,10
 Back Heavier Chins,Rear Delt Fly,36,12
 Back Heavier Chins,Rear Delt Fly,36,12
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),61,6
-1 Incline Day,Incline Bench Press (Barbell),83,4
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),113,8
-1 Incline Day,Incline Bench Press (Barbell),115,8
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,61,6
+1 Incline Day,Incline Bench Press,83,4
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,113,8
+1 Incline Day,Incline Bench Press,115,8
 1 Incline Day,Shoulder Press (Standing),38,9
 1 Incline Day,Shoulder Press (Standing),43,7
 1 Incline Day,Sling Shot Incline,124,5
@@ -7164,10 +7164,10 @@ Back Heavier Chins,Chin Up,21,10
 Back Heavier Chins,Hammer Seated Row (Close Grip),122,10
 Back Heavier Chins,Hammer Seated Row (Close Grip),122,10
 Back Heavier Chins,Hammer Seated Row (Close Grip),122,10
-Back Heavier Chins,Lat Pulldown ,40,10
-Back Heavier Chins,Lat Pulldown ,40,10
-Back Heavier Chins,Lat Pulldown ,45,10
-Back Heavier Chins,Lat Pulldown ,45,10
+Back Heavier Chins,Lat Pulldown,40,10
+Back Heavier Chins,Lat Pulldown,40,10
+Back Heavier Chins,Lat Pulldown,45,10
+Back Heavier Chins,Lat Pulldown,45,10
 Back Heavier Chins,Hammer Row - Wide Grip,108,10
 Back Heavier Chins,Hammer Row - Wide Grip,108,11
 Back Heavier Chins,Hammer Row - Wide Grip,108,11
@@ -7217,16 +7217,16 @@ Back - Heavier Chins,Shrugs,142,5
 Back - Heavier Chins,Shrugs,142,5
 Back - Heavier Chins,Shrugs,142,5
 Back - Heavier Chins,Shrugs,142,5
-Back - Heavier Chins,Lat Pulldown ,45,10
-Back - Heavier Chins,Lat Pulldown ,45,10
+Back - Heavier Chins,Lat Pulldown,45,10
+Back - Heavier Chins,Lat Pulldown,45,10
 Back - Heavier Chins,Rear Delt Fly,40,15
 Back - Heavier Chins,Rear Delt Fly,40,15
 Back - Heavier Chins,Rear Delt Fly,40,15
-Push - Incline,Incline Bench Press (Barbell),115,5
-Push - Incline,Incline Bench Press (Barbell),115,5
-Push - Incline,Incline Bench Press (Barbell),115,5
-Push - Incline,Incline Bench Press (Barbell),115,5
-Push - Incline,Incline Bench Press (Barbell),115,5
+Push - Incline,Incline Bench Press,115,5
+Push - Incline,Incline Bench Press,115,5
+Push - Incline,Incline Bench Press,115,5
+Push - Incline,Incline Bench Press,115,5
+Push - Incline,Incline Bench Press,115,5
 Push - Incline,Incline Press (Dumbbell),54,12
 Push - Incline,Incline Press (Dumbbell),63,13
 Push - Incline,Incline Press (Dumbbell),63,12
@@ -7338,12 +7338,12 @@ Legs - Heavy,Romanian Deadlift (Barbell),88,8
 "Back - Light Chins, 8-10 Reps",Rack Pull 2 Pin,174,5
 "Back - Light Chins, 8-10 Reps",Bicep Curl (Barbell),22,10
 "Back - Light Chins, 8-10 Reps",Bicep Curl (Barbell),22,10
-Push - Incline,Incline Bench Press (Barbell),116,5
-Push - Incline,Incline Bench Press (Barbell),116,5
-Push - Incline,Incline Bench Press (Barbell),116,5
-Push - Incline,Incline Bench Press (Barbell),116,5
-Push - Incline,Incline Bench Press (Barbell),116,7
-Push - Incline,Incline Bench Press (Barbell),83,2
+Push - Incline,Incline Bench Press,116,5
+Push - Incline,Incline Bench Press,116,5
+Push - Incline,Incline Bench Press,116,5
+Push - Incline,Incline Bench Press,116,5
+Push - Incline,Incline Bench Press,116,7
+Push - Incline,Incline Bench Press,83,2
 Push - Incline,Incline Press (Dumbbell),63,12
 Push - Incline,Incline Press (Dumbbell),63,12
 Push - Incline,Incline Press (Dumbbell),63,12
@@ -7351,10 +7351,10 @@ Push - Incline,Weighted Dips,0,8
 Push - Incline,Weighted Dips,0,8
 Push - Incline,Weighted Dips,28,10
 Push - Incline,Weighted Dips,28,10
-Push - Incline,Lateral Raise (Dumbbells),13,12
-Push - Incline,Lateral Raise (Dumbbells),13,12
-Push - Incline,Lateral Raise (Dumbbells),13,15
-Push - Incline,Lateral Raise (Dumbbells),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,12
+Push - Incline,Lateral Raise (Dumbbell),13,12
+Push - Incline,Lateral Raise (Dumbbell),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
 Push - Incline,Face Pull,18,13
 Push - Incline,Face Pull,18,13
 Push - Incline,Face Pull,18,13
@@ -7401,9 +7401,9 @@ Push - Shoulders / Bench,Bench Press (Barbell),142,3
 Push - Shoulders / Bench,Sling Shot Bench,147,4
 Push - Shoulders / Bench,Sling Shot Bench,147,4
 Push - Shoulders / Bench,Sling Shot Bench,147,5
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),13,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),13,13
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),13,14
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),13,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),13,13
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),13,14
 Push - Shoulders / Bench,Incline Press (Dumbbell),49,12
 Push - Shoulders / Bench,Incline Press (Dumbbell),54,12
 Push - Shoulders / Bench,Incline Press (Dumbbell),58,12
@@ -7439,19 +7439,19 @@ Legs - Heavy,Leg Curl,49,10
 "Back - Light Chins, 8-10 Reps",Seated Cable Row (Close Grip),54,10
 "Back - Light Chins, 8-10 Reps",Seated Cable Row (Close Grip),54,10
 "Back - Light Chins, 8-10 Reps",Seated Cable Row (Close Grip),54,10
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),117,6
-Push - Incline,Incline Bench Press (Barbell),83,3
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,117,6
+Push - Incline,Incline Bench Press,83,3
 Push - Incline,Sling Shot Incline,120,7
 Push - Incline,Incline Press (Dumbbell),63,12
 Push - Incline,Incline Press (Dumbbell),63,11
 Push - Incline,Incline Press (Dumbbell),45,12
 Push - Incline,Overhead Press (Dumbbell),45,10
-Push - Incline,Lateral Raise (Dumbbells),9,12
-Push - Incline,Lateral Raise (Dumbbells),9,12
+Push - Incline,Lateral Raise (Dumbbell),9,12
+Push - Incline,Lateral Raise (Dumbbell),9,12
 Legs - 5X5 / Volume,Squat (Barbell),102,3
 Legs - 5X5 / Volume,Squat (Barbell),102,3
 Legs - 5X5 / Volume,Squat (Barbell),124,3
@@ -7504,9 +7504,9 @@ Push - Shoulders / Bench,Bench Press (Barbell),136,5
 Push - Shoulders / Bench,Bench Press (Barbell),124,5
 Push - Shoulders / Bench,Tricep Pushdown,27,12
 Push - Shoulders / Bench,Tricep Pushdown,27,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),13,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),13,13
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),13,13
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),13,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),13,13
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),13,13
 Push - Shoulders / Bench,Close Grip Bench,102,5
 Push - Shoulders / Bench,Close Grip Bench,102,5
 Push - Shoulders / Bench,Close Grip Bench,102,5
@@ -7547,11 +7547,11 @@ Legs - Heavy,Leg Press (Hinge),272,12
 "Back - Light Chins, 8-10 Reps",T-Bar Row,40,8
 "Back - Light Chins, 8-10 Reps",Hammer Curl,22,12
 "Back - Light Chins, 8-10 Reps",Hammer Curl,22,15
-Push - Incline,Incline Bench Press (Barbell),119,5
-Push - Incline,Incline Bench Press (Barbell),119,5
-Push - Incline,Incline Bench Press (Barbell),119,5
-Push - Incline,Incline Bench Press (Barbell),119,5
-Push - Incline,Incline Bench Press (Barbell),119,5
+Push - Incline,Incline Bench Press,119,5
+Push - Incline,Incline Bench Press,119,5
+Push - Incline,Incline Bench Press,119,5
+Push - Incline,Incline Bench Press,119,5
+Push - Incline,Incline Bench Press,119,5
 Push - Incline,Low Incline Dumbbell Bench,68,10
 Push - Incline,Low Incline Dumbbell Bench,77,12
 Push - Incline,Low Incline Dumbbell Bench,81,10
@@ -7605,8 +7605,8 @@ Push - Shoulders / Bench,Tricep Pushdown,18,12
 Push - Shoulders / Bench,Close Grip Bench,102,8
 Push - Shoulders / Bench,Shoulder Press (Standing),43,5
 Push - Shoulders / Bench,Shoulder Press (Standing),43,5
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),9,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),13,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),9,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),13,15
 Legs - Heavy,Squat (Barbell),124,2
 Legs - Heavy,Squat (Barbell),165,3
 Legs - Heavy,Squat (Barbell),165,3
@@ -7649,16 +7649,16 @@ Legs - Heavy,Leg Press,249,12
 "Back - Light Chins, 8-10 Reps",Bent Over Row (Dumbbell),72,8
 "Back - Light Chins, 8-10 Reps",Seated Cable Row (Close Grip),63,12
 "Back - Light Chins, 8-10 Reps",Seated Cable Row (Close Grip),63,10
-Push - Incline,Incline Bench Press (Barbell),120,5
-Push - Incline,Incline Bench Press (Barbell),120,5
-Push - Incline,Incline Bench Press (Barbell),120,5
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),124,5
+Push - Incline,Incline Bench Press,120,5
+Push - Incline,Incline Bench Press,120,5
+Push - Incline,Incline Bench Press,120,5
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,124,5
 Push - Incline,Incline Press (Dumbbell),81,12
 Push - Incline,Incline Press (Dumbbell),81,12
-Push - Incline,Lateral Raise (Dumbbells),13,15
-Push - Incline,Lateral Raise (Dumbbells),13,15
-Push - Incline,Lateral Raise (Dumbbells),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
 Push - Incline,Low Incline Dumbbell Bench,63,11
 Push - Incline,Low Incline Dumbbell Bench,81,12
 Push - Incline,Face Pull,27,12
@@ -7693,8 +7693,8 @@ Legs - 5X5 / Volume,Deadlift - Trap Bar,102,6
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),81,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),81,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),95,8
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,68,10
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,68,10
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,68,10
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,68,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Pull Up,2,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Pull Up,5,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Pull Up,5,8
@@ -7760,20 +7760,20 @@ Pulls ,Face Pull,27,18
 Pulls ,Face Pull,27,18
 Pulls ,Curl Ez Bar,31,13
 Pulls ,Curl Ez Bar,31,13
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
 Push - Incline,Incline Press (Dumbbell),86,10
 Push - Incline,Incline Press (Dumbbell),86,10
 Push - Incline,Low Incline Dumbbell Bench,63,12
 Push - Incline,Low Incline Dumbbell Bench,86,11
 Push - Incline,Close Grip Bench,88,10
 Push - Incline,Close Grip Bench,88,10
-Push - Incline,Lateral Raise (Dumbbells),13,15
-Push - Incline,Lateral Raise (Dumbbells),13,15
-Push - Incline,Lateral Raise (Dumbbells),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
 Legs - 5X5 / Volume,Squat (Barbell),102,2
 Legs - 5X5 / Volume,Squat (Barbell),124,2
 Legs - 5X5 / Volume,Squat (Barbell),161,5
@@ -7807,15 +7807,15 @@ Legs - 5X5 / Volume,High Bar Squat,92,8
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),99,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),99,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),99,8
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,58,12
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,77,8
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,68,11
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,58,12
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,77,8
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,68,11
 "Back - Pyramid  5Max, Decrease 5 Sets",Deadlift (Barbell),106,3
 "Back - Pyramid  5Max, Decrease 5 Sets",Deadlift (Barbell),106,3
 "Back - Pyramid  5Max, Decrease 5 Sets",Deadlift (Barbell),106,5
-"Back - Pyramid  5Max, Decrease 5 Sets",Curl Dumbbell,18,15
-"Back - Pyramid  5Max, Decrease 5 Sets",Curl Dumbbell,18,12
-"Back - Pyramid  5Max, Decrease 5 Sets",Curl Dumbbell,18,12
+"Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Dumbbell),18,15
+"Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Dumbbell),18,12
+"Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Dumbbell),18,12
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),106,6
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),104,7
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),104,8
@@ -7865,18 +7865,18 @@ Pulls ,Hammer Row - Wide Grip,90,14
 Pulls ,Hammer Row - Wide Grip,95,13
 Pulls ,Kettlebell Swings,23,12
 Pulls ,Kettlebell Swings,32,8
-Pulls ,Lat Pulldown Closegrip,68,12
-Pulls ,Lat Pulldown Closegrip,77,8
-Pulls ,Curl Dumbbell,18,15
-Pulls ,Curl Dumbbell,18,10
-Pulls ,Curl Dumbbell,22,7
+Pulls ,Lat PulldownClosegrip,68,12
+Pulls ,Lat PulldownClosegrip,77,8
+Pulls ,Bicep Curl (Dumbbell),18,15
+Pulls ,Bicep Curl (Dumbbell),18,10
+Pulls ,Bicep Curl (Dumbbell),22,7
 Pulls ,Face Pull,27,12
 Pulls ,Face Pull,27,12
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),106,9
-Push - Incline,Incline Bench Press (Barbell),106,8
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,106,9
+Push - Incline,Incline Bench Press,106,8
 Push - Incline,Weighted Dips,0,10
 Push - Incline,Weighted Dips,18,10
 Push - Incline,Weighted Dips,31,10
@@ -7892,8 +7892,8 @@ Push - Incline,Weighted Dips,31,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,22,9
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),77,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Bent Over Row (Dumbbell),77,10
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,68,10
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,58,8
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,68,10
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,58,8
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,40,10
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,52,10
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,56,10
@@ -7926,10 +7926,10 @@ Pulls ,Neutral Chin,0,9
 Pulls ,Seated Cable Row (Close Grip),63,12
 Pulls ,Seated Cable Row (Close Grip),63,12
 Pulls ,Seated Cable Row (Close Grip),63,12
-Push - Incline,Incline Bench Press (Barbell),102,5
-Push - Incline,Incline Bench Press (Barbell),102,7
-Push - Incline,Incline Bench Press (Barbell),102,5
-Push - Incline,Incline Bench Press (Barbell),102,7
+Push - Incline,Incline Bench Press,102,5
+Push - Incline,Incline Bench Press,102,7
+Push - Incline,Incline Bench Press,102,5
+Push - Incline,Incline Bench Press,102,7
 Push - Incline,Weighted Dips,0,12
 Push - Incline,Weighted Dips,0,12
 Push - Incline,Weighted Dips,0,12
@@ -7976,10 +7976,10 @@ Legs - 5X5 / Volume,Leg Press (Hinge),163,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,22,8
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,22,8
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,11,8
-Push - Incline,Incline Bench Press (Barbell),104,8
-Push - Incline,Incline Bench Press (Barbell),108,8
-Push - Incline,Incline Bench Press (Barbell),108,8
-Push - Incline,Incline Bench Press (Barbell),111,8
+Push - Incline,Incline Bench Press,104,8
+Push - Incline,Incline Bench Press,108,8
+Push - Incline,Incline Bench Press,108,8
+Push - Incline,Incline Bench Press,111,8
 Push - Incline,Incline Press (Dumbbell),72,11
 Push - Incline,Incline Press (Dumbbell),77,11
 Push - Incline,Weighted Dips,0,12
@@ -8010,8 +8010,8 @@ Pulls ,Bent Over Row (Dumbbell),49,10
 Pulls ,Bent Over Row (Dumbbell),49,10
 Pulls ,Bent Over Row (Dumbbell),49,12
 Pulls ,Hammer Row - Wide Grip,99,12
-Pulls ,Lat Pulldown ,58,10
-Pulls ,Lat Pulldown ,58,10
+Pulls ,Lat Pulldown,58,10
+Pulls ,Lat Pulldown,58,10
 Pulls ,Hammer Seated Row (Close Grip),99,10
 Pulls ,Hammer Seated Row (Close Grip),99,10
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),104,6
@@ -8062,15 +8062,15 @@ Legs - Heavy,Kettlebell Swings,23,12
 "Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Barbell),18,15
 "Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Barbell),18,15
 "Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Barbell),18,15
-Push - Incline,Incline Bench Press (Barbell),111,8
-Push - Incline,Incline Bench Press (Barbell),111,8
-Push - Incline,Incline Bench Press (Barbell),111,8
-Push - Incline,Incline Bench Press (Barbell),115,5
-Push - Incline,Incline Bench Press (Barbell),115,5
+Push - Incline,Incline Bench Press,111,8
+Push - Incline,Incline Bench Press,111,8
+Push - Incline,Incline Bench Press,111,8
+Push - Incline,Incline Bench Press,115,5
+Push - Incline,Incline Bench Press,115,5
 Push - Incline,Incline Press (Dumbbell),68,12
 Push - Incline,Incline Press (Dumbbell),68,12
-Push - Incline,Lateral Raise (Dumbbells),13,15
-Push - Incline,Lateral Raise (Dumbbells),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
+Push - Incline,Lateral Raise (Dumbbell),13,15
 Push - Incline,Tricep Pushdown,36,15
 Push - Incline,Tricep Pushdown,40,12
 Legs - 5X5 / Volume,Squat (Barbell),102,5
@@ -8130,9 +8130,9 @@ Push - Shoulders / Bench,Bench Press (Barbell),129,5
 Push - Shoulders / Bench,Tricep Pushdown,36,12
 Push - Shoulders / Bench,Tricep Pushdown,40,15
 Push - Shoulders / Bench,Tricep Pushdown,40,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
 Push - Shoulders / Bench,Cable Fly,20,12
 Push - Shoulders / Bench,Cable Fly,20,12
 Legs - Heavy,Squat (Barbell),124,3
@@ -8163,12 +8163,12 @@ Legs - Heavy,High Bar Squat,90,8
 "Back - Light Chins, 8-10 Reps",Neutral Chin,11,9
 "Back - Light Chins, 8-10 Reps",Neutral Chin,11,10
 "Back - Light Chins, 8-10 Reps",Hammer Curl,22,12
-"Back - Light Chins, 8-10 Reps",Curl Dumbbell,22,12
-Push - Incline,Incline Bench Press (Barbell),102,8
-Push - Incline,Incline Bench Press (Barbell),106,8
-Push - Incline,Incline Bench Press (Barbell),111,8
-Push - Incline,Incline Bench Press (Barbell),111,8
-Push - Incline,Incline Bench Press (Barbell),117,4
+"Back - Light Chins, 8-10 Reps",Bicep Curl (Dumbbell),22,12
+Push - Incline,Incline Bench Press,102,8
+Push - Incline,Incline Bench Press,106,8
+Push - Incline,Incline Bench Press,111,8
+Push - Incline,Incline Bench Press,111,8
+Push - Incline,Incline Bench Press,117,4
 Push - Incline,Close Grip Bench,83,8
 Push - Incline,Close Grip Bench,106,8
 Push - Incline,Close Grip Bench,106,8
@@ -8201,9 +8201,9 @@ Legs - Heavy,Kettlebell Swings,27,10
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,56,10
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,56,10
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,57,10
-"Back - Pyramid  5Max, Decrease 5 Sets",Curl Dumbbell,22,14
-"Back - Pyramid  5Max, Decrease 5 Sets",Curl Dumbbell,22,12
-"Back - Pyramid  5Max, Decrease 5 Sets",Curl Dumbbell,22,12
+"Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Dumbbell),22,14
+"Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Dumbbell),22,12
+"Back - Pyramid  5Max, Decrease 5 Sets",Bicep Curl (Dumbbell),22,12
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),106,8
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),106,8
 Push - Shoulders / Bench,Seated Shoulder  Press (Barbell),106,8
@@ -8213,9 +8213,9 @@ Push - Shoulders / Bench,Bench Press (Barbell),129,6
 Push - Shoulders / Bench,Bench Press (Barbell),129,6
 Push - Shoulders / Bench,Bench Press (Barbell),129,6
 Push - Shoulders / Bench,Bench Press (Barbell),133,4
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,12
 Push - Shoulders / Bench,Cable Fly,27,12
 Push - Shoulders / Bench,Cable Fly,27,12
 Push - Shoulders / Bench,Cable Fly,27,10
@@ -8272,11 +8272,11 @@ Legs - 5X5 / Volume,Leg Press (Hinge),263,10
 "Back - Light Chins, 8-10 Reps",Bicep Curl (Barbell),31,15
 "Back - Light Chins, 8-10 Reps",Bicep Curl (Barbell),31,15
 "Back - Light Chins, 8-10 Reps",Bicep Curl (Barbell),31,15
-Push - Incline,Incline Bench Press (Barbell),113,8
-Push - Incline,Incline Bench Press (Barbell),113,8
-Push - Incline,Incline Bench Press (Barbell),113,5
-Push - Incline,Incline Bench Press (Barbell),115,5
-Push - Incline,Incline Bench Press (Barbell),115,5
+Push - Incline,Incline Bench Press,113,8
+Push - Incline,Incline Bench Press,113,8
+Push - Incline,Incline Bench Press,113,5
+Push - Incline,Incline Bench Press,115,5
+Push - Incline,Incline Bench Press,115,5
 Push - Incline,Incline Press (Dumbbell),81,12
 Push - Incline,Low Incline Dumbbell Bench,81,10
 Push - Incline,Low Incline Dumbbell Bench,81,10
@@ -8321,9 +8321,9 @@ Push - Shoulders / Bench,Bench Press (Barbell),111,8
 Push - Shoulders / Bench,Tricep Pushdown,36,12
 Push - Shoulders / Bench,Tricep Pushdown,36,12
 Push - Shoulders / Bench,Tricep Pushdown,36,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,12
 Legs - Heavy,Squat (Barbell),124,3
 Legs - Heavy,Squat (Barbell),142,1
 Legs - Heavy,Squat (Barbell),163,5
@@ -8340,17 +8340,17 @@ Legs - Heavy,High Bar Squat,108,8
 Legs - Heavy,Leg Press (Hinge),272,10
 Legs - Heavy,Leg Press (Hinge),272,10
 Legs - Heavy,Leg Press (Hinge),272,10
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),117,5
-Push - Incline,Incline Bench Press (Barbell),120,6
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,117,5
+Push - Incline,Incline Bench Press,120,6
 Push - Incline,Low Incline Dumbbell Bench,81,10
 Push - Incline,Low Incline Dumbbell Bench,81,12
 Push - Incline,Seated Shoulder Press (Dumbbell),54,10
-Push - Incline,Lateral Raise (Dumbbells),18,15
-Push - Incline,Lateral Raise (Dumbbells),18,12
-Push - Incline,Lateral Raise (Dumbbells),18,12
+Push - Incline,Lateral Raise (Dumbbell),18,15
+Push - Incline,Lateral Raise (Dumbbell),18,12
+Push - Incline,Lateral Raise (Dumbbell),18,12
 "Back - Light Chins, 8-10 Reps",Chin Up,14,10
 "Back - Light Chins, 8-10 Reps",Chin Up,14,10
 "Back - Light Chins, 8-10 Reps",Chin Up,14,10
@@ -8398,9 +8398,9 @@ Push - Shoulders / Bench,Bench Press (Barbell),113,7
 Push - Shoulders / Bench,Bench Press (Barbell),113,8
 Push - Shoulders / Bench,Tricep Pushdown,36,15
 Push - Shoulders / Bench,Tricep Pushdown,36,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,36,5
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,36,5
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,36,6
@@ -8428,15 +8428,15 @@ Legs - 5X5 / Volume,Leg Press (Hinge),122,15
 Legs - 5X5 / Volume,Leg Press (Hinge),122,15
 Legs - 5X5 / Volume,Leg Press (Hinge),204,12
 Legs - 5X5 / Volume,Leg Press (Hinge),204,12
-Push - Incline,Incline Bench Press (Barbell),102,5
-Push - Incline,Incline Bench Press (Barbell),120,5
-Push - Incline,Incline Bench Press (Barbell),120,5
-Push - Incline,Incline Bench Press (Barbell),120,5
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),106,5
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),13,10
+Push - Incline,Incline Bench Press,102,5
+Push - Incline,Incline Bench Press,120,5
+Push - Incline,Incline Bench Press,120,5
+Push - Incline,Incline Bench Press,120,5
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,106,5
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),13,10
 Push - Incline,Tricep Pushdown,36,15
 Push - Incline,Tricep Pushdown,31,15
 Push - Incline,Low Incline Dumbbell Bench,86,10
@@ -8464,8 +8464,8 @@ Push - Shoulders / Bench,Bench Press (Barbell),113,8
 Push - Shoulders / Bench,Tricep Pushdown,36,15
 Push - Shoulders / Bench,Tricep Pushdown,36,15
 Push - Shoulders / Bench,Tricep Pushdown,36,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,12
 Push - Shoulders / Bench,Weighted Dips,0,12
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,38,4
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,38,4
@@ -8487,11 +8487,11 @@ Legs - 5X5 / Volume,Squat (Barbell),156,5
 Legs - 5X5 / Volume,High Bar Squat,106,8
 Legs - 5X5 / Volume,High Bar Squat,106,6
 Legs - 5X5 / Volume,High Bar Squat,106,8
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),122,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),104,8
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,122,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,104,8
 Push - Incline,Tricep Pushdown,40,12
 Push - Incline,Tricep Pushdown,40,12
 Push - Incline,Tricep Pushdown,40,12
@@ -8546,9 +8546,9 @@ Push - Shoulders / Bench,Bench Press (Barbell),115,6
 Push - Shoulders / Bench,Bench Press (Barbell),106,10
 Push - Shoulders / Bench,Tricep Pushdown,58,12
 Push - Shoulders / Bench,Tricep Pushdown,58,12
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),18,15
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,0,7
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,40,3
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,40,3
@@ -8584,17 +8584,17 @@ Legs - Heavy,Leg Press (Hinge),226,10
 Legs - Heavy,Leg Press (Hinge),226,10
 Legs - Heavy,Leg Press (Hinge),249,10
 Legs - Heavy,Leg Press (Hinge),249,10
-Push - Incline,Incline Bench Press (Barbell),83,3
-Push - Incline,Incline Bench Press (Barbell),102,2
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),111,6
-Push - Incline,Incline Bench Press (Barbell),106,10
+Push - Incline,Incline Bench Press,83,3
+Push - Incline,Incline Bench Press,102,2
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,111,6
+Push - Incline,Incline Bench Press,106,10
 Push - Incline,Incline Press (Dumbbell),63,10
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
 Push - Incline,Tricep Pushdown,49,15
 Push - Incline,Low Incline Dumbbell Bench,90,10
 Push - Incline,Low Incline Dumbbell Bench,90,10
@@ -8683,17 +8683,17 @@ Legs - Heavy,Leg Press (Hinge),244,12
 Legs - Heavy,Leg Press (Hinge),272,10
 Legs - Heavy,Leg Press (Hinge),272,10
 Legs - Heavy,Leg Press (Hinge),272,10
-Push - Incline,Incline Bench Press (Barbell),102,1
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),106,8
+Push - Incline,Incline Bench Press,102,1
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,106,8
 Push - Incline,Incline Press (Dumbbell),77,10
 Push - Incline,Incline Press (Dumbbell),77,10
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
 Push - Incline,Tricep Pushdown,58,10
 Push - Incline,Tricep Pushdown,45,15
 "Back - Light Chins, 8-10 Reps",Chin Up,18,10
@@ -8742,10 +8742,10 @@ Push - Shoulders / Bench,Weighted Dips,0,10
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,27,8
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,27,8
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,27,8
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,54,10
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,68,10
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,77,10
-"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown ,79,8
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,54,10
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,68,10
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,77,10
+"Back - Pyramid  5Max, Decrease 5 Sets",Lat Pulldown,79,8
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,54,9
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,54,9
 "Back - Pyramid  5Max, Decrease 5 Sets",T-Bar Row,54,10
@@ -8770,18 +8770,18 @@ Legs - 5X5 / Volume,Deadlift - Trap Bar,102,5
 Legs - 5X5 / Volume,Deadlift - Trap Bar,102,6
 Legs - 5X5 / Volume,Deadlift - Trap Bar,124,6
 Legs - 5X5 / Volume,Deadlift - Trap Bar,124,6
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),127,5
-Push - Incline,Incline Bench Press (Barbell),108,6
-Push - Incline,Incline Bench Press (Barbell),108,6
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,127,5
+Push - Incline,Incline Bench Press,108,6
+Push - Incline,Incline Bench Press,108,6
 Push - Incline,Incline Press (Dumbbell),81,10
 Push - Incline,Incline Press (Dumbbell),81,10
 Push - Incline,Incline Press (Dumbbell),63,13
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,10
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,10
 "Back - Light Chins, 8-10 Reps",Chin Up,0,12
 "Back - Light Chins, 8-10 Reps",Chin Up,0,12
 "Back - Light Chins, 8-10 Reps",Chin Up,0,12
@@ -8821,7 +8821,7 @@ Push - Shoulders / Bench,Bench Press (Barbell),131,6
 Push - Shoulders / Bench,Bench Press (Barbell),131,6
 Push - Shoulders / Bench,Bench Press (Barbell),131,6
 Push - Shoulders / Bench,Bench Press (Barbell),113,6
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,16
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,16
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,0,6
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,28,8
 "Back - Pyramid  5Max, Decrease 5 Sets",Chin Up,28,8
@@ -8852,18 +8852,18 @@ Legs - 5X5 / Volume,Romanian Deadlift (Barbell),88,6
 Legs - 5X5 / Volume,Leg Press (Hinge),204,12
 Legs - 5X5 / Volume,Leg Press (Hinge),285,9
 Legs - 5X5 / Volume,Leg Press (Hinge),285,9
-Push - Incline,Incline Bench Press (Barbell),102,2
-Push - Incline,Incline Bench Press (Barbell),124,5
-Push - Incline,Incline Bench Press (Barbell),127,5
-Push - Incline,Incline Bench Press (Barbell),127,4
-Push - Incline,Incline Bench Press (Barbell),129,3
-Push - Incline,Incline Bench Press (Barbell),106,8
+Push - Incline,Incline Bench Press,102,2
+Push - Incline,Incline Bench Press,124,5
+Push - Incline,Incline Bench Press,127,5
+Push - Incline,Incline Bench Press,127,4
+Push - Incline,Incline Bench Press,129,3
+Push - Incline,Incline Bench Press,106,8
 Push - Incline,Incline Press (Dumbbell),86,12
 Push - Incline,Incline Press (Dumbbell),90,8
 Push - Incline,Incline Press (Dumbbell),90,8
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
-Push - Incline,Lateral Raise (Dumbbells),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
+Push - Incline,Lateral Raise (Dumbbell),22,12
 "Back - Light Chins, 8-10 Reps",Chin Up,9,12
 "Back - Light Chins, 8-10 Reps",Chin Up,9,10
 "Back - Light Chins, 8-10 Reps",Chin Up,11,10
@@ -8907,8 +8907,8 @@ Push - Shoulders / Bench,Bench Press (Barbell),133,5
 Push - Shoulders / Bench,Bench Press (Barbell),133,6
 Push - Shoulders / Bench,Bench Press (Barbell),120,5
 Push - Shoulders / Bench,Bench Press (Barbell),120,7
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,15
-Push - Shoulders / Bench,Lateral Raise (Dumbbells),22,12
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,15
+Push - Shoulders / Bench,Lateral Raise (Dumbbell),22,12
 "Back - Light Chins, 8-10 Reps",Chin Up,0,8
 "Back - Light Chins, 8-10 Reps",Chin Up,22,8
 "Back - Light Chins, 8-10 Reps",Chin Up,29,8
@@ -8942,11 +8942,11 @@ Legs - 5X5 / Volume,Hack Squat,104,8
 Legs - 5X5 / Volume,Hack Squat,113,8
 Legs - 5X5 / Volume,Hack Squat,122,8
 Legs - 5X5 / Volume,Hack Squat,127,10
-Push - Incline,Incline Bench Press (Barbell),102,8
-Push - Incline,Incline Bench Press (Barbell),111,6
-Push - Incline,Incline Bench Press (Barbell),111,8
-Push - Incline,Incline Bench Press (Barbell),111,8
-Push - Incline,Incline Bench Press (Barbell),111,8
+Push - Incline,Incline Bench Press,102,8
+Push - Incline,Incline Bench Press,111,6
+Push - Incline,Incline Bench Press,111,8
+Push - Incline,Incline Bench Press,111,8
+Push - Incline,Incline Bench Press,111,8
 Push - Incline,Weighted Dips,0,8
 Push - Incline,Weighted Dips,22,8
 Push - Incline,Weighted Dips,34,8
@@ -8954,9 +8954,9 @@ Push - Incline,Weighted Dips,45,8
 Push - Incline,Weighted Dips,52,8
 Push - Incline,Weighted Dips,52,8
 Push - Incline,Weighted Dips,20,10
-Push - Incline,Lateral Raise (Dumbbells),18,16
-Push - Incline,Lateral Raise (Dumbbells),18,16
-Push - Incline,Lateral Raise (Dumbbells),18,16
+Push - Incline,Lateral Raise (Dumbbell),18,16
+Push - Incline,Lateral Raise (Dumbbell),18,16
+Push - Incline,Lateral Raise (Dumbbell),18,16
 "Back - Light Chins, 8-10 Reps",Hammer Seated Row (Close Grip),95,10
 "Back - Light Chins, 8-10 Reps",Hammer Seated Row (Close Grip),95,10
 "Back - Light Chins, 8-10 Reps",Hammer Seated Row (Close Grip),95,10
@@ -8982,12 +8982,12 @@ Legs - Heavy #25,Squat (Barbell),165,5
 Legs - Heavy #25,Squat (Barbell),174,3
 Legs - Heavy #25,Squat (Barbell),174,3
 Legs - Heavy #25,Squat (Barbell),142,5
-Push - Incline #28,Incline Bench Press (Barbell),102,9
-Push - Incline #28,Incline Bench Press (Barbell),106,8
-Push - Incline #28,Incline Bench Press (Barbell),108,8
-Push - Incline #28,Incline Bench Press (Barbell),115,6
-Push - Incline #28,Incline Bench Press (Barbell),115,6
-Push - Incline #28,Incline Bench Press (Barbell),106,11
+Push - Incline #28,Incline Bench Press,102,9
+Push - Incline #28,Incline Bench Press,106,8
+Push - Incline #28,Incline Bench Press,108,8
+Push - Incline #28,Incline Bench Press,115,6
+Push - Incline #28,Incline Bench Press,115,6
+Push - Incline #28,Incline Bench Press,106,11
 Push - Incline #28,Weighted Dips,0,8
 Push - Incline #28,Weighted Dips,31,8
 Push - Incline #28,Weighted Dips,41,8
@@ -9001,10 +9001,10 @@ Push - Incline #28,Weighted Dips,0,8
 "Back - Pyramid  5Max, Decrease 5 Sets #22",Chin Up,29,8
 "Back - Pyramid  5Max, Decrease 5 Sets #22",Chin Up,6,12
 "Back - Pyramid  5Max, Decrease 5 Sets #22",Chin Up,6,12
-"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown ,54,10
-"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown ,54,10
-"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown ,63,8
-"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown ,63,8
+"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown,54,10
+"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown,54,10
+"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown,63,8
+"Back - Pyramid  5Max, Decrease 5 Sets #22",Lat Pulldown,63,8
 "Back - Pyramid  5Max, Decrease 5 Sets #22",T-Bar Row,61,8
 "Back - Pyramid  5Max, Decrease 5 Sets #22",T-Bar Row,61,8
 "Back - Pyramid  5Max, Decrease 5 Sets #22",T-Bar Row,45,12
@@ -9033,9 +9033,9 @@ Push - Shoulders / Bench #25,Bench Press (Barbell),102,8
 Push - Shoulders / Bench #25,Bench Press (Barbell),120,8
 Push - Shoulders / Bench #25,Bench Press (Barbell),122,8
 Push - Shoulders / Bench #25,Bench Press (Barbell),122,8
-Push - Shoulders / Bench #25,Lateral Raise (Dumbbells),22,15
-Push - Shoulders / Bench #25,Lateral Raise (Dumbbells),22,15
-Push - Shoulders / Bench #25,Lateral Raise (Dumbbells),22,15
+Push - Shoulders / Bench #25,Lateral Raise (Dumbbell),22,15
+Push - Shoulders / Bench #25,Lateral Raise (Dumbbell),22,15
+Push - Shoulders / Bench #25,Lateral Raise (Dumbbell),22,15
 Squat Light #1,Squat (Barbell),102,5
 Squat Light #1,Squat (Barbell),124,5
 Squat Light #1,Squat (Barbell),129,6
@@ -9055,21 +9055,21 @@ Squat Light #1,Romanian Deadlift (Barbell),88,7
 "Back - Pyramid  5Max, Decrease 5 Sets #23",Face Pull,36,15
 "Back - Pyramid  5Max, Decrease 5 Sets #23",Face Pull,36,15
 "Back - Pyramid  5Max, Decrease 5 Sets #23",Face Pull,36,15
-Push - Incline #29,Incline Bench Press (Barbell),83,8
-Push - Incline #29,Incline Bench Press (Barbell),111,8
-Push - Incline #29,Incline Bench Press (Barbell),113,8
-Push - Incline #29,Incline Bench Press (Barbell),113,8
-Push - Incline #29,Incline Bench Press (Barbell),117,6
-Push - Incline #29,Incline Bench Press (Barbell),106,8
+Push - Incline #29,Incline Bench Press,83,8
+Push - Incline #29,Incline Bench Press,111,8
+Push - Incline #29,Incline Bench Press,113,8
+Push - Incline #29,Incline Bench Press,113,8
+Push - Incline #29,Incline Bench Press,117,6
+Push - Incline #29,Incline Bench Press,106,8
 Push - Incline #29,Incline Press (Dumbbell),72,10
 Push - Incline #29,Incline Press (Dumbbell),72,10
 Push - Incline #29,Incline Press (Dumbbell),72,10
 Push - Incline #29,Weighted Dips,9,10
 Push - Incline #29,Weighted Dips,9,10
 Push - Incline #29,Weighted Dips,9,12
-Push - Incline #29,Lateral Raise (Dumbbells),22,15
-Push - Incline #29,Lateral Raise (Dumbbells),22,12
-Push - Incline #29,Lateral Raise (Dumbbells),22,10
+Push - Incline #29,Lateral Raise (Dumbbell),22,15
+Push - Incline #29,Lateral Raise (Dumbbell),22,12
+Push - Incline #29,Lateral Raise (Dumbbell),22,10
 Legs - Heavy #26,Squat (Barbell),102,5
 Legs - Heavy #26,Squat (Barbell),124,5
 Legs - Heavy #26,Squat (Barbell),142,5
@@ -9137,18 +9137,18 @@ Back- Heavy 3X8 Chins #1,Hammer Row - Wide Grip,92,15
 Back- Heavy 3X8 Chins #1,Hammer Row - Wide Grip,92,15
 Back- Heavy 3X8 Chins #1,Hammer Curl,27,10
 Back- Heavy 3X8 Chins #1,Hammer Curl,27,10
-Push - Incline #30,Incline Bench Press (Barbell),113,8
-Push - Incline #30,Incline Bench Press (Barbell),113,8
-Push - Incline #30,Incline Bench Press (Barbell),113,8
-Push - Incline #30,Incline Bench Press (Barbell),113,8
-Push - Incline #30,Incline Bench Press (Barbell),120,6
+Push - Incline #30,Incline Bench Press,113,8
+Push - Incline #30,Incline Bench Press,113,8
+Push - Incline #30,Incline Bench Press,113,8
+Push - Incline #30,Incline Bench Press,113,8
+Push - Incline #30,Incline Bench Press,120,6
 Push - Incline #30,Incline Press (Dumbbell),81,10
 Push - Incline #30,Incline Press (Dumbbell),81,11
 Push - Incline #30,Overhead Press (Dumbbell),45,10
 Push - Incline #30,Overhead Press (Dumbbell),45,10
-Push - Incline #30,Lateral Raise (Dumbbells),27,12
-Push - Incline #30,Lateral Raise (Dumbbells),27,12
-Push - Incline #30,Lateral Raise (Dumbbells),18,16
+Push - Incline #30,Lateral Raise (Dumbbell),27,12
+Push - Incline #30,Lateral Raise (Dumbbell),27,12
+Push - Incline #30,Lateral Raise (Dumbbell),18,16
 Legs - Heavy #27,Squat (Barbell),102,5
 Legs - Heavy #27,Squat (Barbell),124,3
 Legs - Heavy #27,Squat (Barbell),142,5
@@ -9189,8 +9189,8 @@ Push - Shoulders / Bench #27,Bench Press (Barbell),111,8
 Push - Shoulders / Bench #27,Bench Press (Barbell),111,9
 Push - Shoulders / Bench #27,Bench Press (Barbell),111,9
 Push - Shoulders / Bench #27,Bench Press (Barbell),113,9
-Push - Shoulders / Bench #27,Lateral Raise (Dumbbells),22,13
-Push - Shoulders / Bench #27,Lateral Raise (Dumbbells),22,13
+Push - Shoulders / Bench #27,Lateral Raise (Dumbbell),22,13
+Push - Shoulders / Bench #27,Lateral Raise (Dumbbell),22,13
 Legs - Heavy #28,Squat (Barbell),102,5
 Legs - Heavy #28,Squat (Barbell),124,6
 Legs - Heavy #28,Squat (Barbell),147,5
@@ -9207,10 +9207,10 @@ Legs - Heavy #28,Romanian Deadlift (Barbell),102,5
 "Back - Pyramid  5Max, Decrease 5 Sets #25",Chin Up,22,10
 "Back - Pyramid  5Max, Decrease 5 Sets #25",Chin Up,22,8
 "Back - Pyramid  5Max, Decrease 5 Sets #25",Chin Up,22,8
-Push - Incline #31,Incline Bench Press (Barbell),111,8
-Push - Incline #31,Incline Bench Press (Barbell),111,8
-Push - Incline #31,Incline Bench Press (Barbell),113,8
-Push - Incline #31,Incline Bench Press (Barbell),115,7
+Push - Incline #31,Incline Bench Press,111,8
+Push - Incline #31,Incline Bench Press,111,8
+Push - Incline #31,Incline Bench Press,113,8
+Push - Incline #31,Incline Bench Press,115,7
 Push - Incline #31,Incline Press (Dumbbell),77,12
 Push - Incline #31,Incline Press (Dumbbell),81,12
 Push - Incline #31,Incline Press (Dumbbell),86,10
@@ -9283,12 +9283,12 @@ Squat Light #4,Romanian Deadlift (Barbell),92,6
 Squat Light #4,Romanian Deadlift (Barbell),92,8
 Squat Light #4,Leg Press (Hinge),163,10
 Squat Light #4,Leg Press (Hinge),213,10
-Push - Incline #32,Incline Bench Press (Barbell),111,8
-Push - Incline #32,Incline Bench Press (Barbell),120,5
-Push - Incline #32,Incline Bench Press (Barbell),120,5
-Push - Incline #32,Incline Bench Press (Barbell),120,6
-Push - Incline #32,Incline Bench Press (Barbell),106,8
-Push - Incline #32,Incline Bench Press (Barbell),83,5
+Push - Incline #32,Incline Bench Press,111,8
+Push - Incline #32,Incline Bench Press,120,5
+Push - Incline #32,Incline Bench Press,120,5
+Push - Incline #32,Incline Bench Press,120,6
+Push - Incline #32,Incline Bench Press,106,8
+Push - Incline #32,Incline Bench Press,83,5
 Push - Incline #32,Incline Press (Dumbbell),81,10
 Push - Incline #32,Incline Press (Dumbbell),81,12
 Push - Incline #32,Incline Press (Dumbbell),68,12
@@ -9363,11 +9363,11 @@ Squat Light #5,Romanian Deadlift (Barbell),102,6
 Squat Light #5,Romanian Deadlift (Barbell),102,7
 Squat Light #5,Romanian Deadlift (Barbell),106,6
 Squat Light #5,Romanian Deadlift (Barbell),106,6
-Push - Incline #33,Incline Bench Press (Barbell),113,8
-Push - Incline #33,Incline Bench Press (Barbell),113,8
-Push - Incline #33,Incline Bench Press (Barbell),120,6
-Push - Incline #33,Incline Bench Press (Barbell),122,5
-Push - Incline #33,Incline Bench Press (Barbell),102,12
+Push - Incline #33,Incline Bench Press,113,8
+Push - Incline #33,Incline Bench Press,113,8
+Push - Incline #33,Incline Bench Press,120,6
+Push - Incline #33,Incline Bench Press,122,5
+Push - Incline #33,Incline Bench Press,102,12
 Push - Incline #33,Incline Press (Dumbbell),86,10
 Push - Incline #33,Incline Press (Dumbbell),90,8
 Back- Heavy 3X8 Chins #3,Chin Up,31,8
@@ -9412,8 +9412,8 @@ Push - Shoulders / Bench #30,Bench Press (Barbell),133,5
 Push - Shoulders / Bench #30,Bench Press (Barbell),133,5
 Push - Shoulders / Bench #30,Bench Press (Barbell),136,5
 Push - Shoulders / Bench #30,Bench Press (Barbell),124,5
-Push - Shoulders / Bench #30,Lateral Raise (Dumbbells),22,13
-Push - Shoulders / Bench #30,Lateral Raise (Dumbbells),22,15
+Push - Shoulders / Bench #30,Lateral Raise (Dumbbell),22,13
+Push - Shoulders / Bench #30,Lateral Raise (Dumbbell),22,15
 Pulls  #6,Hammer Row - Wide Grip,81,10
 Pulls  #6,Hammer Row - Wide Grip,113,10
 Pulls  #6,Hammer Row - Wide Grip,113,10
@@ -9430,12 +9430,12 @@ Pulls  #6,Hammer Seated Row (Close Grip),90,10
 Pulls  #6,Bicep Curl (Barbell),43,10
 Pulls  #6,Bicep Curl (Barbell),38,10
 Pulls  #6,Hammer Curl,31,8
-Push - Incline #34,Incline Bench Press (Barbell),115,8
-Push - Incline #34,Incline Bench Press (Barbell),115,8
-Push - Incline #34,Incline Bench Press (Barbell),124,5
-Push - Incline #34,Incline Bench Press (Barbell),111,6
-Push - Incline #34,Incline Bench Press (Barbell),111,6
-Push - Incline #34,Incline Bench Press (Barbell),102,8
+Push - Incline #34,Incline Bench Press,115,8
+Push - Incline #34,Incline Bench Press,115,8
+Push - Incline #34,Incline Bench Press,124,5
+Push - Incline #34,Incline Bench Press,111,6
+Push - Incline #34,Incline Bench Press,111,6
+Push - Incline #34,Incline Bench Press,102,8
 Push - Incline #34,Seated Shoulder  Press (Barbell),88,8
 Push - Incline #34,Seated Shoulder  Press (Barbell),88,8
 Squat Light #6,Squat (Barbell),102,5
@@ -9505,12 +9505,12 @@ Legs - Heavy #31,Romanian Deadlift (Barbell),83,6
 "Back - Light Chins, 8-10 Reps #24",Hammer Row - Wide Grip,108,10
 "Back - Light Chins, 8-10 Reps #24",Hammer Row - Wide Grip,108,10
 "Back - Light Chins, 8-10 Reps #24",Hammer Row - Wide Grip,104,10
-Push - Incline #35,Incline Bench Press (Barbell),124,5
-Push - Incline #35,Incline Bench Press (Barbell),124,4
-Push - Incline #35,Incline Bench Press (Barbell),115,5
-Push - Incline #35,Incline Bench Press (Barbell),115,6
-Push - Incline #35,Incline Bench Press (Barbell),106,10
-Push - Incline #35,Incline Bench Press (Barbell),106,10
+Push - Incline #35,Incline Bench Press,124,5
+Push - Incline #35,Incline Bench Press,124,4
+Push - Incline #35,Incline Bench Press,115,5
+Push - Incline #35,Incline Bench Press,115,6
+Push - Incline #35,Incline Bench Press,106,10
+Push - Incline #35,Incline Bench Press,106,10
 Push - Incline #35,Weighted Dips,0,12
 Push - Incline #35,Weighted Dips,27,11
 Push - Incline #35,Weighted Dips,43,9
@@ -9546,9 +9546,9 @@ Push - Shoulders / Bench #32,Bench Press (Barbell),133,5
 Push - Shoulders / Bench #32,Bench Press (Barbell),136,5
 Push - Shoulders / Bench #32,Bench Press (Barbell),124,5
 Push - Shoulders / Bench #32,Bench Press (Barbell),104,12
-Back Easy #1,Lat Pulldown ,77,10
-Back Easy #1,Lat Pulldown ,77,10
-Back Easy #1,Lat Pulldown ,77,10
+Back Easy #1,Lat Pulldown,77,10
+Back Easy #1,Lat Pulldown,77,10
+Back Easy #1,Lat Pulldown,77,10
 Back Easy #1,T-Bar Row,61,8
 Back Easy #1,T-Bar Row,61,8
 Back Easy #1,T-Bar Row,63,8
@@ -9574,14 +9574,14 @@ Legs - Heavy #32,Romanian Deadlift (Barbell),106,8
 Legs - Heavy #32,Romanian Deadlift (Barbell),106,8
 Legs - Heavy #32,Romanian Deadlift (Barbell),111,8
 Legs - Heavy #32,Romanian Deadlift (Barbell),111,8
-Push - Incline #36,Incline Bench Press (Barbell),102,4
-Push - Incline #36,Incline Bench Press (Barbell),120,5
-Push - Incline #36,Incline Bench Press (Barbell),120,5
-Push - Incline #36,Incline Bench Press (Barbell),120,5
-Push - Incline #36,Incline Bench Press (Barbell),120,5
-Push - Incline #36,Incline Bench Press (Barbell),122,5
-Push - Incline #36,Lateral Raise (Dumbbells),18,15
-Push - Incline #36,Lateral Raise (Dumbbells),22,12
+Push - Incline #36,Incline Bench Press,102,4
+Push - Incline #36,Incline Bench Press,120,5
+Push - Incline #36,Incline Bench Press,120,5
+Push - Incline #36,Incline Bench Press,120,5
+Push - Incline #36,Incline Bench Press,120,5
+Push - Incline #36,Incline Bench Press,122,5
+Push - Incline #36,Lateral Raise (Dumbbell),18,15
+Push - Incline #36,Lateral Raise (Dumbbell),22,12
 Push - Incline #36,Low Incline Dumbbell Bench,95,8
 Push - Incline #36,Low Incline Dumbbell Bench,90,10
 Push - Incline #36,Low Incline Dumbbell Bench,90,12
@@ -9653,15 +9653,15 @@ Squat Light #10,Romanian Deadlift (Barbell),83,8
 Squat Light #10,Romanian Deadlift (Barbell),106,6
 Squat Light #10,Romanian Deadlift (Barbell),106,6
 Squat Light #10,Romanian Deadlift (Barbell),106,6
-Push - Incline #37,Incline Bench Press (Barbell),102,5
-Push - Incline #37,Incline Bench Press (Barbell),122,5
-Push - Incline #37,Incline Bench Press (Barbell),122,5
-Push - Incline #37,Incline Bench Press (Barbell),122,6
-Push - Incline #37,Incline Bench Press (Barbell),122,5
-Push - Incline #37,Incline Bench Press (Barbell),122,5
-Push - Incline #37,Lateral Raise (Dumbbells),22,12
-Push - Incline #37,Lateral Raise (Dumbbells),22,12
-Push - Incline #37,Lateral Raise (Dumbbells),22,12
+Push - Incline #37,Incline Bench Press,102,5
+Push - Incline #37,Incline Bench Press,122,5
+Push - Incline #37,Incline Bench Press,122,5
+Push - Incline #37,Incline Bench Press,122,6
+Push - Incline #37,Incline Bench Press,122,5
+Push - Incline #37,Incline Bench Press,122,5
+Push - Incline #37,Lateral Raise (Dumbbell),22,12
+Push - Incline #37,Lateral Raise (Dumbbell),22,12
+Push - Incline #37,Lateral Raise (Dumbbell),22,12
 Push - Incline #37,Low Incline Dumbbell Bench,86,11
 Push - Incline #37,Low Incline Dumbbell Bench,86,10
 Push - Incline #37,Incline Press (Dumbbell),77,11
@@ -9715,9 +9715,9 @@ Push - Shoulders / Bench #34,Bench Press (Barbell),124,5
 Push - Shoulders / Bench #34,Bench Press (Barbell),124,5
 Push - Shoulders / Bench #34,Bench Press (Barbell),127,6
 Push - Shoulders / Bench #34,Bench Press (Barbell),127,5
-Push - Shoulders / Bench #34,Lateral Raise (Dumbbells),22,12
-Push - Shoulders / Bench #34,Lateral Raise (Dumbbells),22,12
-Push - Shoulders / Bench #34,Lateral Raise (Dumbbells),22,12
+Push - Shoulders / Bench #34,Lateral Raise (Dumbbell),22,12
+Push - Shoulders / Bench #34,Lateral Raise (Dumbbell),22,12
+Push - Shoulders / Bench #34,Lateral Raise (Dumbbell),22,12
 Back- Heavy 3X8 Chins #6,Chin Up,22,9
 Back- Heavy 3X8 Chins #6,Chin Up,23,8
 Back- Heavy 3X8 Chins #6,Chin Up,24,9
@@ -9744,12 +9744,12 @@ Squat Light #11,Squat (Barbell),102,8
 Squat Light #11,Leg Press (Hinge),285,10
 Squat Light #11,Leg Press (Hinge),285,10
 Squat Light #11,Leg Press (Hinge),285,10
-Push - Incline #38,Incline Bench Press (Barbell),102,5
-Push - Incline #38,Incline Bench Press (Barbell),120,5
-Push - Incline #38,Incline Bench Press (Barbell),120,5
-Push - Incline #38,Incline Bench Press (Barbell),122,5
-Push - Incline #38,Incline Bench Press (Barbell),124,5
-Push - Incline #38,Incline Bench Press (Barbell),124,5
+Push - Incline #38,Incline Bench Press,102,5
+Push - Incline #38,Incline Bench Press,120,5
+Push - Incline #38,Incline Bench Press,120,5
+Push - Incline #38,Incline Bench Press,122,5
+Push - Incline #38,Incline Bench Press,124,5
+Push - Incline #38,Incline Bench Press,124,5
 Push - Incline #38,Low Incline Dumbbell Bench,95,9
 Push - Incline #38,Low Incline Dumbbell Bench,95,8
 Push - Incline #38,Low Incline Dumbbell Bench,90,10
@@ -9798,8 +9798,8 @@ Push - Shoulders / Bench #35,Bench Press (Barbell),127,5
 Push - Shoulders / Bench #35,Bench Press (Barbell),129,5
 Push - Shoulders / Bench #35,Bench Press (Barbell),129,5
 Push - Shoulders / Bench #35,Bench Press (Barbell),133,5
-Push - Shoulders / Bench #35,Lateral Raise (Dumbbells),22,15
-Push - Shoulders / Bench #35,Lateral Raise (Dumbbells),22,15
+Push - Shoulders / Bench #35,Lateral Raise (Dumbbell),22,15
+Push - Shoulders / Bench #35,Lateral Raise (Dumbbell),22,15
 Push - Shoulders / Bench #35,Weighted Dips,0,12
 Push - Shoulders / Bench #35,Weighted Dips,0,12
 Back Workout,Chin Up,0,10
@@ -9824,11 +9824,11 @@ Legs - Heavy #33,Squat (Barbell),172,5
 Legs - Heavy #33,Leg Press (Hinge),285,10
 Legs - Heavy #33,Leg Press (Hinge),294,10
 Legs - Heavy #33,Leg Press (Hinge),294,10
-Push - Incline #39,Incline Bench Press (Barbell),102,3
-Push - Incline #39,Incline Bench Press (Barbell),122,5
-Push - Incline #39,Incline Bench Press (Barbell),122,5
-Push - Incline #39,Incline Bench Press (Barbell),122,5
-Push - Incline #39,Incline Bench Press (Barbell),124,5
+Push - Incline #39,Incline Bench Press,102,3
+Push - Incline #39,Incline Bench Press,122,5
+Push - Incline #39,Incline Bench Press,122,5
+Push - Incline #39,Incline Bench Press,122,5
+Push - Incline #39,Incline Bench Press,124,5
 Push - Incline #39,Incline Press (Dumbbell),72,10
 Push - Incline #39,Incline Press (Dumbbell),81,10
 Push - Incline #39,Incline Press (Dumbbell),81,8
@@ -9874,8 +9874,8 @@ Push - Shoulders / Bench #36,Bench Press (Barbell),133,5
 Push - Shoulders / Bench #36,Bench Press (Barbell),133,5
 Push - Shoulders / Bench #36,Bench Press (Barbell),133,5
 Push - Shoulders / Bench #36,Bench Press (Barbell),138,3
-Push - Shoulders / Bench #36,Lateral Raise (Dumbbells),22,15
-Push - Shoulders / Bench #36,Lateral Raise (Dumbbells),22,15
+Push - Shoulders / Bench #36,Lateral Raise (Dumbbell),22,15
+Push - Shoulders / Bench #36,Lateral Raise (Dumbbell),22,15
 Push - Shoulders / Bench #36,Low Incline Dumbbell Bench,77,10
 Push - Shoulders / Bench #36,Low Incline Dumbbell Bench,77,10
 Legs - Heavy #34,Squat (Barbell),102,5
@@ -9920,14 +9920,14 @@ Back Day 1 #4,Hammer Seated Row (Close Grip),117,10
 Back Day 1 #4,Hammer Seated Row (Close Grip),117,10
 Back Day 1 #4,Bicep Curl (Barbell),38,10
 Back Day 1 #4,Bicep Curl (Barbell),38,12
-Push - Incline #40,Incline Bench Press (Barbell),120,6
-Push - Incline #40,Incline Bench Press (Barbell),120,6
-Push - Incline #40,Incline Bench Press (Barbell),120,6
-Push - Incline #40,Incline Bench Press (Barbell),120,6
-Push - Incline #40,Incline Bench Press (Barbell),122,5
+Push - Incline #40,Incline Bench Press,120,6
+Push - Incline #40,Incline Bench Press,120,6
+Push - Incline #40,Incline Bench Press,120,6
+Push - Incline #40,Incline Bench Press,120,6
+Push - Incline #40,Incline Bench Press,122,5
 Push - Incline #40,Low Incline Dumbbell Bench,77,12
 Push - Incline #40,Low Incline Dumbbell Bench,77,12
 Push - Incline #40,Low Incline Dumbbell Bench,77,15
-Push - Incline #40,Lateral Raise (Dumbbells),22,15
-Push - Incline #40,Lateral Raise (Dumbbells),22,15
-Push - Incline #40,Lateral Raise (Dumbbells),22,15
+Push - Incline #40,Lateral Raise (Dumbbell),22,15
+Push - Incline #40,Lateral Raise (Dumbbell),22,15
+Push - Incline #40,Lateral Raise (Dumbbell),22,15
